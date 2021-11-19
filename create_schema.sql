@@ -5,8 +5,8 @@ set search_path to EducationStatus;
 
 -- Country code for each country
 CREATE TABLE Country (
-    name TEXT NOT NULL,
     code TEXT NOT NULL,
+    name TEXT NOT NULL,
     PRIMARY KEY (code)
 );
 
@@ -24,6 +24,7 @@ CREATE TABLE Institution (
 	uID INT NOT NULL,
 	sector TEXT NOT NULL,
 	studentRate FLOAT NOT NULL,
+    employmentType TEXT, 
     year TIMESTAMP,
 	PRIMARY KEY (uID, sector)
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
@@ -39,7 +40,7 @@ CREATE TABLE FieldStudy (
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
 );
 
--- Enrollment rate in different institution sectors.
+-- Employment rate in different institution sectors.
 CREATE TABLE EarnType (
 	uID INT NOT NULL,
 	type TEXT NOT NULL,
