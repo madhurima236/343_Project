@@ -10,11 +10,11 @@ CREATE TABLE Country (
     PRIMARY KEY (code)
 );
 
--- Employment Rate by Gender in each country.
-CREATE TABLE Gender (
+-- Unemployment Rate by Gender in each country.
+CREATE TABLE GenderUnemployment (
 	countryCode TEXT NOT NULL,
 	gender TEXT NOT NULL,
-	empRate FLOAT NOT NULL,
+	unempRate FLOAT NOT NULL,
 	PRIMARY KEY (countryCode)
     FOREIGN KEY (countryCode) REFERENCES Country(code)
 );
@@ -49,7 +49,7 @@ CREATE TABLE EarnType (
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
 );
 
-
+-- Education level division for each country
 CREATE TABLE EducationLevel (
 	uID INT NOT NULL,
 	countryCode TEXT NOT NULL,
