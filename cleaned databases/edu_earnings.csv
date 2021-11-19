@@ -1,0 +1,1616 @@
+,COUNTRY,Country,ISC11A.1,Gender,Age,EARN_CATEGORY.1,Reference Period,Value
+1,FIN,Finland,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2018.0,7.504321
+2,KOR,Korea,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,23.13791
+4,ESP,Spain,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2018.0,16.3371
+5,CAN,Canada,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2018.0,57.60789
+7,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,9.804529
+8,ESP,Spain,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2018.0,34.66573
+9,SWE,Sweden,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,51.0417
+10,SWE,Sweden,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,12.85634
+13,SWE,Sweden,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,8.234279
+17,KOR,Korea,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,49.51765
+19,NZL,New Zealand,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,11.54719
+22,NOR,Norway,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,19.03654
+23,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,26.17858
+24,IRL,Ireland,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,6.980418
+26,MEX,Mexico,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2018.0,21.1797
+27,DNK,Denmark,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2019.0,33.84547
+28,DNK,Denmark,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,53.31398
+29,AUT,Austria,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,14.4903
+31,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,72.61586
+32,KOR,Korea,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,26.99308
+33,DEU,Germany,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,44.50391
+34,GBR,United Kingdom,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,33.83305
+36,DNK,Denmark,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,11.4949
+38,DEU,Germany,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,71.2705
+40,FIN,Finland,Short-cycle tertiary education,Total,25-64 years,No earnings,2018.0,12.99906
+41,AUT,Austria,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,27.31741
+45,LVA,Latvia,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,16.96926
+46,FIN,Finland,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2018.0,48.66034
+48,DNK,Denmark,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,62.81446
+57,FIN,Finland,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2018.0,12.58507
+59,CHL,Chile,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2017.0,33.43915
+61,ISR,Israel,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2018.0,21.47935
+62,CHL,Chile,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2017.0,14.6067
+66,DNK,Denmark,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,10.50102
+67,EST,Estonia,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,90.51717
+69,FRA,France,Short-cycle tertiary education,Women,55-64 years,No earnings,2017.0,32.43764
+71,FRA,France,Short-cycle tertiary education,Women,25-34 years,No earnings,2017.0,4.040461
+73,CAN,Canada,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2018.0,30.44503
+74,LVA,Latvia,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,79.24621
+75,KOR,Korea,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,9.884011
+80,ESP,Spain,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2018.0,67.4025
+81,AUT,Austria,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,38.08595
+83,NOR,Norway,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,15.83212
+86,LVA,Latvia,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,20.30671
+93,KOR,Korea,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,5.890213
+94,CHL,Chile,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2017.0,47.42095
+95,CHL,Chile,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2017.0,55.02224
+96,AUT,Austria,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,4.537945
+97,CAN,Canada,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2018.0,31.05879
+100,ESP,Spain,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2018.0,76.46637
+104,DNK,Denmark,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,39.4588
+105,FRA,France,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2017.0,77.85474
+107,CHL,Chile,Short-cycle tertiary education,Men,55-64 years,No earnings,2017.0,17.90461
+109,CHL,Chile,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2017.0,44.08575
+111,ISR,Israel,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2018.0,9.555942
+113,CAN,Canada,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2018.0,42.23798
+115,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,17.31984
+117,ESP,Spain,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2018.0,7.316446
+123,GBR,United Kingdom,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,31.23135
+124,FIN,Finland,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2018.0,99.27426
+127,KOR,Korea,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,74.69888
+132,AUT,Austria,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,37.69808
+133,CRI,Costa Rica,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,90.0461
+135,GBR,United Kingdom,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,85.58749
+138,ISR,Israel,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2018.0,73.73625
+140,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,16.01259
+141,IRL,Ireland,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2019.0,13.71812
+143,DEU,Germany,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,29.43979
+145,SWE,Sweden,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,21.14771
+146,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,15.2166
+149,NOR,Norway,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,68.95889
+150,AUT,Austria,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,18.9685
+151,ISR,Israel,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2018.0,67.68801
+152,GBR,United Kingdom,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2019.0,5.985296
+154,ESP,Spain,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2018.0,26.42737
+156,ESP,Spain,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2018.0,61.22869
+157,DEU,Germany,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,17.13378
+160,SWE,Sweden,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,12.28525
+162,CAN,Canada,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2018.0,28.90288
+163,FIN,Finland,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2018.0,14.25402
+167,NZL,New Zealand,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,57.89885
+168,FIN,Finland,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2018.0,10.34266
+170,ISR,Israel,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2018.0,83.66789
+172,IRL,Ireland,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,43.90848
+175,LUX,Luxembourg,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,75.80883
+176,CAN,Canada,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2018.0,61.20871
+177,USA,United States,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,16.44211
+178,NOR,Norway,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,31.20271
+180,IRL,Ireland,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,10.94928
+181,SWE,Sweden,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,56.62543
+186,NOR,Norway,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,5.057503
+188,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,35.30693
+189,SWE,Sweden,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,7.396576
+191,DEU,Germany,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,14.92462
+193,DEU,Germany,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,38.07384
+197,GBR,United Kingdom,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,34.77751
+201,KOR,Korea,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,44.36774
+205,LVA,Latvia,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,84.02367
+207,IRL,Ireland,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2019.0,34.99918
+210,AUT,Austria,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,30.36258
+211,DNK,Denmark,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,58.86534
+213,NOR,Norway,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,16.42482
+214,EST,Estonia,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,15.49201
+220,KOR,Korea,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,7.962772
+221,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,67.42122
+227,EST,Estonia,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,4.797308
+229,CHL,Chile,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2017.0,34.89616
+231,DNK,Denmark,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,8.542972
+234,USA,United States,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,19.65629
+235,GBR,United Kingdom,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,8.933114
+236,SWE,Sweden,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,6.479166
+238,BEL,Belgium,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2018.0,31.00955
+239,ESP,Spain,Short-cycle tertiary education,Women,25-64 years,No earnings,2018.0,14.43748
+240,IRL,Ireland,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,41.6237
+243,MEX,Mexico,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2018.0,10.3104
+244,ISR,Israel,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2018.0,48.40757
+245,IRL,Ireland,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,66.94767
+246,USA,United States,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,18.24387
+248,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,14.19063
+251,GBR,United Kingdom,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,23.3105
+252,CHL,Chile,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2017.0,45.50831
+254,CAN,Canada,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2018.0,51.65987
+255,FRA,France,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2017.0,28.29107
+256,CHL,Chile,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2017.0,7.07074
+260,CAN,Canada,Short-cycle tertiary education,Total,25-64 years,No earnings,2018.0,12.75306
+262,FIN,Finland,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2018.0,79.69455
+265,AUT,Austria,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,57.51112
+269,NOR,Norway,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,6.833445
+272,IRL,Ireland,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,28.73304
+273,CRI,Costa Rica,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,94.69273
+277,DNK,Denmark,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,29.02977
+278,ESP,Spain,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2018.0,15.109
+282,FIN,Finland,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2018.0,12.96509
+283,ISR,Israel,Short-cycle tertiary education,Total,25-34 years,No earnings,2018.0,20.29962
+284,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,11.84206
+289,IRL,Ireland,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,67.41072
+292,ESP,Spain,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2018.0,23.49201
+293,CHL,Chile,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2017.0,41.87799
+296,NZL,New Zealand,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,50.78788
+299,USA,United States,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,11.77387
+300,NOR,Norway,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,3.80664
+302,NOR,Norway,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,22.46474
+303,NZL,New Zealand,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,18.29537
+304,SWE,Sweden,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,42.47914
+305,GBR,United Kingdom,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,27.15405
+308,FIN,Finland,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2018.0,8.075139
+309,SWE,Sweden,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2019.0,35.14029
+310,USA,United States,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,69.41277
+311,SWE,Sweden,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2019.0,23.43258
+312,CAN,Canada,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2018.0,38.78209
+313,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,19.34958
+314,NOR,Norway,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,3.660237
+316,IRL,Ireland,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,24.30979
+317,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,6.18659
+320,MEX,Mexico,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2018.0,0.8955588
+323,MEX,Mexico,Short-cycle tertiary education,Total,25-34 years,No earnings,2018.0,3.424738
+324,LUX,Luxembourg,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,54.13124
+325,FRA,France,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2017.0,59.00029
+330,FRA,France,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2017.0,82.46439
+333,DEU,Germany,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,24.34273
+336,FIN,Finland,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2018.0,7.822044
+339,KOR,Korea,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,58.04825
+340,CHE,Switzerland,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,17.96968
+341,AUT,Austria,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,14.2886
+342,MEX,Mexico,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2018.0,86.26486
+344,AUT,Austria,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,9.389571
+345,EST,Estonia,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,28.8685
+346,USA,United States,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,69.33676
+347,FRA,France,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2017.0,67.66846
+350,ISR,Israel,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2018.0,12.38734
+353,NOR,Norway,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,9.679548
+357,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,16.34683
+359,FIN,Finland,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2018.0,79.59277
+363,CHL,Chile,Short-cycle tertiary education,Women,25-34 years,No earnings,2017.0,21.29244
+366,USA,United States,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,71.50673
+369,EST,Estonia,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,9.746156
+372,USA,United States,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,11.94537
+374,CAN,Canada,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2018.0,38.45031
+376,NZL,New Zealand,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,14.02647
+377,AUT,Austria,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,43.63927
+380,ISR,Israel,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2018.0,25.91141
+383,KOR,Korea,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,39.7452
+384,AUT,Austria,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,66.25179
+391,CHL,Chile,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2017.0,41.02822
+392,DNK,Denmark,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,35.44015
+393,CHL,Chile,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2017.0,24.44093
+394,ESP,Spain,Short-cycle tertiary education,Men,25-34 years,No earnings,2018.0,11.19644
+396,AUT,Austria,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,55.80688
+398,KOR,Korea,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,4.960086
+399,ESP,Spain,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2018.0,17.67428
+402,MEX,Mexico,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2018.0,21.46087
+403,AUT,Austria,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2019.0,14.07315
+407,CHL,Chile,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2017.0,28.88436
+408,SWE,Sweden,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,61.99002
+409,USA,United States,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,13.90993
+413,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,66.53046
+414,DNK,Denmark,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,10.97948
+415,KOR,Korea,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,66.54229
+416,NZL,New Zealand,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,20.87948
+417,ISR,Israel,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2018.0,44.64009
+420,KOR,Korea,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,21.7283
+422,ISR,Israel,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2018.0,22.75605
+423,SWE,Sweden,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,7.783843
+425,CHL,Chile,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2017.0,38.10574
+426,CAN,Canada,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2018.0,34.38943
+431,KOR,Korea,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,40.99315
+433,MEX,Mexico,Short-cycle tertiary education,Men,25-64 years,No earnings,2018.0,0.9565104
+435,USA,United States,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,23.40587
+436,ISR,Israel,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2018.0,29.06563
+439,NZL,New Zealand,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,24.32141
+440,EST,Estonia,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,67.81473
+441,CHE,Switzerland,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,12.99452
+444,EST,Estonia,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,11.36484
+446,DNK,Denmark,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,9.886865
+450,USA,United States,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,6.903603
+452,MEX,Mexico,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2018.0,30.51839
+454,FIN,Finland,Short-cycle tertiary education,Men,25-34 years,No earnings,2018.0,22.83186
+455,GBR,United Kingdom,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,12.65737
+457,DEU,Germany,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,40.61825
+458,CAN,Canada,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2018.0,49.83067
+460,CAN,Canada,Short-cycle tertiary education,Men,25-34 years,No earnings,2018.0,4.336017
+463,FRA,France,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2017.0,21.68582
+464,KOR,Korea,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,68.39893
+466,CHL,Chile,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2017.0,28.63032
+467,USA,United States,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,10.2494
+468,BEL,Belgium,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2018.0,77.33797
+471,IRL,Ireland,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,9.509345
+474,FIN,Finland,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2018.0,17.00961
+476,NZL,New Zealand,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,21.22017
+481,USA,United States,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,10.93093
+485,LUX,Luxembourg,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,84.67445
+487,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,20.01496
+490,DEU,Germany,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,42.12287
+492,NZL,New Zealand,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,10.05552
+493,ISR,Israel,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2018.0,21.13761
+495,NOR,Norway,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,7.977533
+498,CHL,Chile,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2017.0,15.57259
+499,AUT,Austria,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,57.49282
+500,SWE,Sweden,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,23.76741
+501,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,41.05236
+507,LUX,Luxembourg,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,13.19783
+508,GBR,United Kingdom,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,46.44169
+509,IRL,Ireland,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,42.64059
+512,GBR,United Kingdom,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,8.218339
+514,KOR,Korea,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,37.97532
+517,CHE,Switzerland,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,55.52247
+518,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,8.558606
+519,FIN,Finland,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2018.0,7.434514
+521,SWE,Sweden,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,54.239
+522,AUT,Austria,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,48.33165
+525,USA,United States,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,15.40524
+528,LVA,Latvia,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,5.112366
+529,CRI,Costa Rica,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,96.00632
+532,SWE,Sweden,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,52.95499
+534,DNK,Denmark,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,64.88492
+535,NOR,Norway,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,21.92238
+536,BEL,Belgium,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2018.0,11.73623
+537,EST,Estonia,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,21.68796
+538,CAN,Canada,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2018.0,53.51767
+539,AUT,Austria,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,12.95894
+540,DEU,Germany,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,55.63562
+542,ESP,Spain,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2018.0,54.17435
+545,USA,United States,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,13.03481
+546,SWE,Sweden,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,61.83315
+550,ISR,Israel,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2018.0,10.37185
+551,ESP,Spain,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2018.0,9.234821
+554,ISR,Israel,Short-cycle tertiary education,Total,25-64 years,No earnings,2018.0,17.12508
+556,FIN,Finland,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2018.0,88.41945
+558,MEX,Mexico,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2018.0,6.808733
+559,CHL,Chile,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2017.0,43.01271
+560,LUX,Luxembourg,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,45.98976
+564,SWE,Sweden,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,10.36463
+565,LVA,Latvia,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,65.41582
+566,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,18.25714
+568,NZL,New Zealand,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,12.18176
+569,FRA,France,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2017.0,10.24111
+570,DEU,Germany,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,18.99921
+572,BEL,Belgium,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2018.0,31.54744
+573,MEX,Mexico,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2018.0,79.45862
+574,EST,Estonia,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,9.964236
+575,SWE,Sweden,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,63.26711
+577,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,62.27291
+587,CRI,Costa Rica,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,11.06887
+588,USA,United States,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,9.160447
+589,IRL,Ireland,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,47.38258
+590,CAN,Canada,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2018.0,26.54494
+591,NOR,Norway,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,38.24264
+592,EST,Estonia,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,15.35677
+593,DNK,Denmark,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,12.1296
+594,USA,United States,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,79.24171
+595,USA,United States,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,74.33869
+597,ISR,Israel,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2018.0,70.70186
+599,NOR,Norway,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,75.86457
+601,LUX,Luxembourg,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,19.01986
+604,FIN,Finland,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2018.0,16.60762
+606,LVA,Latvia,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,21.12069
+607,CHL,Chile,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2017.0,49.2345
+608,FIN,Finland,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2018.0,13.63357
+609,FIN,Finland,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2018.0,12.14266
+611,FRA,France,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2017.0,9.879487
+613,CHE,Switzerland,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,47.93476
+614,MEX,Mexico,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2018.0,1.624534
+615,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,65.79441
+616,ESP,Spain,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2018.0,59.13515
+618,ESP,Spain,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2018.0,14.21838
+623,NOR,Norway,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,36.09442
+626,KOR,Korea,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,46.7458
+631,SWE,Sweden,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,28.06075
+632,FRA,France,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2017.0,50.11876
+633,NOR,Norway,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,52.37247
+634,AUT,Austria,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,49.19922
+635,CAN,Canada,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2018.0,39.36765
+638,USA,United States,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,20.91541
+639,NZL,New Zealand,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,21.63319
+641,IRL,Ireland,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,55.83788
+646,EST,Estonia,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,73.95506
+647,ISR,Israel,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2018.0,17.37407
+650,ESP,Spain,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2018.0,19.85349
+652,ESP,Spain,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2018.0,14.68976
+654,ESP,Spain,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2018.0,21.01598
+655,CHL,Chile,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2017.0,41.90824
+656,MEX,Mexico,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2018.0,4.232402
+657,EST,Estonia,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,19.74466
+659,CHL,Chile,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2017.0,52.89566
+660,IRL,Ireland,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,53.89828
+661,CAN,Canada,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2018.0,25.24838
+665,CAN,Canada,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2018.0,37.97025
+667,IRL,Ireland,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,25.32944
+668,SWE,Sweden,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,59.55304
+670,FIN,Finland,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2018.0,12.03078
+674,GBR,United Kingdom,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,15.65467
+675,MEX,Mexico,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2018.0,2.393496
+676,EST,Estonia,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,79.01234
+679,ESP,Spain,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2018.0,69.22797
+682,NOR,Norway,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,42.66001
+686,LUX,Luxembourg,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,47.03072
+688,CHL,Chile,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2017.0,23.66019
+691,EST,Estonia,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,11.07423
+693,ISR,Israel,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2018.0,65.18669
+694,DNK,Denmark,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,25.71751
+695,DEU,Germany,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,22.5623
+696,CRI,Costa Rica,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,93.89422
+699,FIN,Finland,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2018.0,6.202363
+701,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,15.21239
+704,CAN,Canada,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2018.0,32.6468
+706,LVA,Latvia,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,2.81759
+707,CAN,Canada,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2018.0,14.00205
+708,FIN,Finland,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2018.0,83.73233
+709,CRI,Costa Rica,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,96.39059
+711,IRL,Ireland,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,53.79713
+713,CAN,Canada,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2018.0,5.7019
+715,MEX,Mexico,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2018.0,61.30326
+716,AUT,Austria,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,5.055417
+717,KOR,Korea,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,65.54264
+718,EST,Estonia,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,14.63949
+719,SWE,Sweden,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,26.42535
+721,BEL,Belgium,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2018.0,27.02689
+722,DNK,Denmark,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,29.1203
+724,NOR,Norway,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,31.1715
+730,DNK,Denmark,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2019.0,25.58572
+731,EST,Estonia,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,90.43742
+735,NOR,Norway,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,12.36721
+738,NOR,Norway,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,2.244902
+740,AUT,Austria,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,43.45418
+741,CAN,Canada,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2018.0,54.80729
+744,SWE,Sweden,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,7.688556
+746,ISR,Israel,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2018.0,55.96027
+751,SWE,Sweden,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,35.39637
+752,IRL,Ireland,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,21.63759
+754,CHE,Switzerland,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,17.34415
+755,FIN,Finland,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2018.0,8.215592
+756,EST,Estonia,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,74.23878
+758,ISR,Israel,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2018.0,67.27921
+760,FRA,France,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2017.0,5.527835
+763,ISR,Israel,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2018.0,15.26517
+764,CAN,Canada,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2018.0,56.32639
+766,BEL,Belgium,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2018.0,60.84614
+767,NOR,Norway,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,58.60755
+768,GBR,United Kingdom,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,69.21225
+770,ESP,Spain,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2018.0,62.00275
+771,IRL,Ireland,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,7.82193
+773,CAN,Canada,Short-cycle tertiary education,Women,25-34 years,No earnings,2018.0,10.30379
+776,AUT,Austria,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,39.13712
+780,NOR,Norway,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,7.676301
+781,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,76.21909
+782,DEU,Germany,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,7.224712
+785,CRI,Costa Rica,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,4.188226
+787,FRA,France,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2017.0,20.2033
+789,IRL,Ireland,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,13.45093
+792,AUT,Austria,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,34.37289
+793,MEX,Mexico,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2018.0,16.59288
+794,AUT,Austria,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,29.20889
+795,CHE,Switzerland,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,34.09557
+796,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,47.48812
+797,MEX,Mexico,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2018.0,62.92924
+798,FRA,France,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2017.0,11.97668
+800,FRA,France,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2017.0,75.0962
+805,FRA,France,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2017.0,4.543143
+808,USA,United States,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,65.24039
+810,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,13.85623
+813,MEX,Mexico,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2018.0,75.72821
+814,GBR,United Kingdom,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,6.213335
+816,DNK,Denmark,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,5.331453
+821,CHE,Switzerland,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,54.3756
+822,GBR,United Kingdom,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,49.45333
+823,LUX,Luxembourg,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,66.61186
+825,EST,Estonia,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,4.866335
+826,USA,United States,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,73.31802
+828,AUT,Austria,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,20.32969
+829,NZL,New Zealand,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,55.25857
+830,NOR,Norway,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,80.36124
+831,CAN,Canada,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2018.0,8.672655
+832,CRI,Costa Rica,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,99.15385
+833,CHL,Chile,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2017.0,6.582622
+835,GBR,United Kingdom,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,34.89209
+837,ISR,Israel,Short-cycle tertiary education,Total,55-64 years,No earnings,2018.0,22.90053
+840,DEU,Germany,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,18.15006
+842,BEL,Belgium,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2018.0,16.91295
+843,CRI,Costa Rica,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,87.54938
+845,SWE,Sweden,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,10.9756
+846,NOR,Norway,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,27.55378
+850,BEL,Belgium,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2018.0,29.79666
+851,GBR,United Kingdom,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,79.20604
+852,CHL,Chile,Short-cycle tertiary education,Women,25-64 years,No earnings,2017.0,26.38899
+853,CAN,Canada,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2018.0,51.52324
+856,USA,United States,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,69.37035
+859,ISR,Israel,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2018.0,24.43686
+860,SWE,Sweden,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,38.17191
+862,LVA,Latvia,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,30.8623
+867,FIN,Finland,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2018.0,93.14153
+868,IRL,Ireland,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,41.6643
+870,MEX,Mexico,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2018.0,11.22792
+871,MEX,Mexico,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2018.0,17.33644
+877,FIN,Finland,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2018.0,35.19178
+880,EST,Estonia,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,74.01974
+881,CRI,Costa Rica,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,2.752262
+885,FIN,Finland,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2018.0,8.018801
+886,ESP,Spain,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2018.0,23.43427
+888,LUX,Luxembourg,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,21.84492
+891,KOR,Korea,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,56.55552
+892,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,26.14478
+893,DNK,Denmark,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,38.51852
+895,CHL,Chile,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2017.0,10.58946
+897,ESP,Spain,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2018.0,18.30769
+901,CAN,Canada,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2018.0,13.35331
+902,CHE,Switzerland,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,20.31849
+907,FRA,France,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2017.0,68.41237
+908,LUX,Luxembourg,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,80.19596
+909,USA,United States,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,77.19139
+911,LVA,Latvia,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,68.03161
+913,FIN,Finland,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2018.0,86.29289
+914,MEX,Mexico,Short-cycle tertiary education,Women,25-34 years,No earnings,2018.0,6.445675
+915,CHL,Chile,Short-cycle tertiary education,Total,55-64 years,No earnings,2017.0,31.47332
+917,EST,Estonia,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,9.037372
+920,MEX,Mexico,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2018.0,1.030859
+921,SWE,Sweden,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,35.22788
+922,ISR,Israel,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2018.0,89.13148
+924,SWE,Sweden,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,27.68884
+926,ESP,Spain,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2018.0,79.2943
+927,DEU,Germany,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,75.27083
+928,USA,United States,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,17.73176
+930,GBR,United Kingdom,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,79.47279
+932,ISR,Israel,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2018.0,81.27027
+933,IRL,Ireland,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,24.36266
+935,DEU,Germany,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2019.0,9.129023
+936,DNK,Denmark,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,68.49596
+937,ESP,Spain,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2018.0,6.487323
+939,DEU,Germany,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,12.47515
+940,KOR,Korea,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,59.24711
+941,AUT,Austria,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,45.27098
+942,KOR,Korea,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,69.94928
+943,ISR,Israel,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2018.0,30.88083
+944,NZL,New Zealand,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,12.17333
+950,ISR,Israel,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2018.0,14.5715
+951,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,28.98048
+952,FIN,Finland,Short-cycle tertiary education,Men,25-64 years,No earnings,2018.0,13.99659
+953,IRL,Ireland,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,2.286636
+955,CAN,Canada,Short-cycle tertiary education,Men,25-64 years,No earnings,2018.0,9.256342
+957,KOR,Korea,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,29.49724
+960,EST,Estonia,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,67.62586
+961,IRL,Ireland,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,19.64655
+963,NOR,Norway,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,47.66044
+964,ISR,Israel,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2018.0,17.68823
+965,FRA,France,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2017.0,73.39032
+967,IRL,Ireland,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,44.71822
+969,CHL,Chile,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2017.0,29.28384
+975,ESP,Spain,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2018.0,61.83881
+977,CAN,Canada,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2018.0,6.979484
+978,DEU,Germany,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,16.25439
+979,FRA,France,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2017.0,84.99672
+981,AUT,Austria,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,10.8298
+983,DNK,Denmark,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,12.92992
+987,IRL,Ireland,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,18.87115
+988,ESP,Spain,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2018.0,29.44729
+989,EST,Estonia,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,75.98988
+992,NOR,Norway,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,12.49308
+996,MEX,Mexico,Short-cycle tertiary education,Total,55-64 years,No earnings,2018.0,4.867998
+997,KOR,Korea,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,41.02761
+998,DNK,Denmark,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,24.50743
+999,AUT,Austria,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,71.57901
+1000,AUT,Austria,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,29.54948
+1003,NZL,New Zealand,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,56.90272
+1004,CHL,Chile,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2017.0,45.2567
+1008,NZL,New Zealand,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,11.18137
+1009,GBR,United Kingdom,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,22.62718
+1012,CHL,Chile,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2017.0,21.71341
+1014,MEX,Mexico,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2018.0,81.14352
+1016,CAN,Canada,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2018.0,32.01504
+1018,USA,United States,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,12.36038
+1019,ESP,Spain,Short-cycle tertiary education,Women,55-64 years,No earnings,2018.0,33.56693
+1022,AUT,Austria,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,7.086227
+1023,USA,United States,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2019.0,15.8729
+1025,FIN,Finland,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2018.0,14.18633
+1030,LVA,Latvia,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,22.87916
+1032,CRI,Costa Rica,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,93.48566
+1033,FIN,Finland,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2018.0,7.850759
+1035,CHE,Switzerland,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,30.14446
+1036,EST,Estonia,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,9.173623
+1037,ESP,Spain,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2018.0,14.75165
+1038,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,14.4466
+1040,DNK,Denmark,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,61.84449
+1047,ESP,Spain,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2018.0,76.07542
+1050,EST,Estonia,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,16.21616
+1054,FIN,Finland,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2018.0,4.867633
+1059,DEU,Germany,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,16.95992
+1060,DNK,Denmark,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,58.16805
+1061,CAN,Canada,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2018.0,30.38157
+1062,GBR,United Kingdom,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,82.94676
+1063,USA,United States,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,16.24373
+1064,GBR,United Kingdom,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,20.63337
+1065,AUT,Austria,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,42.26542
+1066,MEX,Mexico,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2018.0,83.20686
+1067,IRL,Ireland,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,9.794661
+1071,NOR,Norway,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,21.80825
+1072,CHE,Switzerland,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,24.15904
+1074,DEU,Germany,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,8.957382
+1075,ESP,Spain,Short-cycle tertiary education,Total,25-34 years,No earnings,2018.0,9.163228
+1076,KOR,Korea,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,3.057644
+1078,CHL,Chile,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2017.0,40.15798
+1079,FRA,France,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2017.0,73.00282
+1080,ISR,Israel,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2018.0,17.15938
+1085,LUX,Luxembourg,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,54.57384
+1086,IRL,Ireland,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,6.474079
+1088,AUT,Austria,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,6.39636
+1089,GBR,United Kingdom,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,9.625524
+1090,BEL,Belgium,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2018.0,25.75618
+1091,IRL,Ireland,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,13.76473
+1094,CAN,Canada,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2018.0,65.49528
+1096,SWE,Sweden,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,43.30497
+1097,DNK,Denmark,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,62.28468
+1098,ESP,Spain,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2018.0,66.21533
+1102,CHL,Chile,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2017.0,35.69485
+1109,SWE,Sweden,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,6.237347
+1110,USA,United States,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2019.0,17.89269
+1111,IRL,Ireland,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,60.31768
+1113,CAN,Canada,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2018.0,50.91427
+1114,NOR,Norway,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,70.40132
+1115,GBR,United Kingdom,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,11.83103
+1117,KOR,Korea,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,51.33581
+1122,NZL,New Zealand,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,20.42002
+1123,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,17.52473
+1124,NZL,New Zealand,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,84.73705
+1125,CAN,Canada,Short-cycle tertiary education,Women,55-64 years,No earnings,2018.0,27.86582
+1128,NOR,Norway,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,10.771
+1129,CAN,Canada,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2018.0,40.40916
+1130,USA,United States,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,62.03438
+1131,EST,Estonia,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,70.35604
+1132,AUT,Austria,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,37.28507
+1135,CAN,Canada,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2018.0,35.12154
+1136,GBR,United Kingdom,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,7.399319
+1137,FRA,France,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2017.0,5.311368
+1139,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,74.50854
+1140,NOR,Norway,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,66.67072
+1141,FRA,France,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2017.0,7.294495
+1142,IRL,Ireland,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,33.1294
+1144,USA,United States,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,7.403367
+1145,IRL,Ireland,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,73.87937
+1146,CAN,Canada,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2018.0,31.72502
+1147,EST,Estonia,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,12.21138
+1151,BEL,Belgium,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2018.0,54.92143
+1152,NOR,Norway,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,73.39643
+1153,GBR,United Kingdom,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,11.13741
+1157,BEL,Belgium,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2018.0,68.33009
+1158,EST,Estonia,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,8.653354
+1160,LUX,Luxembourg,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,18.99085
+1161,GBR,United Kingdom,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,30.77091
+1162,IRL,Ireland,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,38.16675
+1163,CHE,Switzerland,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,15.48605
+1164,USA,United States,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,58.71459
+1165,EST,Estonia,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,72.09988
+1167,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,7.579021
+1169,BEL,Belgium,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2018.0,62.73081
+1170,NOR,Norway,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,73.20496
+1173,KOR,Korea,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,52.17636
+1174,ESP,Spain,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2018.0,70.82687
+1175,DNK,Denmark,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,51.59462
+1177,KOR,Korea,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,28.25248
+1183,USA,United States,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,22.09272
+1184,NOR,Norway,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,72.27195
+1187,EST,Estonia,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,6.340858
+1188,FIN,Finland,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2018.0,11.28654
+1189,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,13.46179
+1191,DEU,Germany,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,14.67892
+1192,DNK,Denmark,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,6.996604
+1195,FRA,France,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2017.0,16.05877
+1196,CHL,Chile,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2017.0,33.62223
+1197,ISR,Israel,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2018.0,4.979102
+1198,NOR,Norway,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,67.97628
+1200,DNK,Denmark,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,48.42887
+1201,USA,United States,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,20.20384
+1203,DNK,Denmark,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,28.64257
+1204,CHL,Chile,Short-cycle tertiary education,Men,25-34 years,No earnings,2017.0,9.202624
+1205,DNK,Denmark,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,54.4502
+1206,BEL,Belgium,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2018.0,31.36478
+1209,FIN,Finland,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2018.0,85.32627
+1210,EST,Estonia,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,21.84992
+1213,BEL,Belgium,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2018.0,8.118932
+1215,FRA,France,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2017.0,34.3644
+1216,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,76.18172
+1218,FRA,France,Short-cycle tertiary education,Men,25-64 years,No earnings,2017.0,5.51855
+1219,ISR,Israel,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2018.0,10.45599
+1220,CAN,Canada,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2018.0,29.97313
+1221,IRL,Ireland,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,26.07191
+1222,GBR,United Kingdom,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,16.93378
+1223,FRA,France,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2017.0,7.352725
+1224,EST,Estonia,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,5.775942
+1226,ISR,Israel,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2018.0,50.26454
+1227,SWE,Sweden,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,64.68201
+1228,NOR,Norway,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,63.6548
+1229,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,8.160929
+1233,CAN,Canada,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2018.0,50.27014
+1234,ISR,Israel,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2018.0,70.35707
+1235,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,56.87054
+1236,CAN,Canada,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2018.0,12.69323
+1240,FIN,Finland,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2018.0,75.85378
+1242,CHL,Chile,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2017.0,9.882646
+1243,EST,Estonia,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,68.73893
+1244,ESP,Spain,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2018.0,12.35802
+1245,CAN,Canada,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2018.0,49.68972
+1246,FIN,Finland,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2018.0,7.494071
+1247,NOR,Norway,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,23.06357
+1248,ISR,Israel,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2018.0,58.82342
+1249,NOR,Norway,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,24.87053
+1250,EST,Estonia,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,16.01507
+1251,CAN,Canada,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2018.0,32.41935
+1254,KOR,Korea,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,37.31995
+1255,FIN,Finland,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2018.0,6.143206
+1257,FRA,France,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2017.0,17.36215
+1263,BEL,Belgium,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2018.0,48.92076
+1264,FRA,France,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2017.0,41.20897
+1265,BEL,Belgium,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2018.0,38.43929
+1268,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,17.36445
+1270,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,72.80904
+1271,EST,Estonia,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,60.05402
+1273,BEL,Belgium,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2018.0,31.76404
+1274,CHE,Switzerland,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,57.85546
+1277,IRL,Ireland,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,29.40877
+1278,GBR,United Kingdom,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,29.88664
+1279,CHE,Switzerland,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,10.05778
+1280,AUT,Austria,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,37.35429
+1281,SWE,Sweden,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,47.9785
+1283,FIN,Finland,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2018.0,6.967286
+1285,ESP,Spain,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2018.0,63.52862
+1286,DNK,Denmark,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,58.87648
+1287,LUX,Luxembourg,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,64.95724
+1291,ESP,Spain,Short-cycle tertiary education,Men,25-64 years,No earnings,2018.0,8.923588
+1292,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,15.46562
+1294,FIN,Finland,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2018.0,11.21284
+1296,MEX,Mexico,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2018.0,16.82833
+1300,EST,Estonia,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,19.86853
+1301,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,47.56447
+1303,SWE,Sweden,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,61.75825
+1304,FIN,Finland,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2018.0,10.27797
+1305,CHL,Chile,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2017.0,37.33368
+1308,FIN,Finland,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2018.0,90.34326
+1309,MEX,Mexico,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2018.0,58.89481
+1312,CHL,Chile,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2017.0,36.21948
+1313,SWE,Sweden,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,6.016932
+1314,LVA,Latvia,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,6.186094
+1317,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,21.44041
+1322,BEL,Belgium,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2018.0,5.749072
+1323,IRL,Ireland,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,7.190031
+1324,NOR,Norway,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,4.469944
+1331,IRL,Ireland,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,67.77651
+1332,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,30.19357
+1335,KOR,Korea,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,68.79385
+1337,DEU,Germany,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,27.31516
+1338,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,17.91243
+1341,FRA,France,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2017.0,18.93682
+1343,NOR,Norway,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,22.67055
+1345,USA,United States,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,18.09947
+1346,NZL,New Zealand,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,85.39515
+1347,IRL,Ireland,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,9.772294
+1350,KOR,Korea,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,6.616221
+1353,MEX,Mexico,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2018.0,76.79297
+1357,DEU,Germany,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,13.40703
+1358,SWE,Sweden,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,46.80053
+1359,MEX,Mexico,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2018.0,89.61259
+1360,DNK,Denmark,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,12.8606
+1361,USA,United States,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,17.62843
+1362,BEL,Belgium,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2018.0,18.20596
+1363,DNK,Denmark,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,9.440887
+1364,ESP,Spain,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2018.0,19.1746
+1365,USA,United States,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,56.9945
+1366,DNK,Denmark,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,6.590106
+1368,IRL,Ireland,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,12.91888
+1370,ISR,Israel,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2018.0,87.42513
+1372,ESP,Spain,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2018.0,4.624225
+1376,CRI,Costa Rica,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,2.98
+1379,BEL,Belgium,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2018.0,30.12878
+1380,ISR,Israel,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2018.0,78.57863
+1382,NOR,Norway,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,34.1003
+1387,AUT,Austria,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,56.51957
+1388,DNK,Denmark,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,32.90371
+1389,AUT,Austria,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,13.17663
+1391,FIN,Finland,Short-cycle tertiary education,Total,55-64 years,No earnings,2018.0,18.95527
+1392,SWE,Sweden,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,9.371335
+1394,MEX,Mexico,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2018.0,2.091137
+1397,SWE,Sweden,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,25.94666
+1399,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,34.56881
+1400,FRA,France,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2017.0,4.350149
+1406,CRI,Costa Rica,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,93.03206
+1409,SWE,Sweden,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,66.17807
+1411,CHL,Chile,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2017.0,41.85321
+1414,SWE,Sweden,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,59.13746
+1415,CHL,Chile,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2017.0,56.55209
+1417,CHE,Switzerland,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,34.57183
+1418,KOR,Korea,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,45.44194
+1419,SWE,Sweden,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,9.949227
+1420,SWE,Sweden,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,63.94734
+1421,DEU,Germany,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,51.81796
+1423,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,15.39545
+1425,ESP,Spain,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2018.0,13.45871
+1426,BEL,Belgium,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2018.0,65.98936
+1427,CAN,Canada,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2018.0,17.95899
+1428,ESP,Spain,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2018.0,9.709264
+1430,SWE,Sweden,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,46.96213
+1431,MEX,Mexico,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2018.0,20.04692
+1433,KOR,Korea,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,25.76661
+1435,BEL,Belgium,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2018.0,37.52245
+1437,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,70.7713
+1438,ISR,Israel,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2018.0,14.96855
+1439,DEU,Germany,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,38.29366
+1443,DNK,Denmark,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,12.64609
+1444,ESP,Spain,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2018.0,21.4994
+1445,SWE,Sweden,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,27.00905
+1446,CRI,Costa Rica,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,2.802473
+1447,NZL,New Zealand,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,74.16893
+1448,DEU,Germany,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,72.97756
+1450,AUT,Austria,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,34.19851
+1451,ESP,Spain,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2018.0,8.424632
+1452,CHL,Chile,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2017.0,2.419689
+1453,USA,United States,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,18.3175
+1455,EST,Estonia,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,14.10171
+1457,KOR,Korea,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,2.144966
+1460,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,51.57495
+1461,DNK,Denmark,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,66.03109
+1466,DNK,Denmark,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,5.915474
+1467,CHE,Switzerland,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,7.194618
+1468,CRI,Costa Rica,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,0.8980677
+1469,AUT,Austria,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,9.281925
+1470,CHE,Switzerland,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,32.08676
+1471,SWE,Sweden,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,45.71943
+1476,MEX,Mexico,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2018.0,91.2842
+1477,FIN,Finland,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2018.0,77.34409
+1480,CRI,Costa Rica,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,4.309881
+1483,LUX,Luxembourg,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,72.16858
+1484,USA,United States,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,66.83479
+1485,NZL,New Zealand,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,15.49541
+1486,FRA,France,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2017.0,9.48473
+1487,DEU,Germany,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,17.44115
+1488,FRA,France,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2017.0,4.783103
+1490,ESP,Spain,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2018.0,8.063594
+1493,CHL,Chile,Short-cycle tertiary education,Men,25-64 years,No earnings,2017.0,9.770659
+1494,FIN,Finland,Short-cycle tertiary education,Men,55-64 years,No earnings,2018.0,21.10487
+1495,USA,United States,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,53.03507
+1496,MEX,Mexico,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2018.0,87.0732
+1497,CHL,Chile,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2017.0,14.60785
+1498,ESP,Spain,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2018.0,73.87638
+1500,NZL,New Zealand,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,84.67685
+1502,DEU,Germany,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,13.69764
+1503,SWE,Sweden,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,9.723839
+1506,DNK,Denmark,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,13.99025
+1507,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,77.82822
+1509,SWE,Sweden,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,60.91642
+1512,LVA,Latvia,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,37.40434
+1513,DEU,Germany,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,11.88331
+1514,DNK,Denmark,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,35.20805
+1515,BEL,Belgium,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2018.0,41.42567
+1516,MEX,Mexico,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2018.0,77.73291
+1517,DEU,Germany,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,14.06404
+1518,IRL,Ireland,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,78.35224
+1519,EST,Estonia,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,25.0
+1527,AUT,Austria,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,53.16749
+1529,SWE,Sweden,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,22.5889
+1533,CAN,Canada,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2018.0,26.54331
+1537,USA,United States,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,23.18595
+1541,CAN,Canada,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2018.0,46.58746
+1543,LUX,Luxembourg,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,13.45613
+1545,USA,United States,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,65.2473
+1546,ESP,Spain,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2018.0,18.16295
+1547,CHL,Chile,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2017.0,45.47349
+1550,ESP,Spain,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2018.0,53.62686
+1551,AUT,Austria,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,52.90659
+1552,LUX,Luxembourg,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,23.35168
+1553,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,52.28171
+1555,GBR,United Kingdom,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,57.14788
+1557,CHL,Chile,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2017.0,43.63377
+1560,MEX,Mexico,Short-cycle tertiary education,Women,25-64 years,No earnings,2018.0,2.671625
+1561,KOR,Korea,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,68.85931
+1562,DEU,Germany,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,44.79251
+1563,SWE,Sweden,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,10.29712
+1566,MEX,Mexico,Short-cycle tertiary education,Total,25-64 years,No earnings,2018.0,1.920358
+1567,USA,United States,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,10.43824
+1574,AUT,Austria,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,14.80201
+1575,DNK,Denmark,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,49.05868
+1576,DEU,Germany,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,14.3283
+1578,ESP,Spain,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2018.0,22.70843
+1581,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,66.7215
+1583,FIN,Finland,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2018.0,7.626807
+1584,MEX,Mexico,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2018.0,22.90058
+1587,KOR,Korea,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,4.739371
+1589,ISR,Israel,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2018.0,19.88369
+1591,GBR,United Kingdom,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,72.14417
+1592,USA,United States,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,22.44391
+1594,USA,United States,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,60.78305
+1595,DEU,Germany,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,60.66403
+1599,FRA,France,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2017.0,15.36158
+1600,NOR,Norway,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,29.40819
+1601,EST,Estonia,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,12.33103
+1602,EST,Estonia,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,70.95785
+1603,CHE,Switzerland,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,18.59584
+1604,SWE,Sweden,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,8.816205
+1605,FRA,France,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2017.0,21.14257
+1606,MEX,Mexico,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2018.0,70.24121
+1609,USA,United States,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,11.35173
+1610,NZL,New Zealand,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,72.08242
+1613,EST,Estonia,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,18.15015
+1615,ISR,Israel,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2018.0,14.76338
+1616,BEL,Belgium,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2018.0,56.03786
+1617,AUT,Austria,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,70.28045
+1621,IRL,Ireland,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,65.86505
+1622,GBR,United Kingdom,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,17.91611
+1625,LVA,Latvia,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,30.92756
+1626,CHL,Chile,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2017.0,43.33509
+1627,NOR,Norway,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,31.60237
+1628,CAN,Canada,Short-cycle tertiary education,Total,25-34 years,No earnings,2018.0,7.600375
+1630,DNK,Denmark,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,8.358186
+1631,GBR,United Kingdom,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,70.3065
+1632,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,10.92
+1633,DNK,Denmark,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,36.9765
+1635,DEU,Germany,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,49.33743
+1636,BEL,Belgium,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2018.0,23.54927
+1642,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,31.80276
+1643,LVA,Latvia,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,72.01435
+1644,FRA,France,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2017.0,22.4761
+1645,KOR,Korea,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,54.13614
+1647,BEL,Belgium,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2018.0,6.80603
+1652,USA,United States,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,73.6884
+1656,MEX,Mexico,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2018.0,10.61463
+1657,CHL,Chile,Short-cycle tertiary education,Total,25-34 years,No earnings,2017.0,16.32532
+1659,IRL,Ireland,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,39.96994
+1660,AUT,Austria,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,12.42323
+1662,EST,Estonia,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,16.89958
+1663,GBR,United Kingdom,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,12.59098
+1666,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,57.47302
+1669,NOR,Norway,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,61.61438
+1674,NOR,Norway,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,9.812351
+1676,DNK,Denmark,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,5.446209
+1678,KOR,Korea,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,29.45609
+1680,CRI,Costa Rica,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,97.73875
+1681,SWE,Sweden,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,55.81115
+1682,KOR,Korea,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,26.6334
+1683,FIN,Finland,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2018.0,7.522533
+1685,ESP,Spain,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2018.0,20.32297
+1688,MEX,Mexico,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2018.0,76.726
+1690,ISR,Israel,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2018.0,14.97409
+1692,DNK,Denmark,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,35.96624
+1693,ISR,Israel,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2018.0,59.9401
+1696,CHL,Chile,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2017.0,41.64266
+1699,SWE,Sweden,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,35.02761
+1701,FIN,Finland,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2018.0,97.27418
+1705,EST,Estonia,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,4.546877
+1707,MEX,Mexico,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2018.0,2.322531
+1710,CRI,Costa Rica,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2019.0,2.592125
+1712,EST,Estonia,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,85.89848
+1714,BEL,Belgium,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2018.0,72.24936
+1715,EST,Estonia,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,68.77714
+1717,AUT,Austria,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,11.6815
+1719,KOR,Korea,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,47.57404
+1720,CHE,Switzerland,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,74.36655
+1721,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,21.68904
+1722,MEX,Mexico,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2018.0,82.57007
+1724,CHL,Chile,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2017.0,36.78694
+1725,KOR,Korea,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,47.66953
+1726,LVA,Latvia,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,78.09373
+1727,IRL,Ireland,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,46.01781
+1729,NOR,Norway,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,60.77946
+1732,CHL,Chile,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2017.0,14.75667
+1733,DNK,Denmark,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,72.71898
+1735,CAN,Canada,Short-cycle tertiary education,Men,55-64 years,No earnings,2018.0,17.44911
+1741,MEX,Mexico,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2018.0,87.05688
+1744,MEX,Mexico,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2018.0,1.522347
+1747,USA,United States,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,15.17906
+1748,EST,Estonia,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,10.94343
+1749,BEL,Belgium,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2018.0,77.79245
+1752,FIN,Finland,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2018.0,86.39665
+1753,NOR,Norway,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,53.13458
+1755,ESP,Spain,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2018.0,83.74081
+1759,ESP,Spain,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2018.0,71.11613
+1760,USA,United States,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,14.30958
+1762,LVA,Latvia,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,81.19413
+1764,IRL,Ireland,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,60.79657
+1769,ISR,Israel,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2018.0,19.07604
+1771,NOR,Norway,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,7.676704
+1773,CHL,Chile,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2017.0,59.93509
+1776,IRL,Ireland,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,10.27958
+1777,CAN,Canada,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2018.0,63.85323
+1778,NOR,Norway,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,50.85492
+1780,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,88.10378
+1781,IRL,Ireland,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,80.31854
+1782,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,6.776338
+1784,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,79.29319
+1786,KOR,Korea,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,31.87902
+1789,KOR,Korea,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,54.40175
+1790,DNK,Denmark,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,28.5227
+1791,FIN,Finland,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2018.0,17.92574
+1796,NOR,Norway,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,16.37323
+1797,IRL,Ireland,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,7.336103
+1800,ISR,Israel,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2018.0,9.57479
+1803,NZL,New Zealand,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,85.06891
+1804,CRI,Costa Rica,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,9.287708
+1807,USA,United States,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,19.63927
+1809,CAN,Canada,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2018.0,17.31051
+1811,CHL,Chile,Short-cycle tertiary education,Women,55-64 years,No earnings,2017.0,41.49965
+1817,MEX,Mexico,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2018.0,25.54222
+1819,CRI,Costa Rica,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,1.896277
+1825,IRL,Ireland,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,18.07735
+1826,AUT,Austria,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,36.30201
+1827,AUT,Austria,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,46.18398
+1830,DEU,Germany,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,77.25198
+1832,DNK,Denmark,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,12.11232
+1834,NOR,Norway,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,70.70181
+1836,SWE,Sweden,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,10.83925
+1838,AUT,Austria,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,48.8591
+1839,EST,Estonia,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,3.780828
+1840,DNK,Denmark,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,29.21288
+1841,SWE,Sweden,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,30.41569
+1842,KOR,Korea,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,11.35487
+1843,IRL,Ireland,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,13.72965
+1844,CAN,Canada,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2018.0,12.346
+1845,NZL,New Zealand,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,65.14136
+1846,IRL,Ireland,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,11.41099
+1847,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,59.8867
+1848,LVA,Latvia,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,78.5984
+1854,AUT,Austria,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,40.00719
+1855,BEL,Belgium,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2018.0,24.86388
+1856,EST,Estonia,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,59.31123
+1858,CAN,Canada,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2018.0,41.04217
+1861,MEX,Mexico,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2018.0,15.88891
+1862,BEL,Belgium,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2018.0,78.6228
+1864,AUT,Austria,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,11.55183
+1868,MEX,Mexico,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2018.0,0.9329472
+1870,MEX,Mexico,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2018.0,9.929414
+1871,SWE,Sweden,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,40.2382
+1872,ISR,Israel,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2018.0,76.41781
+1873,MEX,Mexico,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2018.0,28.71582
+1874,CHE,Switzerland,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,45.20498
+1875,EST,Estonia,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,75.48679
+1877,CAN,Canada,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2018.0,50.46862
+1880,DNK,Denmark,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,66.44019
+1883,ESP,Spain,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2018.0,18.33133
+1884,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,13.75931
+1885,ESP,Spain,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2018.0,4.764239
+1886,ISR,Israel,Short-cycle tertiary education,Men,25-64 years,No earnings,2018.0,9.812932
+1887,LVA,Latvia,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,69.78828
+1891,GBR,United Kingdom,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,55.62808
+1892,GBR,United Kingdom,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,16.85085
+1894,EST,Estonia,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,76.73067
+1896,CAN,Canada,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2018.0,10.8015
+1897,IRL,Ireland,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,32.37207
+1900,SWE,Sweden,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,68.59489
+1902,FIN,Finland,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2018.0,82.71169
+1903,LUX,Luxembourg,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,84.39741
+1907,EST,Estonia,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,70.81053
+1908,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,9.451019
+1909,LVA,Latvia,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,4.779303
+1910,DNK,Denmark,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,13.6163
+1911,KOR,Korea,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,86.15289
+1912,ISR,Israel,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2018.0,61.25023
+1913,EST,Estonia,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,18.27754
+1915,USA,United States,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,19.33182
+1916,NOR,Norway,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,2.910048
+1918,IRL,Ireland,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,17.09584
+1919,FRA,France,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2017.0,19.77433
+1920,IRL,Ireland,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,68.3541
+1924,GBR,United Kingdom,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,30.95741
+1930,DNK,Denmark,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,32.39107
+1932,AUT,Austria,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,33.41813
+1934,CRI,Costa Rica,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,93.78841
+1935,CAN,Canada,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2018.0,39.48275
+1941,DEU,Germany,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,69.51822
+1942,IRL,Ireland,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,27.49674
+1946,FIN,Finland,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2018.0,18.13934
+1947,KOR,Korea,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,29.28533
+1948,NZL,New Zealand,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,74.08012
+1950,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,10.27784
+1951,ISR,Israel,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2018.0,68.60172
+1952,NOR,Norway,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,13.51509
+1954,ESP,Spain,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2018.0,64.85587
+1955,IRL,Ireland,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,19.36112
+1957,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,20.8821
+1958,CHL,Chile,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2017.0,36.35451
+1959,ESP,Spain,Short-cycle tertiary education,Men,55-64 years,No earnings,2018.0,16.23908
+1960,FRA,France,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2017.0,76.52003
+1962,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,68.19724
+1964,FIN,Finland,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2018.0,94.24621
+1965,CHL,Chile,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2017.0,44.61327
+1967,DEU,Germany,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,31.66336
+1971,FRA,France,Short-cycle tertiary education,Total,25-64 years,No earnings,2017.0,8.863179
+1974,ESP,Spain,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2018.0,22.15327
+1975,NOR,Norway,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,20.55697
+1977,LVA,Latvia,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,3.640843
+1978,USA,United States,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,17.24017
+1980,NOR,Norway,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,71.31396
+1985,ISR,Israel,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2018.0,7.747563
+1986,KOR,Korea,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,4.570632
+1988,IRL,Ireland,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,13.24158
+1992,KOR,Korea,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,37.74966
+1995,FIN,Finland,Short-cycle tertiary education,Total,25-34 years,No earnings,2018.0,32.09192
+1996,DNK,Denmark,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,29.21993
+1997,SWE,Sweden,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,51.3093
+1998,DEU,Germany,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,18.59668
+2005,ESP,Spain,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2018.0,37.07468
+2007,CAN,Canada,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2018.0,23.38046
+2014,AUT,Austria,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,44.86463
+2017,EST,Estonia,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,12.47031
+2018,FIN,Finland,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2018.0,5.150789
+2022,SWE,Sweden,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,22.00639
+2024,NOR,Norway,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,79.61775
+2027,DNK,Denmark,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,57.95544
+2028,CHL,Chile,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2017.0,3.772852
+2029,CRI,Costa Rica,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,2.271116
+2031,KOR,Korea,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,3.439601
+2033,IRL,Ireland,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,25.03346
+2035,ISR,Israel,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2018.0,23.10548
+2037,FIN,Finland,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2018.0,88.80514
+2038,FIN,Finland,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2018.0,88.72929
+2040,CHE,Switzerland,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,13.63487
+2041,CHL,Chile,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2017.0,52.55308
+2042,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,95.09232
+2044,ESP,Spain,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2018.0,5.306699
+2045,CAN,Canada,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2018.0,26.45372
+2046,LUX,Luxembourg,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,18.87853
+2047,KOR,Korea,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,61.35142
+2048,CRI,Costa Rica,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,94.79205
+2050,CRI,Costa Rica,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,5.397747
+2051,IRL,Ireland,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,6.232932
+2054,CHE,Switzerland,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,7.037608
+2055,EST,Estonia,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,13.65027
+2056,DNK,Denmark,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,37.32502
+2057,GBR,United Kingdom,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,45.88493
+2058,ESP,Spain,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2018.0,19.62882
+2059,CHL,Chile,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2017.0,51.41066
+2060,MEX,Mexico,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2018.0,18.72761
+2061,FIN,Finland,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2018.0,77.7164
+2062,DEU,Germany,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,27.45266
+2063,DNK,Denmark,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,41.75623
+2064,DNK,Denmark,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,56.79687
+2065,CRI,Costa Rica,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,96.22647
+2066,DEU,Germany,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,40.90355
+2068,IRL,Ireland,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,38.51633
+2069,FIN,Finland,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2018.0,102.4561
+2071,FRA,France,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2017.0,19.94009
+2072,DEU,Germany,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,29.61389
+2076,CHL,Chile,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2017.0,45.56895
+2079,MEX,Mexico,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2018.0,15.35799
+2080,DNK,Denmark,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,51.41702
+2081,ESP,Spain,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2018.0,62.24473
+2082,USA,United States,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,27.95316
+2083,AUT,Austria,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,54.79731
+2084,SWE,Sweden,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,34.92142
+2085,CRI,Costa Rica,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,93.52716
+2086,CAN,Canada,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2018.0,40.61018
+2087,AUT,Austria,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,21.90451
+2089,CHL,Chile,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2017.0,28.1321
+2091,FIN,Finland,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2018.0,18.02187
+2092,EST,Estonia,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,90.67146
+2093,NOR,Norway,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,57.53024
+2094,NZL,New Zealand,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,7.633882
+2095,CRI,Costa Rica,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,4.720597
+2096,FIN,Finland,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2018.0,6.192132
+2097,ISR,Israel,Short-cycle tertiary education,Women,25-64 years,No earnings,2018.0,24.584
+2098,FRA,France,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2017.0,33.19796
+2102,DEU,Germany,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,36.81932
+2104,FRA,France,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2017.0,84.08122
+2105,ISR,Israel,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2018.0,23.78123
+2106,FRA,France,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2017.0,8.84503
+2107,USA,United States,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,49.60293
+2108,ESP,Spain,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2018.0,69.47903
+2109,ESP,Spain,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2018.0,77.6177
+2113,CHL,Chile,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2017.0,42.50953
+2114,MEX,Mexico,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2018.0,1.827901
+2117,CHE,Switzerland,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,54.36949
+2124,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,54.47185
+2131,FRA,France,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2017.0,79.11058
+2133,CAN,Canada,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2018.0,33.97394
+2134,NZL,New Zealand,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,16.56327
+2135,NZL,New Zealand,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,75.00664
+2139,LUX,Luxembourg,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,67.66534
+2140,MEX,Mexico,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2018.0,26.73761
+2142,KOR,Korea,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,44.59214
+2143,DEU,Germany,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,34.00745
+2145,ESP,Spain,Short-cycle tertiary education,Total,25-64 years,No earnings,2018.0,11.54694
+2153,USA,United States,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,27.32566
+2156,SWE,Sweden,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,60.63361
+2158,IRL,Ireland,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,36.41886
+2161,LUX,Luxembourg,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,19.24084
+2164,BEL,Belgium,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2018.0,58.70092
+2165,USA,United States,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,77.81099
+2166,NZL,New Zealand,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,17.82914
+2167,USA,United States,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,55.67872
+2168,IRL,Ireland,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,66.84863
+2169,GBR,United Kingdom,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,12.83525
+2170,IRL,Ireland,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,32.75112
+2171,GBR,United Kingdom,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,7.807604
+2176,CAN,Canada,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2018.0,26.44529
+2177,USA,United States,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,20.7111
+2178,CAN,Canada,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2018.0,37.68165
+2181,AUT,Austria,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,36.33889
+2182,SWE,Sweden,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,14.73427
+2183,NZL,New Zealand,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,74.42634
+2184,SWE,Sweden,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,8.667893
+2185,GBR,United Kingdom,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,26.70075
+2189,USA,United States,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,22.80733
+2190,SWE,Sweden,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,71.06845
+2192,GBR,United Kingdom,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,58.94157
+2193,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,23.69576
+2196,USA,United States,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,15.56613
+2198,CAN,Canada,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2018.0,11.65857
+2199,AUT,Austria,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,3.14646
+2203,AUT,Austria,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,62.9311
+2208,ISR,Israel,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2018.0,66.48936
+2209,FRA,France,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2017.0,29.68556
+2210,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,13.43225
+2211,DEU,Germany,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,6.509871
+2213,CRI,Costa Rica,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,1.85295
+2214,BEL,Belgium,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2018.0,39.34301
+2215,NOR,Norway,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,4.79532
+2216,AUT,Austria,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,29.29679
+2217,FRA,France,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2017.0,77.80104
+2218,IRL,Ireland,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,48.91437
+2219,IRL,Ireland,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,33.89321
+2220,ISR,Israel,Short-cycle tertiary education,Women,25-34 years,No earnings,2018.0,28.70892
+2222,NOR,Norway,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,25.16679
+2229,ESP,Spain,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2018.0,67.42382
+2232,FIN,Finland,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2018.0,4.848761
+2233,KOR,Korea,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,7.157573
+2235,CHL,Chile,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2017.0,33.98264
+2236,LVA,Latvia,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,10.59546
+2237,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,11.16506
+2239,USA,United States,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,19.86408
+2240,SWE,Sweden,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,11.7833
+2242,KOR,Korea,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,1.855345
+2243,ISR,Israel,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2018.0,16.05061
+2244,EST,Estonia,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,23.49515
+2245,AUT,Austria,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,37.66716
+2246,CAN,Canada,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2018.0,34.79165
+2249,CHL,Chile,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2017.0,8.118793
+2250,USA,United States,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,22.80166
+2251,CAN,Canada,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2018.0,65.69086
+2252,NZL,New Zealand,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,5.990152
+2253,CHL,Chile,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2017.0,53.2594
+2257,CRI,Costa Rica,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,1.385188
+2260,FRA,France,Short-cycle tertiary education,Total,55-64 years,No earnings,2017.0,29.41933
+2262,NOR,Norway,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,36.652
+2264,EST,Estonia,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2019.0,7.841673
+2265,ISR,Israel,Short-cycle tertiary education,Women,55-64 years,No earnings,2018.0,28.48695
+2269,DNK,Denmark,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,9.709528
+2270,FIN,Finland,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2018.0,24.27393
+2272,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,25.5757
+2274,LVA,Latvia,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2019.0,10.91954
+2275,KOR,Korea,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,52.36632
+2276,ISR,Israel,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2018.0,72.34291
+2280,USA,United States,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,13.30112
+2283,ESP,Spain,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2018.0,10.95249
+2285,CHL,Chile,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2017.0,5.593709
+2288,NZL,New Zealand,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,15.45192
+2291,GBR,United Kingdom,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,27.45055
+2294,DNK,Denmark,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,34.303
+2298,USA,United States,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,8.397907
+2299,IRL,Ireland,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,39.01992
+2301,NOR,Norway,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,4.009014
+2303,AUT,Austria,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,19.00854
+2305,DEU,Germany,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,16.23815
+2306,ESP,Spain,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2018.0,12.80621
+2308,NZL,New Zealand,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,7.62907
+2309,EST,Estonia,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,10.32372
+2311,ISR,Israel,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2018.0,16.10172
+2312,KOR,Korea,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,29.94523
+2313,KOR,Korea,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,7.812269
+2315,DNK,Denmark,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,47.26429
+2319,ISR,Israel,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2018.0,21.1233
+2320,CRI,Costa Rica,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,5.765674
+2322,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,71.81527
+2325,LUX,Luxembourg,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,23.75133
+2327,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,24.87803
+2328,NOR,Norway,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,63.2286
+2331,DNK,Denmark,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,41.63096
+2332,CHL,Chile,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2017.0,53.96329
+2334,EST,Estonia,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,11.49381
+2335,DNK,Denmark,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,62.61204
+2336,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,64.84413
+2338,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,7.761687
+2339,CRI,Costa Rica,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,5.114992
+2343,ISR,Israel,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2018.0,9.154938
+2345,SWE,Sweden,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,13.66308
+2349,NZL,New Zealand,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,14.6497
+2350,USA,United States,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,64.03615
+2354,DEU,Germany,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,39.89637
+2356,BEL,Belgium,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2018.0,57.71243
+2358,LVA,Latvia,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,18.34109
+2360,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,85.54169
+2361,NOR,Norway,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,2.478925
+2365,NOR,Norway,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2019.0,35.31274
+2368,ISR,Israel,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2018.0,12.62582
+2370,DEU,Germany,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,17.50443
+2373,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,31.16809
+2374,ESP,Spain,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2018.0,10.84181
+2376,FIN,Finland,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2018.0,8.922463
+2377,LVA,Latvia,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,73.27316
+2378,ISR,Israel,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2018.0,58.22103
+2379,BEL,Belgium,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2018.0,25.66568
+2380,CHL,Chile,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2017.0,35.06189
+2382,IRL,Ireland,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,68.85307
+2384,CRI,Costa Rica,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,4.748655
+2386,KOR,Korea,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,52.92726
+2387,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,82.98698
+2388,CAN,Canada,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2018.0,43.5427
+2389,DEU,Germany,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,70.6764
+2390,IRL,Ireland,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,16.76545
+2391,KOR,Korea,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,76.28065
+2392,DNK,Denmark,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,10.76835
+2393,SWE,Sweden,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,6.902085
+2395,NZL,New Zealand,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,15.73596
+2397,ESP,Spain,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2018.0,68.82424
+2398,CRI,Costa Rica,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,85.31454
+2399,KOR,Korea,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,34.15148
+2401,USA,United States,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,57.50699
+2402,USA,United States,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,16.63203
+2405,NZL,New Zealand,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,74.01472
+2406,ESP,Spain,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2018.0,11.64563
+2407,NOR,Norway,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,67.15651
+2409,KOR,Korea,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,36.28691
+2410,SWE,Sweden,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,34.17399
+2411,GBR,United Kingdom,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,16.92137
+2413,DEU,Germany,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,11.88513
+2414,DNK,Denmark,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,8.935575
+2416,GBR,United Kingdom,Bachelor’s or equivalent education,Men,25-34 years,No earnings,2019.0,6.370361
+2417,CHL,Chile,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2017.0,19.03222
+2419,USA,United States,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,31.01602
+2420,DNK,Denmark,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,53.06495
+2421,DEU,Germany,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2019.0,11.88245
+2422,CHL,Chile,Short-cycle tertiary education,Total,25-64 years,No earnings,2017.0,19.46462
+2423,DNK,Denmark,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,52.8364
+2424,DNK,Denmark,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2019.0,41.99288
+2426,SWE,Sweden,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,64.6226
+2427,CAN,Canada,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2018.0,56.09716
+2429,ISR,Israel,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2018.0,26.65099
+2430,GBR,United Kingdom,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,30.87972
+2431,MEX,Mexico,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2018.0,35.19907
+2432,AUT,Austria,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2019.0,26.19385
+2434,AUT,Austria,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,6.516125
+2437,IRL,Ireland,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,68.28906
+2438,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,16.84499
+2440,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,80.20792
+2443,USA,United States,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,8.418905
+2446,KOR,Korea,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,66.75037
+2448,SWE,Sweden,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,9.674907
+2449,NZL,New Zealand,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,66.71964
+2451,NOR,Norway,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,19.59071
+2456,DNK,Denmark,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,7.842301
+2460,KOR,Korea,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,54.49365
+2461,LVA,Latvia,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,70.18753
+2463,CHL,Chile,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2017.0,49.37168
+2464,MEX,Mexico,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2018.0,2.102937
+2465,LUX,Luxembourg,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,57.40748
+2466,NZL,New Zealand,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,8.614697
+2467,FRA,France,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2017.0,3.942091
+2469,KOR,Korea,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,36.77417
+2470,IRL,Ireland,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,15.70243
+2472,FIN,Finland,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2018.0,91.9763
+2473,AUT,Austria,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,48.73792
+2474,MEX,Mexico,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2018.0,66.11224
+2475,DNK,Denmark,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,47.86802
+2477,DNK,Denmark,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,33.85668
+2478,ESP,Spain,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2018.0,71.08455
+2487,KOR,Korea,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,36.98039
+2488,DNK,Denmark,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,43.07732
+2490,FIN,Finland,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2018.0,9.650133
+2494,FIN,Finland,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2018.0,10.15937
+2496,EST,Estonia,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,9.534899
+2497,MEX,Mexico,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2018.0,79.741
+2502,ISR,Israel,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2018.0,7.59577
+2503,IRL,Ireland,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,51.23609
+2508,AUT,Austria,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,5.609449
+2509,IRL,Ireland,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,7.12034
+2511,CAN,Canada,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2018.0,7.919591
+2515,LVA,Latvia,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,19.66904
+2516,NZL,New Zealand,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,62.87117
+2519,FIN,Finland,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2018.0,11.92113
+2520,CHL,Chile,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2017.0,29.08159
+2521,NZL,New Zealand,Short-cycle tertiary education,Total,25-64 years,No earnings,2019.0,13.81095
+2525,ESP,Spain,Short-cycle tertiary education,Total,55-64 years,No earnings,2018.0,24.01966
+2527,SWE,Sweden,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,29.69148
+2529,ESP,Spain,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2018.0,62.73239
+2532,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,36.49929
+2533,FRA,France,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2017.0,6.051983
+2534,FIN,Finland,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2018.0,6.72854
+2535,DEU,Germany,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,33.85358
+2537,EST,Estonia,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,12.9518
+2540,AUT,Austria,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,16.58326
+2542,IRL,Ireland,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,24.5906
+2543,ISR,Israel,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2018.0,8.584547
+2546,CAN,Canada,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2018.0,36.30822
+2550,ESP,Spain,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2018.0,8.750973
+2551,FRA,France,Short-cycle tertiary education,Total,25-34 years,No earnings,2017.0,2.42463
+2553,EST,Estonia,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,8.29705
+2554,AUT,Austria,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,70.65856
+2555,BEL,Belgium,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2018.0,33.36319
+2557,GBR,United Kingdom,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,27.9127
+2558,USA,United States,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,12.72305
+2560,EST,Estonia,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,9.145356
+2561,CHL,Chile,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2017.0,53.41462
+2562,SWE,Sweden,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,33.93205
+2568,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,59.24503
+2569,ISR,Israel,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2018.0,25.15146
+2571,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,11.3589
+2572,USA,United States,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,81.32253
+2573,USA,United States,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,73.34543
+2574,DNK,Denmark,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,6.07832
+2575,ESP,Spain,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2018.0,10.29265
+2576,CAN,Canada,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2018.0,35.4529
+2579,NOR,Norway,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,4.363298
+2580,CAN,Canada,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2018.0,32.43964
+2581,CAN,Canada,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2018.0,8.920894
+2582,BEL,Belgium,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2018.0,10.20692
+2583,BEL,Belgium,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2018.0,58.78353
+2585,NOR,Norway,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,7.15703
+2589,FIN,Finland,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2018.0,10.07676
+2590,FRA,France,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2017.0,15.82916
+2593,MEX,Mexico,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2018.0,74.19106
+2594,CAN,Canada,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2018.0,21.89876
+2595,DNK,Denmark,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,24.34673
+2599,IRL,Ireland,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,10.95312
+2601,FIN,Finland,Short-cycle tertiary education,Women,55-64 years,No earnings,2018.0,17.73589
+2602,SWE,Sweden,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,8.47341
+2603,ESP,Spain,Short-cycle tertiary education,Men,25-34 years,Part-time or part-year earners,2018.0,17.71902
+2604,GBR,United Kingdom,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2019.0,14.32164
+2605,FIN,Finland,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2018.0,67.88171
+2608,NOR,Norway,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,77.30322
+2609,DNK,Denmark,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,49.77091
+2611,USA,United States,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,17.97535
+2612,ISR,Israel,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2018.0,47.98156
+2613,DEU,Germany,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,11.66858
+2615,AUT,Austria,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,18.13703
+2620,USA,United States,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,72.8642
+2622,KOR,Korea,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,45.90303
+2625,CRI,Costa Rica,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,90.32561
+2626,DNK,Denmark,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,65.54825
+2628,FRA,France,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2017.0,27.40514
+2630,NOR,Norway,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,4.882107
+2633,AUT,Austria,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,28.41572
+2635,CRI,Costa Rica,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,95.83261
+2637,NZL,New Zealand,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,69.4227
+2641,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,8.054378
+2642,DEU,Germany,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,11.27448
+2643,SWE,Sweden,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,54.98676
+2644,AUT,Austria,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,32.54391
+2647,CAN,Canada,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2018.0,57.89897
+2651,ESP,Spain,Short-cycle tertiary education,Women,25-34 years,No earnings,2018.0,7.024091
+2653,ISR,Israel,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2018.0,74.9725
+2660,DEU,Germany,Short-cycle tertiary education,Men,25-64 years,Part-time or part-year earners,2019.0,8.594276
+2663,ESP,Spain,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2018.0,15.55235
+2664,MEX,Mexico,"Master’s, Doctoral or equivalent education",Women,25-34 years,Part-time or part-year earners,2018.0,37.76988
+2665,AUT,Austria,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,49.63947
+2666,EST,Estonia,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,7.814281
+2667,CAN,Canada,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2018.0,38.56274
+2668,GBR,United Kingdom,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,63.57218
+2670,USA,United States,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,21.48519
+2672,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,49.03297
+2676,MEX,Mexico,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2018.0,71.16148
+2677,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,9.221389
+2680,ISR,Israel,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2018.0,7.53159
+2682,SWE,Sweden,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,6.514907
+2684,AUT,Austria,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,49.90993
+2687,SWE,Sweden,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,7.607471
+2688,FRA,France,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2017.0,70.18043
+2690,SWE,Sweden,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,56.11776
+2692,USA,United States,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,46.68859
+2693,CHL,Chile,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2017.0,48.23936
+2695,MEX,Mexico,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2018.0,15.21436
+2698,SWE,Sweden,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,58.17649
+2699,FIN,Finland,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2018.0,7.355325
+2700,CRI,Costa Rica,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,1.280624
+2701,GBR,United Kingdom,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2019.0,87.41631
+2702,DEU,Germany,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2019.0,79.73714
+2706,AUT,Austria,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,54.22226
+2708,CHL,Chile,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2017.0,41.56287
+2709,FRA,France,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2017.0,19.25695
+2711,USA,United States,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,22.29539
+2712,EST,Estonia,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,6.28724
+2715,SWE,Sweden,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,67.6965
+2720,BEL,Belgium,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2018.0,7.935887
+2721,CAN,Canada,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2018.0,64.7824
+2723,ESP,Spain,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2018.0,16.73929
+2724,SWE,Sweden,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,11.81713
+2725,CHL,Chile,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2017.0,50.97045
+2726,KOR,Korea,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,4.971363
+2727,ESP,Spain,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2018.0,30.37989
+2729,CRI,Costa Rica,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,3.762071
+2730,IRL,Ireland,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,55.82721
+2733,FIN,Finland,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2018.0,13.18639
+2734,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,86.97214
+2736,ISR,Israel,Short-cycle tertiary education,Men,25-64 years,"Full-time, full-year earners",2018.0,79.81522
+2738,CAN,Canada,Short-cycle tertiary education,Women,25-64 years,No earnings,2018.0,15.44229
+2739,AUT,Austria,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,54.15491
+2740,CHL,Chile,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2017.0,10.78106
+2741,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,31.71122
+2746,FIN,Finland,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2018.0,17.51565
+2751,EST,Estonia,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,15.68873
+2752,CAN,Canada,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2018.0,35.57726
+2754,BEL,Belgium,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2018.0,69.36478
+2756,CRI,Costa Rica,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,91.92944
+2761,FIN,Finland,Short-cycle tertiary education,Women,25-64 years,No earnings,2018.0,12.42044
+2762,DEU,Germany,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2019.0,57.24568
+2763,NZL,New Zealand,"Master’s, Doctoral or equivalent education",Men,25-64 years,"Full-time, full-year earners",2019.0,84.00888
+2765,CHL,Chile,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2017.0,16.34744
+2767,BEL,Belgium,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2018.0,19.63171
+2768,DNK,Denmark,"Master’s, Doctoral or equivalent education",Men,25-64 years,Part-time or part-year earners,2019.0,22.57727
+2772,EST,Estonia,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,4.616495
+2773,USA,United States,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,6.62288
+2778,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,77.9796
+2779,CAN,Canada,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2018.0,34.55853
+2780,EST,Estonia,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,68.64825
+2781,SWE,Sweden,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,29.76834
+2782,CHE,Switzerland,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,19.08896
+2783,KOR,Korea,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,4.748817
+2784,IRL,Ireland,Short-cycle tertiary education,Women,55-64 years,Part-time or part-year earners,2019.0,47.73849
+2786,NOR,Norway,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,66.34958
+2796,MEX,Mexico,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2018.0,81.5564
+2799,GBR,United Kingdom,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,16.66297
+2800,FIN,Finland,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2018.0,81.52198
+2802,CRI,Costa Rica,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,3.231583
+2803,NOR,Norway,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,25.77598
+2809,EST,Estonia,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,22.2237
+2810,LUX,Luxembourg,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,22.11743
+2811,EST,Estonia,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,67.20497
+2812,FRA,France,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2017.0,75.49441
+2813,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,44.76614
+2814,LUX,Luxembourg,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,35.816
+2818,USA,United States,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,13.38949
+2821,NOR,Norway,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,76.43983
+2825,CHL,Chile,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2017.0,43.22372
+2827,AUT,Austria,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,13.65712
+2828,DNK,Denmark,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,43.99276
+2830,CHE,Switzerland,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,67.27617
+2831,USA,United States,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,12.74464
+2832,ESP,Spain,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2018.0,58.01783
+2833,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Men,25-34 years,Part-time or part-year earners,2019.0,5.206011
+2836,KOR,Korea,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,48.98636
+2840,ISR,Israel,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2018.0,11.92407
+2842,CHL,Chile,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2017.0,40.17186
+2843,NOR,Norway,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,9.790086
+2844,CRI,Costa Rica,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,6.789943
+2846,EST,Estonia,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,13.69746
+2847,SWE,Sweden,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,31.0259
+2849,AUT,Austria,Bachelor’s or equivalent education,Women,55-64 years,"Full-time, full-year earners",2019.0,45.70475
+2850,GBR,United Kingdom,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,13.98314
+2851,SWE,Sweden,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,33.25507
+2852,NOR,Norway,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,49.39015
+2853,LUX,Luxembourg,Bachelor’s or equivalent education,Men,25-64 years,No earnings,2019.0,19.6792
+2855,FIN,Finland,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2018.0,13.51847
+2856,DEU,Germany,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,13.56097
+2857,NOR,Norway,Short-cycle tertiary education,Men,55-64 years,Part-time or part-year earners,2019.0,21.40613
+2859,DEU,Germany,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2019.0,57.035
+2860,DNK,Denmark,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,16.37241
+2861,CAN,Canada,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2018.0,13.02395
+2862,GBR,United Kingdom,Short-cycle tertiary education,Women,55-64 years,No earnings,2019.0,34.23344
+2864,FIN,Finland,Bachelor’s or equivalent education,Men,25-34 years,"Full-time, full-year earners",2018.0,85.27158
+2865,FRA,France,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2017.0,29.3717
+2866,USA,United States,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,27.31395
+2868,CHE,Switzerland,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,11.05258
+2870,ISR,Israel,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2018.0,60.79977
+2872,CHE,Switzerland,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,41.8005
+2873,CHE,Switzerland,"Master’s, Doctoral or equivalent education",Women,55-64 years,"Full-time, full-year earners",2019.0,27.27127
+2874,IRL,Ireland,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,42.67387
+2880,NOR,Norway,"Master’s, Doctoral or equivalent education",Total,25-64 years,No earnings,2019.0,4.544717
+2881,ESP,Spain,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2018.0,21.71526
+2884,FRA,France,Short-cycle tertiary education,Women,25-64 years,No earnings,2017.0,11.31416
+2888,KOR,Korea,"Master’s, Doctoral or equivalent education",Total,25-64 years,Part-time or part-year earners,2019.0,5.205197
+2892,NOR,Norway,"Master’s, Doctoral or equivalent education",Men,55-64 years,No earnings,2019.0,6.238065
+2893,ISR,Israel,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2018.0,18.77245
+2897,GBR,United Kingdom,Short-cycle tertiary education,Total,25-64 years,Part-time or part-year earners,2019.0,19.50236
+2901,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,8.919013
+2904,CAN,Canada,Short-cycle tertiary education,Total,55-64 years,No earnings,2018.0,23.37259
+2905,IRL,Ireland,Short-cycle tertiary education,Women,25-34 years,No earnings,2019.0,17.56333
+2908,AUT,Austria,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2019.0,32.1214
+2916,CHL,Chile,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2017.0,45.77678
+2921,ISR,Israel,Short-cycle tertiary education,Men,55-64 years,No earnings,2018.0,17.85449
+2928,GBR,United Kingdom,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,32.7674
+2932,CHL,Chile,Bachelor’s or equivalent education,Total,25-34 years,"Full-time, full-year earners",2017.0,31.01279
+2933,NOR,Norway,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,11.92314
+2934,AUT,Austria,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,53.7151
+2935,KOR,Korea,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,6.769548
+2936,CHL,Chile,Bachelor’s or equivalent education,Total,55-64 years,"Full-time, full-year earners",2017.0,47.25822
+2941,CHL,Chile,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2017.0,43.74949
+2943,AUT,Austria,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,18.93187
+2944,GBR,United Kingdom,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,58.04482
+2945,CAN,Canada,"Master’s, Doctoral or equivalent education",Men,25-34 years,"Full-time, full-year earners",2018.0,48.96504
+2946,IRL,Ireland,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,64.99356
+2950,CAN,Canada,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2018.0,56.24802
+2951,NOR,Norway,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,31.88929
+2953,FIN,Finland,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2018.0,7.382218
+2954,FIN,Finland,Short-cycle tertiary education,Women,25-34 years,No earnings,2018.0,39.59828
+2955,AUT,Austria,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,19.99795
+2956,FIN,Finland,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2018.0,98.1308
+2957,FRA,France,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2017.0,18.45361
+2958,CHL,Chile,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2017.0,23.15405
+2959,FIN,Finland,Bachelor’s or equivalent education,Total,55-64 years,Part-time or part-year earners,2018.0,8.068199
+2962,EST,Estonia,"Master’s, Doctoral or equivalent education",Total,25-64 years,"Full-time, full-year earners",2019.0,78.67029
+2965,NOR,Norway,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,19.19687
+2967,IRL,Ireland,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,54.42591
+2969,CRI,Costa Rica,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,2.504803
+2976,FRA,France,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2017.0,15.75847
+2978,KOR,Korea,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,65.30595
+2980,FRA,France,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2017.0,69.99425
+2981,AUT,Austria,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,40.23447
+2982,DNK,Denmark,Short-cycle tertiary education,Men,25-34 years,No earnings,2019.0,7.289183
+2984,DNK,Denmark,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,4.703755
+2990,KOR,Korea,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,58.48645
+2991,FRA,France,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2017.0,75.44656
+2997,ESP,Spain,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2018.0,66.2011
+2999,NZL,New Zealand,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,17.75622
+3001,DEU,Germany,"Master’s, Doctoral or equivalent education",Women,25-64 years,"Full-time, full-year earners",2019.0,44.74641
+3002,USA,United States,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,66.56586
+3003,CHE,Switzerland,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,75.46124
+3006,LVA,Latvia,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,63.77724
+3007,LVA,Latvia,Bachelor’s or equivalent education,Women,55-64 years,Part-time or part-year earners,2019.0,9.186968
+3008,LVA,Latvia,Bachelor’s or equivalent education,Men,25-64 years,Part-time or part-year earners,2019.0,2.089653
+3009,LVA,Latvia,"Master’s, Doctoral or equivalent education",Women,25-34 years,No earnings,2019.0,15.85619
+3010,DEU,Germany,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,24.92305
+3011,LVA,Latvia,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,27.30012
+3012,DEU,Germany,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,34.56752
+3013,DEU,Germany,Bachelor’s or equivalent education,Women,25-34 years,"Full-time, full-year earners",2019.0,31.57118
+3014,LVA,Latvia,Short-cycle tertiary education,Total,25-34 years,Part-time or part-year earners,2019.0,2.433862
+3015,LVA,Latvia,"Master’s, Doctoral or equivalent education",Women,25-34 years,"Full-time, full-year earners",2019.0,81.27834
+3016,LVA,Latvia,Short-cycle tertiary education,Women,25-64 years,Part-time or part-year earners,2019.0,5.43835
+3017,LVA,Latvia,"Master’s, Doctoral or equivalent education",Men,55-64 years,Part-time or part-year earners,2019.0,4.181751
+3018,DEU,Germany,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,13.61568
+3019,LVA,Latvia,Bachelor’s or equivalent education,Men,25-34 years,Part-time or part-year earners,2019.0,1.205009
+3020,LVA,Latvia,Short-cycle tertiary education,Women,25-34 years,"Full-time, full-year earners",2019.0,65.11278
+3021,DEU,Germany,"Master’s, Doctoral or equivalent education",Total,55-64 years,Part-time or part-year earners,2019.0,22.49482
+3022,LVA,Latvia,Bachelor’s or equivalent education,Women,25-34 years,No earnings,2019.0,17.93108
+3023,LVA,Latvia,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,80.14253
+3024,LVA,Latvia,Bachelor’s or equivalent education,Total,25-34 years,Part-time or part-year earners,2019.0,2.936857
+3025,LVA,Latvia,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,86.5
+3026,LVA,Latvia,Bachelor’s or equivalent education,Total,25-64 years,Part-time or part-year earners,2019.0,3.785568
+3027,DEU,Germany,Short-cycle tertiary education,Men,55-64 years,"Full-time, full-year earners",2019.0,66.92841
+3028,LVA,Latvia,Bachelor’s or equivalent education,Women,25-64 years,"Full-time, full-year earners",2019.0,73.54597
+3029,DEU,Germany,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,36.16563
+3030,DEU,Germany,"Master’s, Doctoral or equivalent education",Women,55-64 years,No earnings,2019.0,19.33045
+3032,LVA,Latvia,Short-cycle tertiary education,Men,25-64 years,No earnings,2019.0,14.85865
+3033,LVA,Latvia,"Master’s, Doctoral or equivalent education",Women,55-64 years,Part-time or part-year earners,2019.0,7.28406
+3034,LVA,Latvia,Short-cycle tertiary education,Total,25-34 years,No earnings,2019.0,25.92593
+3035,LVA,Latvia,"Master’s, Doctoral or equivalent education",Women,25-64 years,No earnings,2019.0,20.32603
+3036,DEU,Germany,"Master’s, Doctoral or equivalent education",Total,25-34 years,"Full-time, full-year earners",2019.0,50.14206
+3037,DEU,Germany,Short-cycle tertiary education,Total,55-64 years,"Full-time, full-year earners",2019.0,57.00303
+3038,LVA,Latvia,Bachelor’s or equivalent education,Total,25-64 years,"Full-time, full-year earners",2019.0,74.95797
+3039,LVA,Latvia,Bachelor’s or equivalent education,Total,25-64 years,No earnings,2019.0,21.16306
+3040,LVA,Latvia,Bachelor’s or equivalent education,Men,25-64 years,"Full-time, full-year earners",2019.0,77.36771
+3041,LVA,Latvia,"Master’s, Doctoral or equivalent education",Men,25-34 years,No earnings,2019.0,19.44224
+3042,DEU,Germany,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,23.30962
+3044,LVA,Latvia,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,3.975192
+3045,LVA,Latvia,Short-cycle tertiary education,Total,25-34 years,"Full-time, full-year earners",2019.0,71.64021
+3046,LVA,Latvia,Bachelor’s or equivalent education,Men,55-64 years,Part-time or part-year earners,2019.0,14.1603
+3047,DEU,Germany,Bachelor’s or equivalent education,Women,25-34 years,Part-time or part-year earners,2019.0,38.81507
+3048,LVA,Latvia,Bachelor’s or equivalent education,Total,25-34 years,No earnings,2019.0,17.5722
+3049,DEU,Germany,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,71.62327
+3050,LVA,Latvia,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,62.9516
+3052,LVA,Latvia,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,4.0
+3053,DEU,Germany,Bachelor’s or equivalent education,Women,25-64 years,Part-time or part-year earners,2019.0,40.94639
+3054,DEU,Germany,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,32.78796
+3055,LVA,Latvia,"Master’s, Doctoral or equivalent education",Women,25-64 years,Part-time or part-year earners,2019.0,6.41002
+3056,DEU,Germany,Bachelor’s or equivalent education,Men,55-64 years,"Full-time, full-year earners",2019.0,74.66161
+3057,LVA,Latvia,"Master’s, Doctoral or equivalent education",Men,55-64 years,"Full-time, full-year earners",2019.0,58.41391
+3058,DEU,Germany,Short-cycle tertiary education,Total,55-64 years,Part-time or part-year earners,2019.0,18.07392
+3059,LVA,Latvia,"Master’s, Doctoral or equivalent education",Men,25-64 years,No earnings,2019.0,27.39414
+3060,LVA,Latvia,Short-cycle tertiary education,Women,25-34 years,Part-time or part-year earners,2019.0,3.959671
+3061,DEU,Germany,"Master’s, Doctoral or equivalent education",Total,55-64 years,"Full-time, full-year earners",2019.0,61.00488
+3062,LVA,Latvia,Bachelor’s or equivalent education,Women,55-64 years,No earnings,2019.0,20.6255
+3063,DEU,Germany,Bachelor’s or equivalent education,Total,55-64 years,No earnings,2019.0,18.41159
+3064,LVA,Latvia,Short-cycle tertiary education,Women,25-64 years,"Full-time, full-year earners",2019.0,73.69901
+3065,LVA,Latvia,Bachelor’s or equivalent education,Women,25-64 years,No earnings,2019.0,21.66486
+3066,DEU,Germany,"Master’s, Doctoral or equivalent education",Total,55-64 years,No earnings,2019.0,16.5002
+3067,LVA,Latvia,Short-cycle tertiary education,Women,55-64 years,"Full-time, full-year earners",2019.0,84.94258
+3068,LVA,Latvia,Short-cycle tertiary education,Total,55-64 years,No earnings,2019.0,9.5
+3069,LVA,Latvia,Short-cycle tertiary education,Women,25-64 years,No earnings,2019.0,20.81575
+3070,LVA,Latvia,"Master’s, Doctoral or equivalent education",Total,25-34 years,No earnings,2019.0,17.36314
+3071,LVA,Latvia,Bachelor’s or equivalent education,Men,55-64 years,No earnings,2019.0,22.06246
+3072,LVA,Latvia,Short-cycle tertiary education,Total,25-64 years,"Full-time, full-year earners",2019.0,78.01807
+3073,DEU,Germany,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,36.29697
+3074,LVA,Latvia,Short-cycle tertiary education,Men,25-34 years,"Full-time, full-year earners",2019.0,79.69544
+3075,LVA,Latvia,"Master’s, Doctoral or equivalent education",Total,25-34 years,Part-time or part-year earners,2019.0,2.494331
+3076,DEU,Germany,Short-cycle tertiary education,Men,55-64 years,No earnings,2019.0,23.94257

@@ -23,7 +23,8 @@ CREATE TABLE Gender (
 CREATE TABLE Institution (
 	uID INT NOT NULL,
 	sector TEXT NOT NULL,
-	studentRate FLOAT,
+	studentRate FLOAT NOT NULL,
+    year TIMESTAMP,
 	PRIMARY KEY (uID, sector)
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
 );
@@ -32,7 +33,8 @@ CREATE TABLE Institution (
 CREATE TABLE FieldStudy (
 	uID INT NOT NULL,
 	field TEXT NOT NULL,
-	enrollRate FLOAT,
+	enrollRate FLOAT NOT NULL,
+    mobility TEXT,
 	PRIMARY KEY (uID, field)
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
 );
@@ -41,13 +43,14 @@ CREATE TABLE FieldStudy (
 CREATE TABLE EarnType (
 	uID INT NOT NULL,
 	type TEXT NOT NULL,
-	rate FLOAT,
+	rate FLOAT NOT NULL,
+    year TIMESTAMP, -- check this !!!!!!!!!!!!!!!!!
 	PRIMARY KEY (uID, type)
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
 );
 
--- Enrollment rate in different institution sectors.
-CREATE TABLE EarnType (
+
+CREATE TABLE EducationLevel (
 	uID INT NOT NULL,
 	countryCode TEXT NOT NULL,
 	eduLevel TEXT NOT NULL,
