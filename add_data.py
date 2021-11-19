@@ -122,3 +122,27 @@ if __name__ == "__main__":
             tuple["Year"],
         ]
         add_data(db_conn, query, param)
+
+    # create GenderUnemployment db
+    df4 = pd.read_csv("cleaned databases/gender_unemployment.csv")
+
+    # create the institution db
+    institution_db = df4[
+        [
+            "Country",
+            "Sex",
+            "Time" "Value",
+        ]
+    ]
+    query = "Insert into GenderUnemployment values ((SELECT countryCode \
+                                                FROM Country \
+                                                WHERE country=(%s)), %s, %s, %s)"
+
+    for index, tuple in fieldStudy_db.iterrows():
+        param = [
+            tuple["Country"],
+            tuple["Sex"],
+            tuple["Value"],
+            tuple["Year"],
+        ]
+        add_data(db_conn, query, param)

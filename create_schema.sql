@@ -15,6 +15,7 @@ CREATE TABLE GenderUnemployment (
 	countryCode TEXT NOT NULL,
 	gender TEXT NOT NULL,
 	unempRate FLOAT NOT NULL,
+    year TIMESTAMP,
 	PRIMARY KEY (countryCode)
     FOREIGN KEY (countryCode) REFERENCES Country(code)
 );
