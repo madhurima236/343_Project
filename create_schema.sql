@@ -10,14 +10,22 @@ CREATE TABLE Country (
     PRIMARY KEY (code)
 );
 
+-- Education level division for each country
+CREATE TABLE EducationLevel (
+	uID INT NOT NULL,
+	countryCode TEXT NOT NULL,
+	eduLevel TEXT NOT NULL,
+	PRIMARY KEY (uID),
+	FOREIGN KEY (countryCode) REFERENCES Country(code)
+);
+
 -- Unemployment Rate by Gender in each country.
 CREATE TABLE GenderUnemployment (
-	countryCode TEXT NOT NULL,
+	country TEXT NOT NULL,
 	gender TEXT NOT NULL,
 	unempRate FLOAT NOT NULL,
-    year TIMESTAMP,
-	PRIMARY KEY (countryCode)
-    FOREIGN KEY (countryCode) REFERENCES Country(code)
+    year INT,
+	PRIMARY KEY (country, gender, year)
 );
 
 -- Enrollment rate in different institution sectors.
@@ -26,8 +34,8 @@ CREATE TABLE Institution (
 	sector TEXT NOT NULL,
 	studentRate FLOAT NOT NULL,
     employmentType TEXT, 
-    year TIMESTAMP,
-	PRIMARY KEY (uID, sector)
+    year INT,
+	PRIMARY KEY (uID, sector, employmentType, year),
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
 );
 
@@ -36,8 +44,8 @@ CREATE TABLE FieldStudy (
 	uID INT NOT NULL,
 	field TEXT NOT NULL,
 	enrollRate FLOAT NOT NULL,
-    mobility TEXT,
-	PRIMARY KEY (uID, field)
+	mobility TEXT,
+	PRIMARY KEY (uID, field, mobility),
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
 );
 
@@ -46,15 +54,9 @@ CREATE TABLE EarnType (
 	uID INT NOT NULL,
 	type TEXT NOT NULL,
 	rate FLOAT NOT NULL,
-    year TIMESTAMP, -- check this !!!!!!!!!!!!!!!!!
-	PRIMARY KEY (uID, type)
+    year INT, -- check this !!!!!!!!!!!!!!!!!
+	PRIMARY KEY (uID, type, year),
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
 );
 
--- Education level division for each country
-CREATE TABLE EducationLevel (
-	uID INT NOT NULL,
-	countryCode TEXT NOT NULL,
-	eduLevel TEXT NOT NULL,
-	PRIMARY KEY (uID, countryCode)
-);
+
