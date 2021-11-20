@@ -49,6 +49,18 @@ def get_uID(db_conn, query, param):
         print("Error: %s" % error)
         return 1
 
+def get_country_code(db_conn, query, param):
+    cursor = db_conn.cursor(cursor_factory=pg.extras.DictCursor)
+    cursor.execute("SET SEARCH_PATH TO EducationStatus;")
+    try:
+        cursor.execute(query, param)
+        for record in cursor:
+            return record[0]
+
+    except (Exception, pg.DatabaseError) as error:
+        print("Error: %s" % error)
+        return 1
+
 
 if __name__ == "__main__":
     db_conn = connect_db("csc343h-duttama1", "duttama1", "")
@@ -160,14 +172,18 @@ if __name__ == "__main__":
         ]
     ]
     gender_db = gender_db.drop_duplicates(subset=['Country', 'Sex', 'Time'])
+    country_query = "SELECT code FROM Country WHERE country.name = %s;"
     query = "Insert into GenderUnemployment values (%s, %s, %s, %s);"
 
     for index, tuple in gender_db.iterrows():
-        param = [
-            tuple["Country"],
-            tuple["Sex"],
-            tuple["Value"],
-            tuple["Time"],
-        ]
-        add_data(db_conn, query, param)
-
+        countryCode = get_country_code(db_conn, country_query, [tuple["Country"]] )
+        if countryCode is not None:
+            param = [
+                countryCode,
+                tuple["Sex"],
+                tuple["Value"],
+                tuple["Time"],
+            ]
+            add_data(db_conn, query, param)
+    
+disconnect_db(db_conn)

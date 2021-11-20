@@ -21,11 +21,12 @@ CREATE TABLE EducationLevel (
 
 -- Unemployment Rate by Gender in each country.
 CREATE TABLE GenderUnemployment (
-	country TEXT NOT NULL,
+	countryCode TEXT NOT NULL,
 	gender TEXT NOT NULL,
 	unempRate FLOAT NOT NULL,
     year INT,
-	PRIMARY KEY (country, gender, year)
+	PRIMARY KEY (countryCode, gender, year),
+	FOREIGN KEY (countryCode) REFERENCES Country(code)
 );
 
 -- Enrollment rate in different institution sectors.

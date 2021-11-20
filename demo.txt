@@ -1,0 +1,223 @@
+dbsrv1:~/343_Project$ psql csc343h-duttama1
+psql (10.19 (Ubuntu 10.19-0ubuntu0.18.04.1), server 10.18 (Ubuntu 10.18-0ubuntu0.18.04.1))
+Type "help" for help.
+
+csc343h-duttama1=> \i create_schema.sql
+psql:create_schema.sql:1: NOTICE:  drop cascades to 6 other objects
+DETAIL:  drop cascades to table educationstatus.country
+drop cascades to table educationstatus.educationlevel
+drop cascades to table educationstatus.genderunemployment
+drop cascades to table educationstatus.institution
+drop cascades to table educationstatus.fieldstudy
+drop cascades to table educationstatus.earntype
+DROP SCHEMA
+CREATE SCHEMA
+SET
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+csc343h-duttama1=> \q
+dbsrv1:~/343_Project$ python3 add_data.py
+dbsrv1:~/343_Project$ psql csc343h-duttama1
+psql (10.19 (Ubuntu 10.19-0ubuntu0.18.04.1), server 10.18 (Ubuntu 10.18-0ubuntu0.18.04.1))
+Type "help" for help.
+
+csc343h-duttama1=> SET SEARCH_PATH TO EducationStatus;
+SET
+csc343h-duttama1=> \d
+                    List of relations
+     Schema      |        Name        | Type  |  Owner   
+-----------------+--------------------+-------+----------
+ educationstatus | country            | table | duttama1
+ educationstatus | earntype           | table | duttama1
+ educationstatus | educationlevel     | table | duttama1
+ educationstatus | fieldstudy         | table | duttama1
+ educationstatus | genderunemployment | table | duttama1
+ educationstatus | institution        | table | duttama1
+(6 rows)
+
+csc343h-duttama1=> \d country
+        Table "educationstatus.country"
+ Column | Type | Collation | Nullable | Default 
+--------+------+-----------+----------+---------
+ code   | text |           | not null | 
+ name   | text |           | not null | 
+Indexes:
+    "country_pkey" PRIMARY KEY, btree (code)
+Referenced by:
+    TABLE "educationlevel" CONSTRAINT "educationlevel_countrycode_fkey" FOREIGN KEY (countrycode) REFERENCES country(code)
+    TABLE "genderunemployment" CONSTRAINT "genderunemployment_countrycode_fkey" FOREIGN KEY (countrycode) REFERENCES country(code)
+
+csc343h-duttama1=> \d earntype
+              Table "educationstatus.earntype"
+ Column |       Type       | Collation | Nullable | Default 
+--------+------------------+-----------+----------+---------
+ uid    | integer          |           | not null | 
+ type   | text             |           | not null | 
+ rate   | double precision |           | not null | 
+ year   | integer          |           | not null | 
+Indexes:
+    "earntype_pkey" PRIMARY KEY, btree (uid, type, year)
+Foreign-key constraints:
+    "earntype_uid_fkey" FOREIGN KEY (uid) REFERENCES educationlevel(uid)
+
+csc343h-duttama1=> \d educationlevel
+         Table "educationstatus.educationlevel"
+   Column    |  Type   | Collation | Nullable | Default 
+-------------+---------+-----------+----------+---------
+ uid         | integer |           | not null | 
+ countrycode | text    |           | not null | 
+ edulevel    | text    |           | not null | 
+Indexes:
+    "educationlevel_pkey" PRIMARY KEY, btree (uid)
+Foreign-key constraints:
+    "educationlevel_countrycode_fkey" FOREIGN KEY (countrycode) REFERENCES country(code)
+Referenced by:
+    TABLE "earntype" CONSTRAINT "earntype_uid_fkey" FOREIGN KEY (uid) REFERENCES educationlevel(uid)
+    TABLE "fieldstudy" CONSTRAINT "fieldstudy_uid_fkey" FOREIGN KEY (uid) REFERENCES educationlevel(uid)
+    TABLE "institution" CONSTRAINT "institution_uid_fkey" FOREIGN KEY (uid) REFERENCES educationlevel(uid)
+
+csc343h-duttama1=> \d fieldstudy
+               Table "educationstatus.fieldstudy"
+   Column   |       Type       | Collation | Nullable | Default 
+------------+------------------+-----------+----------+---------
+ uid        | integer          |           | not null | 
+ field      | text             |           | not null | 
+ enrollrate | double precision |           | not null | 
+ mobility   | text             |           | not null | 
+Indexes:
+    "fieldstudy_pkey" PRIMARY KEY, btree (uid, field, mobility)
+Foreign-key constraints:
+    "fieldstudy_uid_fkey" FOREIGN KEY (uid) REFERENCES educationlevel(uid)
+
+csc343h-duttama1=> \d genderunemployment
+           Table "educationstatus.genderunemployment"
+   Column    |       Type       | Collation | Nullable | Default 
+-------------+------------------+-----------+----------+---------
+ countrycode | text             |           | not null | 
+ gender      | text             |           | not null | 
+ unemprate   | double precision |           | not null | 
+ year        | integer          |           | not null | 
+Indexes:
+    "genderunemployment_pkey" PRIMARY KEY, btree (countrycode, gender, year)
+Foreign-key constraints:
+    "genderunemployment_countrycode_fkey" FOREIGN KEY (countrycode) REFERENCES country(code)
+
+csc343h-duttama1=> \d institution
+                Table "educationstatus.institution"
+     Column     |       Type       | Collation | Nullable | Default 
+----------------+------------------+-----------+----------+---------
+ uid            | integer          |           | not null | 
+ sector         | text             |           | not null | 
+ studentrate    | double precision |           | not null | 
+ employmenttype | text             |           | not null | 
+ year           | integer          |           | not null | 
+Indexes:
+    "institution_pkey" PRIMARY KEY, btree (uid, sector, employmenttype, year)
+Foreign-key constraints:
+    "institution_uid_fkey" FOREIGN KEY (uid) REFERENCES educationlevel(uid)
+
+csc343h-duttama1=> SELECT count(*) FROM country;
+ count 
+-------
+    23
+(1 row)
+
+csc343h-duttama1=> SELECT count(*) FROM EducationLevel;
+ count 
+-------
+    67
+(1 row)
+
+csc343h-duttama1=> SELECT count(*) FROM GenderUnemployment;
+ count 
+-------
+   138
+(1 row)
+
+csc343h-duttama1=> SELECT count(*) FROM Institution;
+ count 
+-------
+   558
+(1 row)
+
+csc343h-duttama1=> SELECT count(*) FROM FieldStudy;
+ count 
+-------
+   380
+(1 row)
+
+csc343h-duttama1=> SELECT count(*) FROM EarnType;
+ count 
+-------
+   199
+(1 row)
+
+csc343h-duttama1=> SELECT * FROM Country
+csc343h-duttama1-> LIMIT 5;
+ code |    name     
+------+-------------
+ CAN  | Canada
+ ESP  | Spain
+ SWE  | Sweden
+ KOR  | Korea
+ NZL  | New Zealand
+(5 rows)
+
+csc343h-duttama1=> SELECT * FROM EducationLevel
+LIMIT 5;
+ uid | countrycode |             edulevel              
+-----+-------------+-----------------------------------
+   0 | CAN         | Short-cycle tertiary education
+   1 | ESP         | Bachelors or equivalent education
+   2 | SWE         | Bachelors or equivalent education
+   3 | SWE         | Short-cycle tertiary education
+   4 | KOR         | Short-cycle tertiary education
+(5 rows)
+
+csc343h-duttama1=> SELECT * FROM GenderUnemployment
+LIMIT 5;
+ countrycode | gender | unemprate | year 
+-------------+--------+-----------+------
+ AUT         | Men    |       5.9 | 2017
+ AUT         | Women  |         5 | 2017
+ BEL         | Men    |       7.1 | 2017
+ BEL         | Women  |       7.1 | 2017
+ CAN         | Men    |       6.8 | 2017
+(5 rows)
+
+csc343h-duttama1=> SELECT * FROM Institution   
+LIMIT 5;
+ uid |             sector              | studentrate | employmenttype | year 
+-----+---------------------------------+-------------+----------------+------
+  27 | Public educational institutions |   63353.066 | Full-time      | 2013
+  27 | Public educational institutions |   64080.473 | Full-time      | 2014
+  27 | Public educational institutions |    64024.26 | Full-time      | 2015
+  27 | Public educational institutions |   63780.071 | Full-time      | 2016
+  27 | Public educational institutions |   62274.449 | Full-time      | 2017
+(5 rows)
+
+csc343h-duttama1=> SELECT * FROM FieldStudy
+LIMIT 5;
+ uid |                      field                      | enrollrate |               mobility                
+-----+-------------------------------------------------+------------+---------------------------------------
+  27 | Agriculture, forestry, fisheries and veterinary |        1.5 | Homecoming nationals
+  27 | Agriculture, forestry, fisheries and veterinary |       23.5 | Mobile including homecoming nationals
+  27 | Agriculture, forestry, fisheries and veterinary |   1875.167 | Total
+  27 | Arts and humanities                             |         33 | Homecoming nationals
+  27 | Arts and humanities                             |    176.333 | Mobile including homecoming nationals
+(5 rows)
+
+csc343h-duttama1=> SELECT * FROM EarnType
+LIMIT 5;
+ uid |              type              |   rate   | year 
+-----+--------------------------------+----------+------
+   0 | Full-time, full-year earners   | 57.60789 | 2018
+   1 | Part-time or part-year earners | 34.66573 | 2018
+   2 | Full-time, full-year earners   |  51.0417 | 2019
+   3 | No earnings                    | 12.85634 | 2019
+   4 | No earnings                    | 49.51765 | 2019
+(5 rows)
