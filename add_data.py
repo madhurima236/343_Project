@@ -66,9 +66,11 @@ if __name__ == "__main__":
     db_conn = connect_db("csc343h-duttama1", "duttama1", "")
 
     df1 = pd.read_csv("cleaned databases/edu_earnings.csv")
+    df2 = pd.read_csv("cleaned databases/enroll_field.csv")
+    df3 = pd.read_csv("cleaned databases/enroll_institution_type.csv")
 
     # create the country db
-    country_db = df1[["Country code", "Country"]]
+    country_db = pd.concat([df1[["Country code", "Country"]], df2[["Country code", "Country"]], df3[["Country code", "Country"]]])
     country_db = country_db.drop_duplicates()
     query = "Insert into Country values (%s, %s);"
 
@@ -76,8 +78,10 @@ if __name__ == "__main__":
         param = [tuple["Country code"], tuple["Country"]]
         add_data(db_conn, query, param)
 
+    print("created country db")
+
     # create the EducationLevel db
-    eduLevel_db = df1[["Country code", "Education Level"]]
+    eduLevel_db = pd.concat([df1[["Country code", "Education Level"]], df2[["Country code", "Education Level"]], df3[["Country code", "Education Level"]]])
     eduLevel_db = eduLevel_db.drop_duplicates()
     query = "Insert into EducationLevel values (%s, %s, %s);"
     i = 0
@@ -87,6 +91,7 @@ if __name__ == "__main__":
         param = [i, tuple["Country code"], edu_level]
         add_data(db_conn, query, param)
         i += 1
+    print("created education level db")
 
     # create earnType db
     earnType_db = df1[
@@ -108,22 +113,22 @@ if __name__ == "__main__":
             ]
             add_data(db_conn, insert_query, param)
     
-    df2 = pd.read_csv("cleaned databases/enroll_field.csv")
+    print("created earnType db")
 
     # create the FieldStudy db
     fieldStudy_db = (
         df2.groupby(
-            ["Country code", "Field", "Education level", "International mobility"]
+            ["Country code", "Field", "Education Level", "International mobility"]
         )["Value"]
         .sum()
         .reset_index(name="Value")
     )
-    fieldStudy_db = fieldStudy_db.drop_duplicates(subset=['Country code', 'Field', 'Education level', "International mobility" ])
+    fieldStudy_db = fieldStudy_db.drop_duplicates(subset=['Country code', 'Field', 'Education Level', "International mobility" ])
 
     insert_query = "INSERT INTO FieldStudy VALUES (%s, %s, %s, %s);"
 
     for index, tuple in fieldStudy_db.iterrows():
-        edu_level = re.sub("’", "", tuple["Education level"])
+        edu_level = re.sub("’", "", tuple["Education Level"])
         uID = get_uID(db_conn, get_uID_query, [tuple["Country code"], edu_level] )
         if uID is not None:
             param = [
@@ -134,12 +139,13 @@ if __name__ == "__main__":
             ]
             add_data(db_conn, insert_query, param)
 
-    df3 = pd.read_csv("cleaned databases/enroll_institution_type.csv")
+    print("created Field db")
+
     # create the institution db
     institution_db = df3[
         [
             "Country code",
-            "Education level",
+            "Education Level",
             'Reference sector',
             "Employment type",
             "Year",
@@ -150,7 +156,7 @@ if __name__ == "__main__":
     insert_query = "Insert into Institution values ((%s), (%s), (%s), (%s), (%s))"
 
     for index, tuple in institution_db.iterrows():
-        edu_level = re.sub("’", "", tuple["Education level"])
+        edu_level = re.sub("’", "", tuple["Education Level"])
         uID = get_uID(db_conn, get_uID_query, [tuple["Country code"], edu_level] )
         if uID is not None:
             param = [
@@ -161,6 +167,8 @@ if __name__ == "__main__":
                 tuple["Year"],
             ]
             add_data(db_conn, insert_query, param)
+
+    print("created institution db")
 
     # create GenderUnemployment db
     df4 = pd.read_csv("cleaned databases/gender_unemployment.csv")
@@ -186,4 +194,6 @@ if __name__ == "__main__":
             ]
             add_data(db_conn, query, param)
     
-disconnect_db(db_conn)
+    print("created Gender db")
+   
+    disconnect_db(db_conn)
