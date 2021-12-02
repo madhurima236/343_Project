@@ -1,0 +1,1467 @@
+,country,eduLevel,field,enrollPercent
+0,Australia,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.783415704499889
+1,Australia,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.53543979504697
+2,Australia,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.611332220684992
+3,Australia,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.832987934051764
+4,Australia,Bachelors or equivalent level,Arts and humanities,11.9512661999266
+5,Australia,Doctoral or equivalent level,Arts and humanities,9.52243316034947
+6,Australia,Masters or equivalent level,Arts and humanities,4.07419351251743
+7,Australia,Short-cycle tertiary education,Arts and humanities,8.79540081667741
+8,Australia,Bachelors or equivalent level,"Business, administration and law",26.2330177296557
+9,Australia,Doctoral or equivalent level,"Business, administration and law",8.1166655718321
+10,Australia,Masters or equivalent level,"Business, administration and law",40.3146305749446
+11,Australia,Short-cycle tertiary education,"Business, administration and law",47.8667756593289
+12,Australia,Bachelors or equivalent level,Education,7.04835274273396
+13,Australia,Doctoral or equivalent level,Education,5.27622676213624
+14,Australia,Masters or equivalent level,Education,7.40836810652555
+15,Australia,Short-cycle tertiary education,Education,9.89434619753769
+16,Australia,Bachelors or equivalent level,"Engineering, manufacturing and construction",9.12359965200259
+17,Australia,Doctoral or equivalent level,"Engineering, manufacturing and construction",19.6019181501675
+18,Australia,Masters or equivalent level,"Engineering, manufacturing and construction",11.4493249384601
+19,Australia,Short-cycle tertiary education,"Engineering, manufacturing and construction",8.28804764974978
+20,Australia,Bachelors or equivalent level,Health and welfare,20.7608980390575
+21,Australia,Doctoral or equivalent level,Health and welfare,16.2898246075018
+22,Australia,Masters or equivalent level,Health and welfare,13.0760780660316
+23,Australia,Short-cycle tertiary education,Health and welfare,14.5305639986491
+24,Australia,Bachelors or equivalent level,Information and Communication Technologies (ICTs),6.12364562845561
+25,Australia,Doctoral or equivalent level,Information and Communication Technologies (ICTs),4.97273861919464
+26,Australia,Masters or equivalent level,Information and Communication Technologies (ICTs),15.9071608027103
+27,Australia,Short-cycle tertiary education,Information and Communication Technologies (ICTs),5.77200577200577
+28,Australia,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",7.77664157015752
+29,Australia,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",22.554030086054
+30,Australia,Masters or equivalent level,"Natural sciences, mathematics and statistics",2.90873306555219
+31,Australia,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.800366890792423
+32,Australia,Bachelors or equivalent level,Services,1.03678544154527
+33,Australia,Doctoral or equivalent level,Services,0.211522039019904
+34,Australia,Masters or equivalent level,Services,0.572015716236153
+35,Australia,Short-cycle tertiary education,Services,2.3583095391606
+36,Australia,Bachelors or equivalent level,"Social sciences, journalism and information",9.16237729196527
+37,Australia,Doctoral or equivalent level,"Social sciences, journalism and information",9.91920120869737
+38,Australia,Masters or equivalent level,"Social sciences, journalism and information",3.67816299633707
+39,Australia,Short-cycle tertiary education,"Social sciences, journalism and information",0.861195542046606
+40,Austria,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.818633224911747
+41,Austria,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.84574154130215
+42,Austria,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.6249737753601
+43,Austria,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",2.54533032476726
+44,Austria,Bachelors or equivalent level,Arts and humanities,13.1447066795969
+45,Austria,Doctoral or equivalent level,Arts and humanities,17.3687471836369
+46,Austria,Masters or equivalent level,Arts and humanities,10.0479130702358
+47,Austria,Short-cycle tertiary education,Arts and humanities,4.00421089230353
+48,Austria,Bachelors or equivalent level,"Business, administration and law",18.1748981250414
+49,Austria,Doctoral or equivalent level,"Business, administration and law",16.1428149551872
+50,Austria,Masters or equivalent level,"Business, administration and law",31.9413598312909
+51,Austria,Short-cycle tertiary education,"Business, administration and law",23.7938133574992
+52,Austria,Bachelors or equivalent level,Education,14.4411775471392
+53,Austria,Doctoral or equivalent level,Education,2.30594890406462
+54,Austria,Masters or equivalent level,Education,8.54584598040956
+55,Austria,Short-cycle tertiary education,Education,11.84569243584
+56,Austria,Bachelors or equivalent level,"Engineering, manufacturing and construction",16.2195127397085
+57,Austria,Doctoral or equivalent level,"Engineering, manufacturing and construction",18.7883079309962
+58,Austria,Masters or equivalent level,"Engineering, manufacturing and construction",11.2492984032805
+59,Austria,Short-cycle tertiary education,"Engineering, manufacturing and construction",29.1781873485402
+60,Austria,Bachelors or equivalent level,Health and welfare,6.43304051895492
+61,Austria,Doctoral or equivalent level,Health and welfare,12.5727665872758
+62,Austria,Masters or equivalent level,Health and welfare,13.808679158666
+63,Austria,Short-cycle tertiary education,Health and welfare,4.98092904723626
+64,Austria,Bachelors or equivalent level,Information and Communication Technologies (ICTs),6.08480479807854
+65,Austria,Doctoral or equivalent level,Information and Communication Technologies (ICTs),5.21295725089231
+66,Austria,Masters or equivalent level,Information and Communication Technologies (ICTs),3.96755650510416
+67,Austria,Short-cycle tertiary education,Information and Communication Technologies (ICTs),4.10909741530893
+68,Austria,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",11.7146152655096
+69,Austria,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",15.7366311728111
+70,Austria,Masters or equivalent level,"Natural sciences, mathematics and statistics",6.95110694211832
+71,Austria,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.324724795946411
+72,Austria,Bachelors or equivalent level,Services,1.29135895289193
+73,Austria,Doctoral or equivalent level,Services,0.42878528027936
+74,Austria,Masters or equivalent level,Services,0.793401349917407
+75,Austria,Short-cycle tertiary education,Services,17.5703887078388
+76,Austria,Bachelors or equivalent level,"Social sciences, journalism and information",11.6772521481672
+77,Austria,Doctoral or equivalent level,"Social sciences, journalism and information",8.5972991935544
+78,Austria,Masters or equivalent level,"Social sciences, journalism and information",11.0698649836172
+79,Austria,Short-cycle tertiary education,"Social sciences, journalism and information",1.64762567471949
+80,Belgium,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.36085242253453
+81,Belgium,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.49108789182545
+82,Belgium,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.98611959132169
+83,Belgium,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.0
+84,Belgium,Bachelors or equivalent level,Arts and humanities,9.90595830343297
+85,Belgium,Doctoral or equivalent level,Arts and humanities,10.3318992009834
+86,Belgium,Masters or equivalent level,Arts and humanities,10.6166809134204
+87,Belgium,Short-cycle tertiary education,Arts and humanities,0.0
+88,Belgium,Bachelors or equivalent level,"Business, administration and law",21.9424354084861
+89,Belgium,Doctoral or equivalent level,"Business, administration and law",8.55562384757222
+90,Belgium,Masters or equivalent level,"Business, administration and law",22.3901982334025
+91,Belgium,Short-cycle tertiary education,"Business, administration and law",24.8282794437929
+92,Belgium,Bachelors or equivalent level,Education,11.9096189147712
+93,Belgium,Doctoral or equivalent level,Education,1.36447449293178
+94,Belgium,Masters or equivalent level,Education,3.64798306671551
+95,Belgium,Short-cycle tertiary education,Education,0.0
+96,Belgium,Bachelors or equivalent level,"Engineering, manufacturing and construction",10.0427608857497
+97,Belgium,Doctoral or equivalent level,"Engineering, manufacturing and construction",20.8174554394591
+98,Belgium,Masters or equivalent level,"Engineering, manufacturing and construction",12.5444702242846
+99,Belgium,Short-cycle tertiary education,"Engineering, manufacturing and construction",6.8771988607807
+100,Belgium,Bachelors or equivalent level,Health and welfare,26.821369154646
+101,Belgium,Doctoral or equivalent level,Health and welfare,20.719114935464
+102,Belgium,Masters or equivalent level,Health and welfare,26.5250132291285
+103,Belgium,Short-cycle tertiary education,Health and welfare,46.6954263695761
+104,Belgium,Bachelors or equivalent level,Information and Communication Technologies (ICTs),3.91970306582919
+105,Belgium,Doctoral or equivalent level,Information and Communication Technologies (ICTs),0.540872771972956
+106,Belgium,Masters or equivalent level,Information and Communication Technologies (ICTs),1.31640004884601
+107,Belgium,Short-cycle tertiary education,Information and Communication Technologies (ICTs),12.4685877031329
+108,Belgium,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",2.70379956405935
+109,Belgium,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",22.6121696373694
+110,Belgium,Masters or equivalent level,"Natural sciences, mathematics and statistics",5.36084992062523
+111,Belgium,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.892109231026973
+112,Belgium,Bachelors or equivalent level,Services,2.01011102779323
+113,Belgium,Doctoral or equivalent level,Services,0.460971112476951
+114,Belgium,Masters or equivalent level,Services,0.832824520698498
+115,Belgium,Short-cycle tertiary education,Services,0.871167699782208
+116,Belgium,Bachelors or equivalent level,"Social sciences, journalism and information",8.38339125269775
+117,Belgium,Doctoral or equivalent level,"Social sciences, journalism and information",11.1063306699447
+118,Belgium,Masters or equivalent level,"Social sciences, journalism and information",13.779460251557
+119,Belgium,Short-cycle tertiary education,"Social sciences, journalism and information",7.36723069190819
+120,Brazil,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.17370362184052
+121,Brazil,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",8.5041059711963
+122,Brazil,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",6.1101100420449
+123,Brazil,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.0
+124,Brazil,Bachelors or equivalent level,Arts and humanities,2.26184477786426
+125,Brazil,Doctoral or equivalent level,Arts and humanities,17.96393347914
+126,Brazil,Masters or equivalent level,Arts and humanities,19.6619408651503
+127,Brazil,Short-cycle tertiary education,Arts and humanities,39.1180654338549
+128,Brazil,Bachelors or equivalent level,"Business, administration and law",30.6470143818866
+129,Brazil,Doctoral or equivalent level,"Business, administration and law",5.30598770271943
+130,Brazil,Masters or equivalent level,"Business, administration and law",8.85889459309376
+131,Brazil,Short-cycle tertiary education,"Business, administration and law",30.8677098150782
+132,Brazil,Bachelors or equivalent level,Education,19.7243903355975
+133,Brazil,Doctoral or equivalent level,Education,7.59707836421409
+134,Brazil,Masters or equivalent level,Education,10.8285452011016
+135,Brazil,Short-cycle tertiary education,Education,0.0
+136,Brazil,Bachelors or equivalent level,"Engineering, manufacturing and construction",12.5063041439104
+137,Brazil,Doctoral or equivalent level,"Engineering, manufacturing and construction",15.0323938431065
+138,Brazil,Masters or equivalent level,"Engineering, manufacturing and construction",14.7049490588062
+139,Brazil,Short-cycle tertiary education,"Engineering, manufacturing and construction",2.56045519203414
+140,Brazil,Bachelors or equivalent level,Health and welfare,18.6559827067716
+141,Brazil,Doctoral or equivalent level,Health and welfare,17.141913919036
+142,Brazil,Masters or equivalent level,Health and welfare,15.0069697072723
+143,Brazil,Short-cycle tertiary education,Health and welfare,13.371266002845
+144,Brazil,Bachelors or equivalent level,Information and Communication Technologies (ICTs),4.13426135918565
+145,Brazil,Doctoral or equivalent level,Information and Communication Technologies (ICTs),2.27623488631205
+146,Brazil,Masters or equivalent level,Information and Communication Technologies (ICTs),2.65188862067793
+147,Brazil,Short-cycle tertiary education,Information and Communication Technologies (ICTs),2.98719772403983
+148,Brazil,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",1.43405670511249
+149,Brazil,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",18.542483390418
+150,Brazil,Masters or equivalent level,"Natural sciences, mathematics and statistics",14.6454515577012
+151,Brazil,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+152,Brazil,Bachelors or equivalent level,Services,2.14838473662151
+153,Brazil,Doctoral or equivalent level,Services,0.0
+154,Brazil,Masters or equivalent level,Services,0.0
+155,Brazil,Short-cycle tertiary education,Services,11.0953058321479
+156,Brazil,Bachelors or equivalent level,"Social sciences, journalism and information",5.31405723120952
+157,Brazil,Doctoral or equivalent level,"Social sciences, journalism and information",7.63586844385755
+158,Brazil,Masters or equivalent level,"Social sciences, journalism and information",7.53125035415179
+159,Brazil,Short-cycle tertiary education,"Social sciences, journalism and information",0.0
+160,Canada,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.67224479275995
+161,Canada,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.95374467729815
+162,Canada,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.499761067477
+163,Canada,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",1.5274669930703
+164,Canada,Bachelors or equivalent level,Arts and humanities,12.4163347513359
+165,Canada,Doctoral or equivalent level,Arts and humanities,11.3843199465642
+166,Canada,Masters or equivalent level,Arts and humanities,4.67204979598838
+167,Canada,Short-cycle tertiary education,Arts and humanities,7.32495649014095
+168,Canada,Bachelors or equivalent level,"Business, administration and law",21.4709141200635
+169,Canada,Doctoral or equivalent level,"Business, administration and law",5.31017784086165
+170,Canada,Masters or equivalent level,"Business, administration and law",25.6294953009937
+171,Canada,Short-cycle tertiary education,"Business, administration and law",27.2483281376505
+172,Canada,Bachelors or equivalent level,Education,4.54097371868283
+173,Canada,Doctoral or equivalent level,Education,4.48359355431243
+174,Canada,Masters or equivalent level,Education,6.7403477387181
+175,Canada,Short-cycle tertiary education,Education,1.933559010844
+176,Canada,Bachelors or equivalent level,"Engineering, manufacturing and construction",10.1418622509306
+177,Canada,Doctoral or equivalent level,"Engineering, manufacturing and construction",22.0464223094264
+178,Canada,Masters or equivalent level,"Engineering, manufacturing and construction",13.6730667908299
+179,Canada,Short-cycle tertiary education,"Engineering, manufacturing and construction",17.6704215834401
+180,Canada,Bachelors or equivalent level,Health and welfare,9.52568214246807
+181,Canada,Doctoral or equivalent level,Health and welfare,7.94856808883694
+182,Canada,Masters or equivalent level,Health and welfare,25.6699300356561
+183,Canada,Short-cycle tertiary education,Health and welfare,19.4943293744143
+184,Canada,Bachelors or equivalent level,Information and Communication Technologies (ICTs),6.01964655335046
+185,Canada,Doctoral or equivalent level,Information and Communication Technologies (ICTs),4.17466811388495
+186,Canada,Masters or equivalent level,Information and Communication Technologies (ICTs),4.55319618198081
+187,Canada,Short-cycle tertiary education,Information and Communication Technologies (ICTs),8.2423291959123
+188,Canada,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",15.8625857244965
+189,Canada,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",24.5762711864407
+190,Canada,Masters or equivalent level,"Natural sciences, mathematics and statistics",8.26829059095977
+191,Canada,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",2.74510553929912
+192,Canada,Bachelors or equivalent level,Services,3.79433029273205
+193,Canada,Doctoral or equivalent level,Services,1.30667111964599
+194,Canada,Masters or equivalent level,Services,1.21794321983017
+195,Canada,Short-cycle tertiary education,Services,11.9883208700697
+196,Canada,Bachelors or equivalent level,"Social sciences, journalism and information",15.5554256531801
+197,Canada,Doctoral or equivalent level,"Social sciences, journalism and information",16.8155631627286
+198,Canada,Masters or equivalent level,"Social sciences, journalism and information",8.07591927756607
+199,Canada,Short-cycle tertiary education,"Social sciences, journalism and information",1.82518280515871
+200,Chile,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.73180450096935
+201,Chile,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",5.43864871565443
+202,Chile,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.874354528922761
+203,Chile,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",2.4904192878601
+204,Chile,Bachelors or equivalent level,Arts and humanities,5.0494446679511
+205,Chile,Doctoral or equivalent level,Arts and humanities,12.3611083387503
+206,Chile,Masters or equivalent level,Arts and humanities,2.90884052208555
+207,Chile,Short-cycle tertiary education,Arts and humanities,2.28121308523201
+208,Chile,Bachelors or equivalent level,"Business, administration and law",22.9661180027588
+209,Chile,Doctoral or equivalent level,"Business, administration and law",4.40685316024545
+210,Chile,Masters or equivalent level,"Business, administration and law",21.5901180692898
+211,Chile,Short-cycle tertiary education,"Business, administration and law",22.493020345216
+212,Chile,Bachelors or equivalent level,Education,10.4948554962885
+213,Chile,Doctoral or equivalent level,Education,5.1107820921498
+214,Chile,Masters or equivalent level,Education,14.7371881677026
+215,Chile,Short-cycle tertiary education,Education,11.8878180841564
+216,Chile,Bachelors or equivalent level,"Engineering, manufacturing and construction",22.5308237073902
+217,Chile,Doctoral or equivalent level,"Engineering, manufacturing and construction",18.2686524677435
+218,Chile,Masters or equivalent level,"Engineering, manufacturing and construction",4.36002023183853
+219,Chile,Short-cycle tertiary education,"Engineering, manufacturing and construction",21.391999002151
+220,Chile,Bachelors or equivalent level,Health and welfare,18.8144383182717
+221,Chile,Doctoral or equivalent level,Health and welfare,7.06348841292998
+222,Chile,Masters or equivalent level,Health and welfare,43.8648365956293
+223,Chile,Short-cycle tertiary education,Health and welfare,22.7658557362577
+224,Chile,Bachelors or equivalent level,Information and Communication Technologies (ICTs),3.98640243410602
+225,Chile,Doctoral or equivalent level,Information and Communication Technologies (ICTs),1.79359691686476
+226,Chile,Masters or equivalent level,Information and Communication Technologies (ICTs),1.28987439433824
+227,Chile,Short-cycle tertiary education,Information and Communication Technologies (ICTs),4.49055407244723
+228,Chile,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",2.44212021899043
+229,Chile,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",35.4862137487304
+230,Chile,Masters or equivalent level,"Natural sciences, mathematics and statistics",1.94345742667067
+231,Chile,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.530438463586552
+232,Chile,Bachelors or equivalent level,Services,4.14195175663605
+233,Chile,Doctoral or equivalent level,Services,0.159109403915422
+234,Chile,Masters or equivalent level,Services,1.26695784418503
+235,Chile,Short-cycle tertiary education,Services,11.5926157748252
+236,Chile,Bachelors or equivalent level,"Social sciences, journalism and information",6.84204089663779
+237,Chile,Doctoral or equivalent level,"Social sciences, journalism and information",9.91154674301604
+238,Chile,Masters or equivalent level,"Social sciences, journalism and information",7.16435221933743
+239,Chile,Short-cycle tertiary education,"Social sciences, journalism and information",0.0760661482678643
+240,Colombia,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.65839994600276
+241,Colombia,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.46000295726749
+242,Colombia,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.754241396025206
+243,Colombia,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",3.53109986323308
+244,Colombia,Bachelors or equivalent level,Arts and humanities,3.89680098480685
+245,Colombia,Doctoral or equivalent level,Arts and humanities,10.0547094484696
+246,Colombia,Masters or equivalent level,Arts and humanities,1.90790111488124
+247,Colombia,Short-cycle tertiary education,Arts and humanities,5.269617870878
+248,Colombia,Bachelors or equivalent level,"Business, administration and law",32.6471183793113
+249,Colombia,Doctoral or equivalent level,"Business, administration and law",9.24146089013751
+250,Colombia,Masters or equivalent level,"Business, administration and law",47.5540475036355
+251,Colombia,Short-cycle tertiary education,"Business, administration and law",37.9896431201562
+252,Colombia,Bachelors or equivalent level,Education,9.69546198176307
+253,Colombia,Doctoral or equivalent level,Education,15.0377051604318
+254,Colombia,Masters or equivalent level,Education,17.7017288738084
+255,Colombia,Short-cycle tertiary education,Education,1.30717617216267
+256,Colombia,Bachelors or equivalent level,"Engineering, manufacturing and construction",22.3200172276916
+257,Colombia,Doctoral or equivalent level,"Engineering, manufacturing and construction",22.5935235842082
+258,Colombia,Masters or equivalent level,"Engineering, manufacturing and construction",9.54984650185813
+259,Colombia,Short-cycle tertiary education,"Engineering, manufacturing and construction",22.9216103428525
+260,Colombia,Bachelors or equivalent level,Health and welfare,8.91018780112301
+261,Colombia,Doctoral or equivalent level,Health and welfare,8.76829809256247
+262,Colombia,Masters or equivalent level,Health and welfare,9.29520116335434
+263,Colombia,Short-cycle tertiary education,Health and welfare,2.8856944135972
+264,Colombia,Bachelors or equivalent level,Information and Communication Technologies (ICTs),1.42880560028541
+265,Colombia,Doctoral or equivalent level,Information and Communication Technologies (ICTs),1.06461629454384
+266,Colombia,Masters or equivalent level,Information and Communication Technologies (ICTs),2.6841169817418
+267,Colombia,Short-cycle tertiary education,Information and Communication Technologies (ICTs),10.287619671058
+268,Colombia,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",2.19736634879004
+269,Colombia,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",17.3000147863374
+270,Colombia,Masters or equivalent level,"Natural sciences, mathematics and statistics",2.50767490709323
+271,Colombia,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",3.15981273452021
+272,Colombia,Bachelors or equivalent level,Services,0.6913575485252
+273,Colombia,Doctoral or equivalent level,Services,0.0
+274,Colombia,Masters or equivalent level,Services,0.957182097269349
+275,Colombia,Short-cycle tertiary education,Services,8.88049843945434
+276,Colombia,Bachelors or equivalent level,"Social sciences, journalism and information",15.5544841817007
+277,Colombia,Doctoral or equivalent level,"Social sciences, journalism and information",12.4796687860417
+278,Colombia,Masters or equivalent level,"Social sciences, journalism and information",7.08805946033285
+279,Colombia,Short-cycle tertiary education,"Social sciences, journalism and information",3.76722737208786
+280,Czech Republic,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.57968819006824
+281,Czech Republic,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.79513207982466
+282,Czech Republic,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.43697314252107
+283,Czech Republic,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.0
+284,Czech Republic,Bachelors or equivalent level,Arts and humanities,10.2523067571482
+285,Czech Republic,Doctoral or equivalent level,Arts and humanities,13.3694774483793
+286,Czech Republic,Masters or equivalent level,Arts and humanities,6.36737894530484
+287,Czech Republic,Short-cycle tertiary education,Arts and humanities,100.0
+288,Czech Republic,Bachelors or equivalent level,"Business, administration and law",20.1023853507268
+289,Czech Republic,Doctoral or equivalent level,"Business, administration and law",8.21317337639866
+290,Czech Republic,Masters or equivalent level,"Business, administration and law",20.158400313664
+291,Czech Republic,Short-cycle tertiary education,"Business, administration and law",0.0
+292,Czech Republic,Bachelors or equivalent level,Education,8.73599680876829
+293,Czech Republic,Doctoral or equivalent level,Education,3.6874687584112
+294,Czech Republic,Masters or equivalent level,Education,13.7620074495197
+295,Czech Republic,Short-cycle tertiary education,Education,0.0
+296,Czech Republic,Bachelors or equivalent level,"Engineering, manufacturing and construction",14.9645972732065
+297,Czech Republic,Doctoral or equivalent level,"Engineering, manufacturing and construction",22.4593378705733
+298,Czech Republic,Masters or equivalent level,"Engineering, manufacturing and construction",12.2070182317193
+299,Czech Republic,Short-cycle tertiary education,"Engineering, manufacturing and construction",0.0
+300,Czech Republic,Bachelors or equivalent level,Health and welfare,11.2870826348557
+301,Czech Republic,Doctoral or equivalent level,Health and welfare,12.1236590148806
+302,Czech Republic,Masters or equivalent level,Health and welfare,20.3614977455401
+303,Czech Republic,Short-cycle tertiary education,Health and welfare,0.0
+304,Czech Republic,Bachelors or equivalent level,Information and Communication Technologies (ICTs),8.25066365272561
+305,Czech Republic,Doctoral or equivalent level,Information and Communication Technologies (ICTs),3.33756296381743
+306,Czech Republic,Masters or equivalent level,Information and Communication Technologies (ICTs),4.93942364242305
+307,Czech Republic,Short-cycle tertiary education,Information and Communication Technologies (ICTs),0.0
+308,Czech Republic,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",5.95031746107125
+309,Czech Republic,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",21.4173107240358
+310,Czech Republic,Masters or equivalent level,"Natural sciences, mathematics and statistics",3.82670064693197
+311,Czech Republic,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+312,Czech Republic,Bachelors or equivalent level,Services,7.84938526049854
+313,Czech Republic,Doctoral or equivalent level,Services,3.74899065636175
+314,Czech Republic,Masters or equivalent level,Services,5.12134875514605
+315,Czech Republic,Short-cycle tertiary education,Services,0.0
+316,Czech Republic,Bachelors or equivalent level,"Social sciences, journalism and information",9.02757661093092
+317,Czech Republic,Doctoral or equivalent level,"Social sciences, journalism and information",7.84788710731726
+318,Czech Republic,Masters or equivalent level,"Social sciences, journalism and information",9.81925112722996
+319,Czech Republic,Short-cycle tertiary education,"Social sciences, journalism and information",0.0
+320,Denmark,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.745709615908472
+321,Denmark,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",8.24406148113647
+322,Denmark,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.66003289081679
+323,Denmark,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",1.10187216242412
+324,Denmark,Bachelors or equivalent level,Arts and humanities,9.81778028563646
+325,Denmark,Doctoral or equivalent level,Arts and humanities,9.71122496506754
+326,Denmark,Masters or equivalent level,Arts and humanities,11.0100817503635
+327,Denmark,Short-cycle tertiary education,Arts and humanities,11.4038667550885
+328,Denmark,Bachelors or equivalent level,"Business, administration and law",19.996011207534
+329,Denmark,Doctoral or equivalent level,"Business, administration and law",0.0
+330,Denmark,Masters or equivalent level,"Business, administration and law",26.8596420144434
+331,Denmark,Short-cycle tertiary education,"Business, administration and law",47.3830536142427
+332,Denmark,Bachelors or equivalent level,Education,10.0931042534148
+333,Denmark,Doctoral or equivalent level,Education,0.0
+334,Denmark,Masters or equivalent level,Education,4.22098815453917
+335,Denmark,Short-cycle tertiary education,Education,1.35693516298526
+336,Denmark,Bachelors or equivalent level,"Engineering, manufacturing and construction",12.3132077674437
+337,Denmark,Doctoral or equivalent level,"Engineering, manufacturing and construction",26.028566992703
+338,Denmark,Masters or equivalent level,"Engineering, manufacturing and construction",12.6045713468551
+339,Denmark,Short-cycle tertiary education,"Engineering, manufacturing and construction",12.0313217364689
+340,Denmark,Bachelors or equivalent level,Health and welfare,29.0510565435654
+341,Denmark,Doctoral or equivalent level,Health and welfare,29.6382549293588
+342,Denmark,Masters or equivalent level,Health and welfare,10.2700383726196
+343,Denmark,Short-cycle tertiary education,Health and welfare,3.19083813701984
+344,Denmark,Bachelors or equivalent level,Information and Communication Technologies (ICTs),3.93187920768961
+345,Denmark,Doctoral or equivalent level,Information and Communication Technologies (ICTs),0.0
+346,Denmark,Masters or equivalent level,Information and Communication Technologies (ICTs),7.24312987105847
+347,Denmark,Short-cycle tertiary education,Information and Communication Technologies (ICTs),8.32270570830995
+348,Denmark,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",4.84346421761295
+349,Denmark,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",15.867101381773
+350,Denmark,Masters or equivalent level,"Natural sciences, mathematics and statistics",8.87217865910337
+351,Denmark,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.10967709024129
+352,Denmark,Bachelors or equivalent level,Services,1.39899599175001
+353,Denmark,Doctoral or equivalent level,Services,0.0
+354,Denmark,Masters or equivalent level,Services,0.712634363753367
+355,Denmark,Short-cycle tertiary education,Services,13.8677753405091
+356,Denmark,Bachelors or equivalent level,"Social sciences, journalism and information",7.80879090944468
+357,Denmark,Doctoral or equivalent level,"Social sciences, journalism and information",10.5107902499612
+358,Denmark,Masters or equivalent level,"Social sciences, journalism and information",16.5467025764473
+359,Denmark,Short-cycle tertiary education,"Social sciences, journalism and information",1.2319542927103
+360,Estonia,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.07463578265774
+361,Estonia,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",5.0114816316282
+362,Estonia,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.97473315781819
+363,Estonia,Bachelors or equivalent level,Arts and humanities,14.5727875411713
+364,Estonia,Doctoral or equivalent level,Arts and humanities,17.9621145765918
+365,Estonia,Masters or equivalent level,Arts and humanities,10.5992864979007
+366,Estonia,Bachelors or equivalent level,"Business, administration and law",26.8923032043097
+367,Estonia,Doctoral or equivalent level,"Business, administration and law",8.6222627580095
+368,Estonia,Masters or equivalent level,"Business, administration and law",22.9032662441835
+369,Estonia,Bachelors or equivalent level,Education,4.62208938777521
+370,Estonia,Doctoral or equivalent level,Education,3.68541948167847
+371,Estonia,Masters or equivalent level,Education,10.1925830325506
+372,Estonia,Bachelors or equivalent level,"Engineering, manufacturing and construction",13.3149189292124
+373,Estonia,Doctoral or equivalent level,"Engineering, manufacturing and construction",14.3283598540023
+374,Estonia,Masters or equivalent level,"Engineering, manufacturing and construction",16.8373273248136
+375,Estonia,Bachelors or equivalent level,Health and welfare,11.4641584040216
+376,Estonia,Doctoral or equivalent level,Health and welfare,8.93800332238844
+377,Estonia,Masters or equivalent level,Health and welfare,12.0914959343787
+378,Estonia,Bachelors or equivalent level,Information and Communication Technologies (ICTs),10.0222315896567
+379,Estonia,Doctoral or equivalent level,Information and Communication Technologies (ICTs),9.402986154189
+380,Estonia,Masters or equivalent level,Information and Communication Technologies (ICTs),9.18687747328348
+381,Estonia,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",5.01386428726787
+382,Estonia,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",22.990817794583
+383,Estonia,Masters or equivalent level,"Natural sciences, mathematics and statistics",4.51412002321152
+384,Estonia,Bachelors or equivalent level,Services,6.88883795786583
+385,Estonia,Doctoral or equivalent level,Services,0.809414559060225
+386,Estonia,Masters or equivalent level,Services,2.34503487467793
+387,Estonia,Bachelors or equivalent level,"Social sciences, journalism and information",6.13417291606167
+388,Estonia,Doctoral or equivalent level,"Social sciences, journalism and information",8.2491398678691
+389,Estonia,Masters or equivalent level,"Social sciences, journalism and information",7.35527543718171
+390,Finland,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.23978380149046
+391,Finland,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.69399329724156
+392,Finland,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.1806776647239
+393,Finland,Bachelors or equivalent level,Arts and humanities,9.71573899671517
+394,Finland,Doctoral or equivalent level,Arts and humanities,15.4550141789121
+395,Finland,Masters or equivalent level,Arts and humanities,14.6102933912872
+396,Finland,Bachelors or equivalent level,"Business, administration and law",19.458775785039
+397,Finland,Doctoral or equivalent level,"Business, administration and law",8.10346309186216
+398,Finland,Masters or equivalent level,"Business, administration and law",17.5219796503013
+399,Finland,Bachelors or equivalent level,Education,4.71842327955668
+400,Finland,Doctoral or equivalent level,Education,5.66297155624302
+401,Finland,Masters or equivalent level,Education,6.41855181270374
+402,Finland,Bachelors or equivalent level,"Engineering, manufacturing and construction",20.0274797768861
+403,Finland,Doctoral or equivalent level,"Engineering, manufacturing and construction",18.9653690813784
+404,Finland,Masters or equivalent level,"Engineering, manufacturing and construction",15.0523560209424
+405,Finland,Bachelors or equivalent level,Health and welfare,19.1462160711198
+406,Finland,Doctoral or equivalent level,Health and welfare,15.8116353011945
+407,Finland,Masters or equivalent level,Health and welfare,15.3363627383187
+408,Finland,Bachelors or equivalent level,Information and Communication Technologies (ICTs),10.6811708932747
+409,Finland,Doctoral or equivalent level,Information and Communication Technologies (ICTs),8.90693477700438
+410,Finland,Masters or equivalent level,Information and Communication Technologies (ICTs),10.1007606440778
+411,Finland,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",4.27301431314207
+412,Finland,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",11.6138179943284
+413,Finland,Masters or equivalent level,"Natural sciences, mathematics and statistics",5.67519510026672
+414,Finland,Bachelors or equivalent level,Services,5.11196644191485
+415,Finland,Doctoral or equivalent level,Services,0.850734725444702
+416,Finland,Masters or equivalent level,Services,2.6548454015608
+417,Finland,Bachelors or equivalent level,"Social sciences, journalism and information",4.62743064086115
+418,Finland,Doctoral or equivalent level,"Social sciences, journalism and information",11.9360659963908
+419,Finland,Masters or equivalent level,"Social sciences, journalism and information",10.4489775758174
+420,France,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.127828298064905
+421,France,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.003252878797736
+422,France,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.11336519126335
+423,France,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",4.69041155195584
+424,France,Bachelors or equivalent level,Arts and humanities,22.1892858682067
+425,France,Doctoral or equivalent level,Arts and humanities,21.2033482965758
+426,France,Masters or equivalent level,Arts and humanities,7.08895344384461
+427,France,Short-cycle tertiary education,Arts and humanities,4.31935638072389
+428,France,Bachelors or equivalent level,"Business, administration and law",26.8598888074818
+429,France,Doctoral or equivalent level,"Business, administration and law",13.1405460499208
+430,France,Masters or equivalent level,"Business, administration and law",29.3109282911599
+431,France,Short-cycle tertiary education,"Business, administration and law",16.5843803270408
+432,France,Bachelors or equivalent level,Education,1.34275740206008
+433,France,Doctoral or equivalent level,Education,1.5602975299807
+434,France,Masters or equivalent level,Education,7.04896776388322
+435,France,Short-cycle tertiary education,Education,0.143226935322396
+436,France,Bachelors or equivalent level,"Engineering, manufacturing and construction",9.09020385295005
+437,France,Doctoral or equivalent level,"Engineering, manufacturing and construction",12.8120052913495
+438,France,Masters or equivalent level,"Engineering, manufacturing and construction",16.4417731912491
+439,France,Short-cycle tertiary education,"Engineering, manufacturing and construction",28.2777592380471
+440,France,Bachelors or equivalent level,Health and welfare,10.7586088005861
+441,France,Doctoral or equivalent level,Health and welfare,2.11220263266324
+442,France,Masters or equivalent level,Health and welfare,20.6694796162087
+443,France,Short-cycle tertiary education,Health and welfare,7.33054936729411
+444,France,Bachelors or equivalent level,Information and Communication Technologies (ICTs),2.90798603628841
+445,Japan,Short-cycle tertiary education,Education,9.66338215080659
+446,France,Doctoral or equivalent level,Information and Communication Technologies (ICTs),4.24934400277579
+447,France,Masters or equivalent level,Information and Communication Technologies (ICTs),4.34276544168592
+448,France,Short-cycle tertiary education,Information and Communication Technologies (ICTs),1.93933599704166
+449,France,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",10.652070852907
+450,France,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",33.1088846962896
+451,France,Masters or equivalent level,"Natural sciences, mathematics and statistics",6.37980874555393
+452,France,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",1.41008180530878
+453,France,Bachelors or equivalent level,Services,5.0302116105676
+454,France,Doctoral or equivalent level,Services,0.689610305120031
+455,France,Masters or equivalent level,Services,0.899989491513952
+456,France,Short-cycle tertiary education,Services,33.3062152192148
+457,France,Bachelors or equivalent level,"Social sciences, journalism and information",11.0411584708874
+458,France,Doctoral or equivalent level,"Social sciences, journalism and information",11.1205083165268
+459,France,Masters or equivalent level,"Social sciences, journalism and information",6.70396882363733
+460,France,Short-cycle tertiary education,"Social sciences, journalism and information",1.99868317805056
+461,Germany,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.25157486371971
+462,Germany,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.97324083250743
+463,Germany,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.52854485528956
+464,Germany,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",18.5116623472788
+465,Germany,Bachelors or equivalent level,Arts and humanities,9.38949111400327
+466,Germany,Doctoral or equivalent level,Arts and humanities,14.2220019821606
+467,Germany,Masters or equivalent level,Arts and humanities,18.3037722665186
+468,Germany,Short-cycle tertiary education,Arts and humanities,2.93409848204369
+469,Germany,Bachelors or equivalent level,"Business, administration and law",24.4386046857595
+470,Germany,Doctoral or equivalent level,"Business, administration and law",10.6541129831516
+471,Germany,Masters or equivalent level,"Business, administration and law",21.261234960229
+472,Germany,Short-cycle tertiary education,"Business, administration and law",0.0
+473,Germany,Bachelors or equivalent level,Education,7.67845105944957
+474,Germany,Doctoral or equivalent level,Education,4.21209117938553
+475,Germany,Masters or equivalent level,Education,7.29518631608167
+476,Germany,Short-cycle tertiary education,Education,0.0
+477,Germany,Bachelors or equivalent level,"Engineering, manufacturing and construction",24.605250331143
+478,Germany,Doctoral or equivalent level,"Engineering, manufacturing and construction",18.5332011892963
+479,Germany,Masters or equivalent level,"Engineering, manufacturing and construction",16.3334864829509
+480,Germany,Short-cycle tertiary education,"Engineering, manufacturing and construction",23.6208811551277
+481,Germany,Bachelors or equivalent level,Health and welfare,4.95307633775057
+482,Germany,Doctoral or equivalent level,Health and welfare,10.9018830525273
+483,Germany,Masters or equivalent level,Health and welfare,11.5095128246852
+484,Germany,Short-cycle tertiary education,Health and welfare,5.36838208071085
+485,Germany,Bachelors or equivalent level,Information and Communication Technologies (ICTs),8.86571465663928
+486,Germany,Doctoral or equivalent level,Information and Communication Technologies (ICTs),3.56788899900892
+487,Germany,Masters or equivalent level,Information and Communication Technologies (ICTs),5.213228936344
+488,Germany,Short-cycle tertiary education,Information and Communication Technologies (ICTs),0.0
+489,Germany,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",7.76406081295539
+490,Germany,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",25.1734390485629
+491,Germany,Masters or equivalent level,"Natural sciences, mathematics and statistics",10.3780402592057
+492,Germany,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+493,Germany,Bachelors or equivalent level,Services,2.75794616056657
+494,Germany,Doctoral or equivalent level,Services,1.28840436075322
+495,Germany,Masters or equivalent level,Services,1.1311535037761
+496,Germany,Short-cycle tertiary education,Services,49.5649759348389
+497,Germany,Bachelors or equivalent level,"Social sciences, journalism and information",8.29582997801312
+498,Germany,Doctoral or equivalent level,"Social sciences, journalism and information",8.47373637264618
+499,Germany,Masters or equivalent level,"Social sciences, journalism and information",7.04583959491926
+500,Germany,Short-cycle tertiary education,"Social sciences, journalism and information",0.0
+501,Greece,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",4.34087897806071
+502,Greece,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.12009688276556
+503,Greece,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.64758609479135
+504,Greece,Bachelors or equivalent level,Arts and humanities,14.2716488363654
+505,Greece,Doctoral or equivalent level,Arts and humanities,15.853543455695
+506,Greece,Masters or equivalent level,Arts and humanities,10.081740705478
+507,Greece,Bachelors or equivalent level,"Business, administration and law",20.2005170459181
+508,Greece,Doctoral or equivalent level,"Business, administration and law",8.06517567865119
+509,Greece,Masters or equivalent level,"Business, administration and law",25.6089914776026
+510,Greece,Bachelors or equivalent level,Education,4.35156871956588
+511,Greece,Doctoral or equivalent level,Education,5.81611147809128
+512,Greece,Masters or equivalent level,Education,6.47887978078629
+513,Greece,Bachelors or equivalent level,"Engineering, manufacturing and construction",22.1902155108149
+514,Greece,Doctoral or equivalent level,"Engineering, manufacturing and construction",17.8981472743858
+515,Greece,Masters or equivalent level,"Engineering, manufacturing and construction",8.46898729768014
+516,Greece,Bachelors or equivalent level,Health and welfare,6.82146162523454
+517,Greece,Doctoral or equivalent level,Health and welfare,28.5237960429052
+518,Greece,Masters or equivalent level,Health and welfare,10.5380489050925
+519,Greece,Bachelors or equivalent level,Information and Communication Technologies (ICTs),3.38541300378923
+520,Greece,Doctoral or equivalent level,Information and Communication Technologies (ICTs),3.45066213708282
+521,Greece,Masters or equivalent level,Information and Communication Technologies (ICTs),4.03478624341082
+522,Greece,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",9.03930167857072
+523,Greece,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",8.87358057311818
+524,Greece,Masters or equivalent level,"Natural sciences, mathematics and statistics",13.5557206882939
+525,Greece,Bachelors or equivalent level,Services,3.02238375609386
+526,Greece,Doctoral or equivalent level,Services,1.60422761158819
+527,Greece,Masters or equivalent level,Services,2.5485915983559
+528,Greece,Bachelors or equivalent level,"Social sciences, journalism and information",12.3766108455867
+529,Greece,Doctoral or equivalent level,"Social sciences, journalism and information",7.79465886571671
+530,Greece,Masters or equivalent level,"Social sciences, journalism and information",17.0366672085085
+531,Hungary,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.48222836789377
+532,Hungary,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.95922746781116
+533,Hungary,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",5.2208419242206
+534,Hungary,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",6.4618925378419
+535,Hungary,Bachelors or equivalent level,Arts and humanities,9.10641457456768
+536,Hungary,Doctoral or equivalent level,Arts and humanities,17.5858369098712
+537,Hungary,Masters or equivalent level,Arts and humanities,6.58536838069977
+538,Hungary,Short-cycle tertiary education,Arts and humanities,2.34575551031247
+539,Hungary,Bachelors or equivalent level,"Business, administration and law",20.2235039653929
+540,Hungary,Doctoral or equivalent level,"Business, administration and law",6.22317596566524
+541,Hungary,Masters or equivalent level,"Business, administration and law",22.9410362941244
+542,Hungary,Short-cycle tertiary education,"Business, administration and law",59.4405594405594
+543,Hungary,Bachelors or equivalent level,Education,11.1708939082525
+544,Hungary,Doctoral or equivalent level,Education,4.40987124463519
+545,Hungary,Masters or equivalent level,Education,14.3270097495778
+546,Hungary,Short-cycle tertiary education,Education,0.212445782066035
+547,Hungary,Bachelors or equivalent level,"Engineering, manufacturing and construction",18.6142108491429
+548,Hungary,Doctoral or equivalent level,"Engineering, manufacturing and construction",10.0107296137339
+549,Hungary,Masters or equivalent level,"Engineering, manufacturing and construction",9.33514303179751
+550,Hungary,Short-cycle tertiary education,"Engineering, manufacturing and construction",1.52252810480659
+551,Hungary,Bachelors or equivalent level,Health and welfare,6.66799384476321
+552,Hungary,Doctoral or equivalent level,Health and welfare,14.9141630901288
+553,Hungary,Masters or equivalent level,Health and welfare,28.4623434213662
+554,Hungary,Short-cycle tertiary education,Health and welfare,0.911746481366735
+555,Hungary,Bachelors or equivalent level,Information and Communication Technologies (ICTs),10.4310817936274
+556,Hungary,Doctoral or equivalent level,Information and Communication Technologies (ICTs),4.83905579399142
+557,Hungary,Masters or equivalent level,Information and Communication Technologies (ICTs),1.82040469554586
+558,Hungary,Short-cycle tertiary education,Information and Communication Technologies (ICTs),12.1713729308666
+559,Hungary,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",3.29122233102691
+560,Hungary,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",18.1008583690987
+561,Hungary,Masters or equivalent level,"Natural sciences, mathematics and statistics",2.53426857444802
+562,Hungary,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+563,Hungary,Bachelors or equivalent level,Services,6.73578753672158
+564,Hungary,Doctoral or equivalent level,Services,3.68025751072961
+565,Hungary,Masters or equivalent level,Services,1.28681993845644
+566,Hungary,Short-cycle tertiary education,Services,15.9599893777109
+567,Hungary,Bachelors or equivalent level,"Social sciences, journalism and information",10.2766628286111
+568,Hungary,Doctoral or equivalent level,"Social sciences, journalism and information",16.2768240343348
+569,Hungary,Masters or equivalent level,"Social sciences, journalism and information",7.48676398976346
+570,Hungary,Short-cycle tertiary education,"Social sciences, journalism and information",0.973709834469328
+571,Iceland,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.70068027210884
+572,Iceland,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.0
+573,Iceland,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.329393528385972
+574,Iceland,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.116959064327485
+575,Iceland,Bachelors or equivalent level,Arts and humanities,13.7717309145881
+576,Iceland,Doctoral or equivalent level,Arts and humanities,18.8191881918819
+577,Iceland,Masters or equivalent level,Arts and humanities,10.0174384809146
+578,Iceland,Short-cycle tertiary education,Arts and humanities,55.672514619883
+579,Iceland,Bachelors or equivalent level,"Business, administration and law",15.8352229780801
+580,Iceland,Doctoral or equivalent level,"Business, administration and law",4.1820418204182
+581,Iceland,Masters or equivalent level,"Business, administration and law",29.141639217206
+582,Iceland,Short-cycle tertiary education,"Business, administration and law",1.75438596491228
+583,Iceland,Bachelors or equivalent level,Education,11.1413454270597
+584,Iceland,Doctoral or equivalent level,Education,8.85608856088561
+585,Iceland,Masters or equivalent level,Education,18.639798488665
+586,Iceland,Short-cycle tertiary education,Education,4.32748538011696
+587,Iceland,Bachelors or equivalent level,"Engineering, manufacturing and construction",10.2645502645503
+588,Iceland,Doctoral or equivalent level,"Engineering, manufacturing and construction",8.61008610086101
+589,Iceland,Masters or equivalent level,"Engineering, manufacturing and construction",6.74287928695989
+590,Iceland,Short-cycle tertiary education,"Engineering, manufacturing and construction",3.15789473684211
+591,Iceland,Bachelors or equivalent level,Health and welfare,13.9380196523054
+592,Iceland,Doctoral or equivalent level,Health and welfare,16.8511685116851
+593,Iceland,Masters or equivalent level,Health and welfare,15.6946328230963
+594,Iceland,Short-cycle tertiary education,Health and welfare,0.0
+595,Iceland,Bachelors or equivalent level,Information and Communication Technologies (ICTs),7.21844293272865
+596,Iceland,Doctoral or equivalent level,Information and Communication Technologies (ICTs),1.4760147601476
+597,Iceland,Masters or equivalent level,Information and Communication Technologies (ICTs),1.39507847316412
+598,Iceland,Short-cycle tertiary education,Information and Communication Technologies (ICTs),6.90058479532164
+599,Iceland,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",4.82993197278912
+600,Iceland,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",29.520295202952
+601,Iceland,Masters or equivalent level,"Natural sciences, mathematics and statistics",7.07227281534586
+602,Iceland,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+603,Iceland,Bachelors or equivalent level,Services,3.28042328042328
+604,Iceland,Doctoral or equivalent level,Services,0.4920049200492
+605,Iceland,Masters or equivalent level,Services,0.736291416392172
+606,Iceland,Short-cycle tertiary education,Services,24.093567251462
+607,Iceland,Bachelors or equivalent level,"Social sciences, journalism and information",18.0196523053666
+608,Iceland,Doctoral or equivalent level,"Social sciences, journalism and information",11.1931119311193
+609,Iceland,Masters or equivalent level,"Social sciences, journalism and information",10.2305754698702
+610,Iceland,Short-cycle tertiary education,"Social sciences, journalism and information",3.9766081871345
+611,Ireland,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.1180072991876
+612,Ireland,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.72759794084286
+613,Ireland,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.403539113216533
+614,Ireland,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.16739203213927
+615,Ireland,Bachelors or equivalent level,Arts and humanities,16.427691716665
+616,Ireland,Doctoral or equivalent level,Arts and humanities,13.079137946078
+617,Ireland,Masters or equivalent level,Arts and humanities,7.04814898363285
+618,Ireland,Short-cycle tertiary education,Arts and humanities,7.95829547084987
+619,Ireland,Bachelors or equivalent level,"Business, administration and law",19.8965006835926
+620,Ireland,Doctoral or equivalent level,"Business, administration and law",8.6641654305907
+621,Ireland,Masters or equivalent level,"Business, administration and law",27.9945860591022
+622,Ireland,Short-cycle tertiary education,"Business, administration and law",32.8375340762351
+623,Ireland,Bachelors or equivalent level,Education,4.40493542591777
+624,Ireland,Doctoral or equivalent level,Education,5.10426664339935
+625,Ireland,Masters or equivalent level,Education,13.0210291500614
+626,Ireland,Short-cycle tertiary education,Education,7.85307762207662
+627,Ireland,Bachelors or equivalent level,"Engineering, manufacturing and construction",11.2945323887326
+628,Ireland,Doctoral or equivalent level,"Engineering, manufacturing and construction",16.185324142745
+629,Ireland,Masters or equivalent level,"Engineering, manufacturing and construction",7.43414291801389
+630,Ireland,Short-cycle tertiary education,"Engineering, manufacturing and construction",14.0083217753121
+631,Ireland,Bachelors or equivalent level,Health and welfare,18.9603742246026
+632,Ireland,Doctoral or equivalent level,Health and welfare,14.920164034552
+633,Ireland,Masters or equivalent level,Health and welfare,16.1566032533774
+634,Ireland,Short-cycle tertiary education,Health and welfare,13.8791907790903
+635,Ireland,Bachelors or equivalent level,Information and Communication Technologies (ICTs),7.20258070347898
+636,Ireland,Doctoral or equivalent level,Information and Communication Technologies (ICTs),5.68885786580578
+637,Ireland,Masters or equivalent level,Information and Communication Technologies (ICTs),12.9683936135549
+638,Ireland,Short-cycle tertiary education,Information and Communication Technologies (ICTs),3.40044956717203
+639,Ireland,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",10.5267618046846
+640,Ireland,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",23.4185498647587
+641,Ireland,Masters or equivalent level,"Natural sciences, mathematics and statistics",4.88006617038875
+642,Ireland,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",6.34654933282319
+643,Ireland,Bachelors or equivalent level,Services,3.87387998146955
+644,Ireland,Doctoral or equivalent level,Services,0.183230084634849
+645,Ireland,Masters or equivalent level,Services,1.30836905030453
+646,Ireland,Short-cycle tertiary education,Services,9.80439045387154
+647,Ireland,Bachelors or equivalent level,"Social sciences, journalism and information",5.29473577166876
+648,Ireland,Doctoral or equivalent level,"Social sciences, journalism and information",11.0287060465928
+649,Ireland,Masters or equivalent level,"Social sciences, journalism and information",8.78512168834749
+650,Ireland,Short-cycle tertiary education,"Social sciences, journalism and information",3.74479889042996
+651,Israel,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.310062784743961
+652,Israel,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.86752039027365
+653,Israel,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.790315683932705
+654,Israel,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.0
+655,Israel,Bachelors or equivalent level,Arts and humanities,9.23416868128278
+656,Israel,Doctoral or equivalent level,Arts and humanities,16.7314581904109
+657,Israel,Masters or equivalent level,Arts and humanities,10.0204951268781
+658,Israel,Short-cycle tertiary education,Arts and humanities,0.0
+659,Israel,Bachelors or equivalent level,"Business, administration and law",13.8601628720605
+660,Israel,Doctoral or equivalent level,"Business, administration and law",4.7945727570699
+661,Israel,Masters or equivalent level,"Business, administration and law",27.5917488683446
+662,Israel,Short-cycle tertiary education,"Business, administration and law",0.778223695690106
+663,Israel,Bachelors or equivalent level,Education,14.8816276910222
+664,Israel,Doctoral or equivalent level,Education,5.35864014025459
+665,Israel,Masters or equivalent level,Education,19.1282935963787
+666,Israel,Short-cycle tertiary education,Education,43.2263130343745
+667,Israel,Bachelors or equivalent level,"Engineering, manufacturing and construction",13.0351107494372
+668,Israel,Doctoral or equivalent level,"Engineering, manufacturing and construction",10.2675508804025
+669,Israel,Masters or equivalent level,"Engineering, manufacturing and construction",5.89640376874419
+670,Luxembourg,Bachelors or equivalent level,Health and welfare,2.67880918709546
+671,Israel,Short-cycle tertiary education,"Engineering, manufacturing and construction",55.9658000348979
+672,Israel,Bachelors or equivalent level,Health and welfare,8.1645906715849
+673,Israel,Doctoral or equivalent level,Health and welfare,13.2555835048403
+674,Israel,Masters or equivalent level,Health and welfare,16.2840418159567
+675,Israel,Short-cycle tertiary education,Health and welfare,0.0296632350375153
+676,Israel,Bachelors or equivalent level,Information and Communication Technologies (ICTs),9.32128721594903
+677,Israel,Doctoral or equivalent level,Information and Communication Technologies (ICTs),3.93322661788246
+678,Israel,Masters or equivalent level,Information and Communication Technologies (ICTs),2.54788339894723
+679,Israel,Short-cycle tertiary education,Information and Communication Technologies (ICTs),0.0
+680,Israel,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",6.9025598989425
+681,Israel,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",29.8498361155576
+682,Israel,Masters or equivalent level,"Natural sciences, mathematics and statistics",5.38623730113092
+683,Israel,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+684,Israel,Bachelors or equivalent level,Services,0.0
+685,Israel,Doctoral or equivalent level,Services,0.0
+686,Israel,Masters or equivalent level,Services,0.0
+687,Israel,Short-cycle tertiary education,Services,0.0
+688,Israel,Bachelors or equivalent level,"Social sciences, journalism and information",24.2904294349769
+689,Israel,Doctoral or equivalent level,"Social sciences, journalism and information",13.9416114033082
+690,Israel,Masters or equivalent level,"Social sciences, journalism and information",12.3545804396868
+691,Israel,Short-cycle tertiary education,"Social sciences, journalism and information",0.0
+692,Italy,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.85318550215896
+693,Italy,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",4.96353869699607
+694,Italy,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.00043866353842
+695,Italy,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",10.3923798692067
+696,Italy,Bachelors or equivalent level,Arts and humanities,21.3143789758712
+697,Italy,Doctoral or equivalent level,Arts and humanities,10.6262941511869
+698,Italy,Masters or equivalent level,Arts and humanities,10.9871923539616
+699,Italy,Short-cycle tertiary education,Arts and humanities,1.93346602217799
+700,Italy,Bachelors or equivalent level,"Business, administration and law",14.4323387438059
+701,Italy,Doctoral or equivalent level,"Business, administration and law",10.1581490261981
+702,Italy,Masters or equivalent level,"Business, administration and law",24.0333118432509
+703,Italy,Short-cycle tertiary education,"Business, administration and law",16.171452942849
+704,Italy,Bachelors or equivalent level,Education,5.67627535579464
+705,Italy,Doctoral or equivalent level,Education,1.37742700237073
+706,Italy,Masters or equivalent level,Education,6.24856271226995
+707,Italy,Short-cycle tertiary education,Education,0.0
+708,Italy,Bachelors or equivalent level,"Engineering, manufacturing and construction",15.8049363607701
+709,Italy,Doctoral or equivalent level,"Engineering, manufacturing and construction",23.90541067731
+710,Italy,Masters or equivalent level,"Engineering, manufacturing and construction",15.1114271851758
+711,Italy,Short-cycle tertiary education,"Engineering, manufacturing and construction",32.8760307079898
+712,Italy,Bachelors or equivalent level,Health and welfare,7.79291833372955
+713,Italy,Doctoral or equivalent level,Health and welfare,13.8552951414939
+714,Italy,Masters or equivalent level,Health and welfare,24.7806349987039
+715,Italy,Short-cycle tertiary education,Health and welfare,0.0
+716,Italy,Bachelors or equivalent level,Information and Communication Technologies (ICTs),2.42906447212907
+717,Italy,Doctoral or equivalent level,Information and Communication Technologies (ICTs),1.89358701197371
+718,Italy,Masters or equivalent level,Information and Communication Technologies (ICTs),0.761812345055398
+719,Italy,Short-cycle tertiary education,Information and Communication Technologies (ICTs),13.9110036963321
+720,Italy,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",9.22966941995485
+721,Italy,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",25.6039372205384
+722,Italy,Masters or equivalent level,"Natural sciences, mathematics and statistics",5.49844806157241
+723,Italy,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",7.72675575774808
+724,Italy,Bachelors or equivalent level,Services,4.15176637009386
+725,Italy,Doctoral or equivalent level,Services,0.0960297692284608
+726,Italy,Masters or equivalent level,Services,0.837847358381465
+727,Italy,Short-cycle tertiary education,Services,16.9889110036963
+728,Italy,Bachelors or equivalent level,"Social sciences, journalism and information",16.3154664656918
+729,Italy,Doctoral or equivalent level,"Social sciences, journalism and information",7.52033130270384
+730,Italy,Masters or equivalent level,"Social sciences, journalism and information",9.74032447809009
+731,Italy,Short-cycle tertiary education,"Social sciences, journalism and information",0.0
+732,Japan,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.96322879950497
+733,Japan,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",6.06000838243633
+734,Japan,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",4.86665894793717
+735,Japan,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.752491061697678
+736,Japan,Bachelors or equivalent level,Arts and humanities,19.7935882443939
+737,Japan,Doctoral or equivalent level,Arts and humanities,9.52885776977885
+738,Japan,Masters or equivalent level,Arts and humanities,5.86771878887197
+739,Japan,Short-cycle tertiary education,Arts and humanities,12.575957449332
+740,Japan,Bachelors or equivalent level,"Business, administration and law",26.77901017504
+741,Japan,Doctoral or equivalent level,"Business, administration and law",4.14190971622988
+742,Japan,Masters or equivalent level,"Business, administration and law",6.74438833521848
+743,Japan,Short-cycle tertiary education,"Business, administration and law",9.74930582370096
+744,Japan,Bachelors or equivalent level,Education,8.71889643150021
+745,Japan,Doctoral or equivalent level,Education,3.27901185868198
+746,Japan,Masters or equivalent level,Education,3.64888093266002
+747,Japan,Bachelors or equivalent level,"Engineering, manufacturing and construction",16.2656754998944
+748,Japan,Doctoral or equivalent level,"Engineering, manufacturing and construction",21.7092773846799
+749,Japan,Masters or equivalent level,"Engineering, manufacturing and construction",22.0227227521427
+750,Japan,Short-cycle tertiary education,"Engineering, manufacturing and construction",15.881383160278
+751,Japan,Bachelors or equivalent level,Health and welfare,8.14302609713944
+752,Japan,Doctoral or equivalent level,Health and welfare,39.4541554695397
+753,Japan,Masters or equivalent level,Health and welfare,45.9059561873039
+754,Japan,Short-cycle tertiary education,Health and welfare,28.3165944705744
+755,Japan,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",3.31824071779193
+756,Japan,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",10.5717314661867
+757,Japan,Masters or equivalent level,"Natural sciences, mathematics and statistics",6.31837384181948
+758,Japan,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+759,Japan,Bachelors or equivalent level,Services,3.06619348378265
+760,Japan,Doctoral or equivalent level,Services,0.290919849116146
+761,Japan,Masters or equivalent level,Services,0.30043670196501
+762,Japan,Short-cycle tertiary education,Services,16.2722568010827
+763,Japan,Bachelors or equivalent level,"Social sciences, journalism and information",10.9521405509525
+764,Japan,Doctoral or equivalent level,"Social sciences, journalism and information",4.96412810335051
+765,Japan,Masters or equivalent level,"Social sciences, journalism and information",4.3248635120813
+766,Japan,Short-cycle tertiary education,"Social sciences, journalism and information",6.78862908252758
+767,Korea,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.55986999350724
+768,Korea,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.07326776057101
+769,Korea,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.18749498201171
+770,Korea,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.977658252789334
+771,Korea,Bachelors or equivalent level,Arts and humanities,17.2584658742407
+772,Korea,Doctoral or equivalent level,Arts and humanities,14.9637351106396
+773,Korea,Masters or equivalent level,Arts and humanities,16.6776903107903
+774,Korea,Short-cycle tertiary education,Arts and humanities,12.5391439323521
+775,Korea,Bachelors or equivalent level,"Business, administration and law",15.935624292955
+776,Korea,Doctoral or equivalent level,"Business, administration and law",12.1374952434764
+777,Korea,Masters or equivalent level,"Business, administration and law",20.2596737256221
+778,Korea,Short-cycle tertiary education,"Business, administration and law",9.12831990181303
+779,Korea,Bachelors or equivalent level,Education,4.5340662186313
+780,Korea,Doctoral or equivalent level,Education,6.71794103063778
+781,Korea,Masters or equivalent level,Education,17.5562683753952
+782,Korea,Short-cycle tertiary education,Education,4.13203500317363
+783,Korea,Bachelors or equivalent level,"Engineering, manufacturing and construction",22.580642112615
+784,Korea,Doctoral or equivalent level,"Engineering, manufacturing and construction",22.6318277734857
+785,Korea,Masters or equivalent level,"Engineering, manufacturing and construction",11.7602529448423
+786,Korea,Short-cycle tertiary education,"Engineering, manufacturing and construction",26.1747691974479
+787,Korea,Bachelors or equivalent level,Health and welfare,10.4859082450541
+788,Korea,Doctoral or equivalent level,Health and welfare,13.3240316870957
+789,Korea,Masters or equivalent level,Health and welfare,12.1158132581941
+790,Korea,Short-cycle tertiary education,Health and welfare,22.9772250749789
+791,Korea,Bachelors or equivalent level,Information and Communication Technologies (ICTs),5.98539269880664
+792,Korea,Doctoral or equivalent level,Information and Communication Technologies (ICTs),3.93667193247466
+793,Korea,Masters or equivalent level,Information and Communication Technologies (ICTs),2.84868805890832
+794,Korea,Short-cycle tertiary education,Information and Communication Technologies (ICTs),6.00537862447996
+795,Korea,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",6.21386805229368
+796,Korea,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",12.6540825386576
+797,Korea,Masters or equivalent level,"Natural sciences, mathematics and statistics",3.69171009217806
+798,Korea,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.538464083843972
+799,Korea,Bachelors or equivalent level,Services,7.85137713696519
+800,Korea,Doctoral or equivalent level,Services,4.75998293416971
+801,Korea,Masters or equivalent level,Services,3.9287503010793
+802,Korea,Short-cycle tertiary education,Services,17.3671212025497
+803,Korea,Bachelors or equivalent level,"Social sciences, journalism and information",7.59478537493113
+804,Korea,Doctoral or equivalent level,"Social sciences, journalism and information",6.8009639887919
+805,Korea,Masters or equivalent level,"Social sciences, journalism and information",9.97365795097856
+806,Korea,Short-cycle tertiary education,"Social sciences, journalism and information",0.159884726571548
+807,Latvia,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.25946121917474
+808,Latvia,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.59353741496599
+809,Latvia,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.99724211556425
+810,Latvia,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",1.09122949708554
+811,Latvia,Bachelors or equivalent level,Arts and humanities,8.73077236103198
+812,Latvia,Doctoral or equivalent level,Arts and humanities,9.56632653061224
+813,Latvia,Masters or equivalent level,Arts and humanities,4.79071215693252
+814,Latvia,Short-cycle tertiary education,Arts and humanities,0.813338755591704
+815,Latvia,Bachelors or equivalent level,"Business, administration and law",27.7671522747619
+816,Latvia,Doctoral or equivalent level,"Business, administration and law",23.7670068027211
+817,Latvia,Masters or equivalent level,"Business, administration and law",24.8031671189004
+818,Latvia,Short-cycle tertiary education,"Business, administration and law",32.452216348109
+819,Latvia,Bachelors or equivalent level,Education,7.48962317896964
+820,Latvia,Doctoral or equivalent level,Education,3.65646258503401
+821,Latvia,Masters or equivalent level,Education,3.47404474889907
+822,Latvia,Short-cycle tertiary education,Education,8.00460891961502
+823,Latvia,Bachelors or equivalent level,"Engineering, manufacturing and construction",17.8115080979897
+824,Latvia,Doctoral or equivalent level,"Engineering, manufacturing and construction",20.0680272108844
+825,Latvia,Masters or equivalent level,"Engineering, manufacturing and construction",10.2442062185846
+826,Latvia,Short-cycle tertiary education,"Engineering, manufacturing and construction",13.6030906872712
+827,Latvia,Bachelors or equivalent level,Health and welfare,5.25148530967689
+828,Latvia,Doctoral or equivalent level,Health and welfare,8.16326530612245
+829,Latvia,Masters or equivalent level,Health and welfare,38.1255282238335
+830,Latvia,Short-cycle tertiary education,Health and welfare,24.3391622610817
+831,Latvia,Bachelors or equivalent level,Information and Communication Technologies (ICTs),8.43777976723366
+832,Latvia,Doctoral or equivalent level,Information and Communication Technologies (ICTs),5.69727891156463
+833,Latvia,Masters or equivalent level,Information and Communication Technologies (ICTs),5.20439482229438
+834,Latvia,Short-cycle tertiary education,Information and Communication Technologies (ICTs),5.08336722244815
+835,Latvia,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",2.70407748026369
+836,Latvia,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",13.6054421768707
+837,Latvia,Masters or equivalent level,"Natural sciences, mathematics and statistics",2.32640896757262
+838,Latvia,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.142334282228548
+839,Latvia,Bachelors or equivalent level,Services,9.29030682835517
+840,Latvia,Doctoral or equivalent level,Services,1.87074829931973
+841,Latvia,Masters or equivalent level,Services,4.02562163604822
+842,Latvia,Short-cycle tertiary education,Services,14.0707604717365
+843,Latvia,Bachelors or equivalent level,"Social sciences, journalism and information",11.2578334825425
+844,Latvia,Doctoral or equivalent level,"Social sciences, journalism and information",11.0119047619048
+845,Latvia,Masters or equivalent level,"Social sciences, journalism and information",5.00867399137049
+846,Latvia,Short-cycle tertiary education,"Social sciences, journalism and information",0.399891554832588
+847,Lithuania,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.41438576389295
+848,Lithuania,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",4.50421257290992
+849,Lithuania,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",4.57394100469206
+850,Lithuania,Bachelors or equivalent level,Arts and humanities,10.3578903062119
+851,Lithuania,Doctoral or equivalent level,Arts and humanities,13.4154244977317
+852,Lithuania,Masters or equivalent level,Arts and humanities,5.45657380975818
+853,Lithuania,Bachelors or equivalent level,"Business, administration and law",26.1993008219434
+854,Lithuania,Doctoral or equivalent level,"Business, administration and law",11.9896305897602
+855,Lithuania,Masters or equivalent level,"Business, administration and law",27.1516225350264
+856,Lithuania,Bachelors or equivalent level,Education,4.8720317085433
+857,Lithuania,Doctoral or equivalent level,Education,4.11535968891769
+858,Lithuania,Masters or equivalent level,Education,2.78242609180694
+859,Lithuania,Bachelors or equivalent level,"Engineering, manufacturing and construction",19.8365466683815
+860,Lithuania,Doctoral or equivalent level,"Engineering, manufacturing and construction",18.9565780946209
+861,Lithuania,Masters or equivalent level,"Engineering, manufacturing and construction",11.8384355415559
+862,Lithuania,Bachelors or equivalent level,Health and welfare,13.664371148967
+863,Lithuania,Doctoral or equivalent level,Health and welfare,11.3415424497732
+864,Lithuania,Masters or equivalent level,Health and welfare,33.1233389113102
+865,Lithuania,Bachelors or equivalent level,Information and Communication Technologies (ICTs),7.01048767084848
+866,Lithuania,Doctoral or equivalent level,Information and Communication Technologies (ICTs),1.87945560596241
+867,Lithuania,Masters or equivalent level,Information and Communication Technologies (ICTs),1.93588607802605
+868,Lithuania,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",3.69699166364625
+869,Lithuania,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",21.5813350615684
+870,Lithuania,Masters or equivalent level,"Natural sciences, mathematics and statistics",3.39272238081176
+871,Lithuania,Bachelors or equivalent level,Services,2.66927007213927
+872,Lithuania,Doctoral or equivalent level,Services,0.0
+873,Lithuania,Masters or equivalent level,Services,0.977786527545362
+874,Lithuania,Bachelors or equivalent level,"Social sciences, journalism and information",9.27872417542588
+875,Lithuania,Doctoral or equivalent level,"Social sciences, journalism and information",12.2164614387557
+876,Lithuania,Masters or equivalent level,"Social sciences, journalism and information",8.76726711946714
+877,Luxembourg,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.0
+878,Luxembourg,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.0
+879,Luxembourg,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",8.40390879478827
+880,Luxembourg,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.0
+881,Luxembourg,Bachelors or equivalent level,Arts and humanities,14.5698840314328
+882,Luxembourg,Doctoral or equivalent level,Arts and humanities,8.01281023998687
+883,Luxembourg,Masters or equivalent level,Arts and humanities,5.61346362649294
+884,Luxembourg,Short-cycle tertiary education,Arts and humanities,10.6904231625835
+885,Luxembourg,Bachelors or equivalent level,"Business, administration and law",25.4973302085864
+886,Luxembourg,Doctoral or equivalent level,"Business, administration and law",11.3461392998214
+887,Luxembourg,Masters or equivalent level,"Business, administration and law",48.9902280130293
+888,Luxembourg,Short-cycle tertiary education,"Business, administration and law",30.0668151447661
+889,Luxembourg,Bachelors or equivalent level,Education,15.7280579004714
+890,Luxembourg,Doctoral or equivalent level,Education,4.87178862591202
+891,Luxembourg,Masters or equivalent level,Education,7.15889250814332
+892,Luxembourg,Short-cycle tertiary education,Education,0.0
+893,Luxembourg,Bachelors or equivalent level,"Engineering, manufacturing and construction",8.6199305525349
+894,Luxembourg,Doctoral or equivalent level,"Engineering, manufacturing and construction",13.4615212031779
+895,Luxembourg,Masters or equivalent level,"Engineering, manufacturing and construction",7.10097719869707
+896,Luxembourg,Short-cycle tertiary education,"Engineering, manufacturing and construction",12.2494432071269
+897,Luxembourg,Doctoral or equivalent level,Health and welfare,0.0
+898,Luxembourg,Masters or equivalent level,Health and welfare,5.09229098805646
+899,Luxembourg,Short-cycle tertiary education,Health and welfare,36.5256124721604
+900,Luxembourg,Bachelors or equivalent level,Information and Communication Technologies (ICTs),9.19454838459849
+901,Luxembourg,Doctoral or equivalent level,Information and Communication Technologies (ICTs),19.1881164254918
+902,Luxembourg,Masters or equivalent level,Information and Communication Technologies (ICTs),4.01737242128122
+903,Luxembourg,Short-cycle tertiary education,Information and Communication Technologies (ICTs),6.79287305122494
+904,Luxembourg,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",6.41853290373368
+905,Luxembourg,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",27.6281697074747
+906,Luxembourg,Masters or equivalent level,"Natural sciences, mathematics and statistics",5.23344191096634
+907,Luxembourg,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",1.44766146993318
+908,Luxembourg,Bachelors or equivalent level,Services,0.0
+909,Luxembourg,Doctoral or equivalent level,Services,0.0
+910,Luxembourg,Masters or equivalent level,Services,0.542888165038002
+911,Luxembourg,Short-cycle tertiary education,Services,0.0
+912,Luxembourg,Bachelors or equivalent level,"Social sciences, journalism and information",17.2929068315469
+913,Luxembourg,Doctoral or equivalent level,"Social sciences, journalism and information",15.4914544981353
+914,Luxembourg,Masters or equivalent level,"Social sciences, journalism and information",7.84653637350706
+915,Luxembourg,Short-cycle tertiary education,"Social sciences, journalism and information",2.2271714922049
+916,Mexico,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.51850267574575
+917,Mexico,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.47128059241243
+918,Mexico,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",10.0270289133235
+919,Mexico,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",2.33748271092669
+920,Mexico,Bachelors or equivalent level,Arts and humanities,3.97730501487431
+921,Mexico,Doctoral or equivalent level,Arts and humanities,5.54192273447849
+922,Mexico,Masters or equivalent level,Arts and humanities,2.13090622997418
+923,Mexico,Short-cycle tertiary education,Arts and humanities,2.28734439834025
+924,Mexico,Bachelors or equivalent level,"Business, administration and law",32.418519771554
+925,Mexico,Doctoral or equivalent level,"Business, administration and law",19.1687115898282
+926,Mexico,Masters or equivalent level,"Business, administration and law",42.4081112119232
+927,Mexico,Short-cycle tertiary education,"Business, administration and law",27.2349008759797
+928,Mexico,Bachelors or equivalent level,Education,6.94475848034809
+929,Mexico,Doctoral or equivalent level,Education,27.8681404590762
+930,Mexico,Masters or equivalent level,Education,21.2836830384052
+931,Mexico,Short-cycle tertiary education,Education,0.10488704472107
+932,Mexico,Bachelors or equivalent level,"Engineering, manufacturing and construction",21.3478929835974
+933,Mexico,Doctoral or equivalent level,"Engineering, manufacturing and construction",9.96112836326522
+934,Mexico,Masters or equivalent level,"Engineering, manufacturing and construction",4.39124669276501
+935,Mexico,Short-cycle tertiary education,"Engineering, manufacturing and construction",39.858805901337
+936,Mexico,Bachelors or equivalent level,Health and welfare,12.3039227087241
+937,Mexico,Doctoral or equivalent level,Health and welfare,5.04028317661621
+938,Mexico,Masters or equivalent level,Health and welfare,5.51078935847572
+939,Mexico,Short-cycle tertiary education,Health and welfare,6.38024435223605
+940,Mexico,Bachelors or equivalent level,Information and Communication Technologies (ICTs),5.77152567260496
+941,Mexico,Doctoral or equivalent level,Information and Communication Technologies (ICTs),1.5244630719451
+942,Mexico,Masters or equivalent level,Information and Communication Technologies (ICTs),2.23274051608728
+943,Mexico,Short-cycle tertiary education,Information and Communication Technologies (ICTs),10.5999308437068
+944,Mexico,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",2.84574473824351
+945,Mexico,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",17.4705205324763
+946,Mexico,Masters or equivalent level,"Natural sciences, mathematics and statistics",3.18097316777595
+947,Mexico,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",1.77213001383126
+948,Mexico,Bachelors or equivalent level,Services,2.72995840179849
+949,Mexico,Doctoral or equivalent level,Services,0.271449977198202
+950,Mexico,Masters or equivalent level,Services,0.889543109847788
+951,Mexico,Short-cycle tertiary education,Services,8.97591055786076
+952,Mexico,Bachelors or equivalent level,"Social sciences, journalism and information",9.14186955250943
+953,Mexico,Doctoral or equivalent level,"Social sciences, journalism and information",10.6820995027036
+954,Mexico,Masters or equivalent level,"Social sciences, journalism and information",7.94497776142225
+955,Mexico,Short-cycle tertiary education,"Social sciences, journalism and information",0.448363301060396
+956,Netherlands,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.954808233820267
+957,Netherlands,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.96302390862453
+958,Netherlands,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",2.01384518565135
+959,Netherlands,Bachelors or equivalent level,Arts and humanities,8.22994126909329
+960,Netherlands,Masters or equivalent level,Arts and humanities,10.6527280353628
+961,Netherlands,Short-cycle tertiary education,Arts and humanities,2.17567203092691
+962,Netherlands,Bachelors or equivalent level,"Business, administration and law",28.1383969105934
+963,Netherlands,Masters or equivalent level,"Business, administration and law",23.835704836576
+964,Netherlands,Short-cycle tertiary education,"Business, administration and law",48.4671401600288
+965,Netherlands,Bachelors or equivalent level,Education,9.38990540990955
+966,Netherlands,Masters or equivalent level,Education,6.79250153260414
+967,Netherlands,Short-cycle tertiary education,Education,2.87692169378765
+968,Netherlands,Bachelors or equivalent level,"Engineering, manufacturing and construction",8.99439125587596
+969,Netherlands,Masters or equivalent level,"Engineering, manufacturing and construction",13.1552286000065
+970,Netherlands,Short-cycle tertiary education,"Engineering, manufacturing and construction",7.71374629146813
+971,Netherlands,Bachelors or equivalent level,Health and welfare,15.7517498592067
+972,Netherlands,Masters or equivalent level,Health and welfare,11.7278095053722
+973,Netherlands,Short-cycle tertiary education,Health and welfare,11.3998022116336
+974,Netherlands,Bachelors or equivalent level,Information and Communication Technologies (ICTs),4.46731297481812
+975,Netherlands,Masters or equivalent level,Information and Communication Technologies (ICTs),3.10005485109541
+976,Netherlands,Short-cycle tertiary education,Information and Communication Technologies (ICTs),6.25730468398813
+977,Netherlands,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",4.4657326422012
+978,Netherlands,Masters or equivalent level,"Natural sciences, mathematics and statistics",13.0926338205401
+979,Netherlands,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+980,Netherlands,Bachelors or equivalent level,Services,6.79384992012137
+981,Netherlands,Masters or equivalent level,Services,1.55777110960539
+982,Netherlands,Short-cycle tertiary education,Services,12.9191764811652
+983,Netherlands,Bachelors or equivalent level,"Social sciences, journalism and information",12.8139115243601
+984,Netherlands,Masters or equivalent level,"Social sciences, journalism and information",14.122543800213
+985,Netherlands,Short-cycle tertiary education,"Social sciences, journalism and information",6.17639126135036
+986,New Zealand,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.14206937951405
+987,New Zealand,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.62701853030914
+988,New Zealand,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.56534778181438
+989,New Zealand,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",4.2654301486284
+990,New Zealand,Bachelors or equivalent level,Arts and humanities,11.8679027094433
+991,New Zealand,Doctoral or equivalent level,Arts and humanities,7.06513607683763
+992,New Zealand,Masters or equivalent level,Arts and humanities,5.44576777785863
+993,New Zealand,Short-cycle tertiary education,Arts and humanities,15.4664015032554
+994,New Zealand,Bachelors or equivalent level,"Business, administration and law",24.0931046430146
+995,New Zealand,Doctoral or equivalent level,"Business, administration and law",8.0446428458671
+996,New Zealand,Masters or equivalent level,"Business, administration and law",34.6879466827781
+997,New Zealand,Short-cycle tertiary education,"Business, administration and law",26.6612387277334
+998,New Zealand,Bachelors or equivalent level,Education,7.17552995145276
+999,New Zealand,Doctoral or equivalent level,Education,8.31828340185813
+1000,New Zealand,Masters or equivalent level,Education,8.6836348327787
+1001,New Zealand,Short-cycle tertiary education,Education,4.50256750209502
+1002,New Zealand,Bachelors or equivalent level,"Engineering, manufacturing and construction",8.83545064487655
+1003,New Zealand,Doctoral or equivalent level,"Engineering, manufacturing and construction",18.4143696619437
+1004,New Zealand,Masters or equivalent level,"Engineering, manufacturing and construction",12.9573623016964
+1005,New Zealand,Short-cycle tertiary education,"Engineering, manufacturing and construction",12.6423449027543
+1006,New Zealand,Bachelors or equivalent level,Health and welfare,15.7749710250252
+1007,New Zealand,Doctoral or equivalent level,Health and welfare,12.358989769237
+1008,New Zealand,Masters or equivalent level,Health and welfare,8.83580645024675
+1009,New Zealand,Short-cycle tertiary education,Health and welfare,9.00077981320311
+1010,New Zealand,Bachelors or equivalent level,Information and Communication Technologies (ICTs),7.21701541234703
+1011,New Zealand,Doctoral or equivalent level,Information and Communication Technologies (ICTs),5.10069878076446
+1012,New Zealand,Masters or equivalent level,Information and Communication Technologies (ICTs),7.40896259571452
+1013,New Zealand,Short-cycle tertiary education,Information and Communication Technologies (ICTs),7.65905792227983
+1014,New Zealand,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",9.94646546157014
+1015,New Zealand,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",22.4047799792076
+1016,New Zealand,Masters or equivalent level,"Natural sciences, mathematics and statistics",7.70938227605437
+1017,New Zealand,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",3.02169073567211
+1018,New Zealand,Bachelors or equivalent level,Services,1.62028411629205
+1019,New Zealand,Doctoral or equivalent level,Services,1.16231931856861
+1020,New Zealand,Masters or equivalent level,Services,0.914531225702006
+1021,New Zealand,Short-cycle tertiary education,Services,12.8000637021754
+1022,New Zealand,Bachelors or equivalent level,"Social sciences, journalism and information",12.3272066564643
+1023,New Zealand,Doctoral or equivalent level,"Social sciences, journalism and information",13.5037616354066
+1024,New Zealand,Masters or equivalent level,"Social sciences, journalism and information",11.7912580753561
+1025,New Zealand,Short-cycle tertiary education,"Social sciences, journalism and information",3.98042504220321
+1026,Norway,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.652731719760515
+1027,Norway,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.56794425087108
+1028,Norway,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.18053275948013
+1029,Norway,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.0
+1030,Norway,Bachelors or equivalent level,Arts and humanities,11.8547084214896
+1031,Norway,Doctoral or equivalent level,Arts and humanities,7.79387493123052
+1032,Norway,Masters or equivalent level,Arts and humanities,6.43518011939065
+1033,Norway,Short-cycle tertiary education,Arts and humanities,18.0692526846373
+1034,Norway,Bachelors or equivalent level,"Business, administration and law",20.1766627152639
+1035,Norway,Doctoral or equivalent level,"Business, administration and law",4.98807995598753
+1036,Norway,Masters or equivalent level,"Business, administration and law",17.5426438584333
+1037,Norway,Short-cycle tertiary education,"Business, administration and law",0.405435020819636
+1038,Norway,Bachelors or equivalent level,Education,16.5318688134288
+1039,Norway,Doctoral or equivalent level,Education,3.74105996699065
+1040,Norway,Masters or equivalent level,Education,18.6550923393029
+1041,Norway,Short-cycle tertiary education,Education,0.0
+1042,Norway,Bachelors or equivalent level,"Engineering, manufacturing and construction",5.54846970674589
+1043,Norway,Doctoral or equivalent level,"Engineering, manufacturing and construction",12.5435540069686
+1044,Norway,Masters or equivalent level,"Engineering, manufacturing and construction",15.3104521525574
+1045,Norway,Short-cycle tertiary education,"Engineering, manufacturing and construction",63.740959894806
+1046,Norway,Bachelors or equivalent level,Health and welfare,19.4283970809637
+1047,Norway,Doctoral or equivalent level,Health and welfare,28.3421969558041
+1048,Norway,Masters or equivalent level,Health and welfare,14.4739881581987
+1049,Norway,Short-cycle tertiary education,Health and welfare,0.29585798816568
+1050,Norway,Bachelors or equivalent level,Information and Communication Technologies (ICTs),5.32689104632144
+1051,Norway,Doctoral or equivalent level,Information and Communication Technologies (ICTs),2.24646983311938
+1052,Norway,Masters or equivalent level,Information and Communication Technologies (ICTs),4.09478304215146
+1053,Norway,Short-cycle tertiary education,Information and Communication Technologies (ICTs),5.97194827964059
+1054,Norway,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",4.42807196554777
+1055,Norway,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",25.7472950669356
+1056,Norway,Masters or equivalent level,"Natural sciences, mathematics and statistics",5.90023221602169
+1057,Norway,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",1.50120534735919
+1058,Norway,Bachelors or equivalent level,Services,5.54246757598948
+1059,Norway,Doctoral or equivalent level,Services,0.935264991747662
+1060,Norway,Masters or equivalent level,Services,2.17383375278112
+1061,Norway,Short-cycle tertiary education,Services,10.0153407845716
+1062,Norway,Bachelors or equivalent level,"Social sciences, journalism and information",10.5097309544888
+1063,Norway,Doctoral or equivalent level,"Social sciences, journalism and information",12.0942600403448
+1064,Norway,Masters or equivalent level,"Social sciences, journalism and information",14.2332616016827
+1065,Norway,Short-cycle tertiary education,"Social sciences, journalism and information",0.0
+1066,Poland,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.88402333504915
+1067,Poland,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.0239988112044
+1068,Poland,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.02471617915406
+1069,Poland,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.0
+1070,Poland,Bachelors or equivalent level,Arts and humanities,9.65379398812004
+1071,Poland,Doctoral or equivalent level,Arts and humanities,21.6682764940436
+1072,Poland,Masters or equivalent level,Arts and humanities,8.47889509282226
+1073,Poland,Short-cycle tertiary education,Arts and humanities,0.0
+1074,Poland,Bachelors or equivalent level,"Business, administration and law",20.6689013081027
+1075,Poland,Doctoral or equivalent level,"Business, administration and law",12.4798771577879
+1076,Poland,Masters or equivalent level,"Business, administration and law",27.3186988494192
+1077,Poland,Short-cycle tertiary education,"Business, administration and law",0.0
+1078,Poland,Bachelors or equivalent level,Education,10.493112238645
+1079,Poland,Doctoral or equivalent level,Education,2.59553706317953
+1080,Poland,Masters or equivalent level,Education,7.07634480271856
+1081,Poland,Short-cycle tertiary education,Education,0.0
+1082,Poland,Bachelors or equivalent level,"Engineering, manufacturing and construction",18.2403117876314
+1083,Poland,Doctoral or equivalent level,"Engineering, manufacturing and construction",14.9070015107611
+1084,Poland,Masters or equivalent level,"Engineering, manufacturing and construction",8.99529059539549
+1085,Poland,Short-cycle tertiary education,"Engineering, manufacturing and construction",0.0
+1086,Poland,Bachelors or equivalent level,Health and welfare,9.11024911962481
+1087,Poland,Doctoral or equivalent level,Health and welfare,12.3188944200906
+1088,Poland,Masters or equivalent level,Health and welfare,21.6741878735563
+1089,Poland,Short-cycle tertiary education,Health and welfare,100.0
+1090,Poland,Bachelors or equivalent level,Information and Communication Technologies (ICTs),7.67509457394743
+1091,Poland,Doctoral or equivalent level,Information and Communication Technologies (ICTs),1.96894271491195
+1092,Poland,Masters or equivalent level,Information and Communication Technologies (ICTs),2.61606879445798
+1093,Poland,Short-cycle tertiary education,Information and Communication Technologies (ICTs),0.0
+1094,Poland,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",3.7839792141579
+1095,Poland,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",17.7650642692622
+1096,Poland,Masters or equivalent level,"Natural sciences, mathematics and statistics",2.91786405008796
+1097,Poland,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+1098,Poland,Bachelors or equivalent level,Services,8.8333701007427
+1099,Poland,Doctoral or equivalent level,Services,1.84758649726329
+1100,Poland,Masters or equivalent level,Services,4.75857472218884
+1101,Poland,Short-cycle tertiary education,Services,0.0
+1102,Poland,Bachelors or equivalent level,"Social sciences, journalism and information",9.65716433397881
+1103,Poland,Doctoral or equivalent level,"Social sciences, journalism and information",11.4248210614954
+1104,Poland,Masters or equivalent level,"Social sciences, journalism and information",14.1393590401993
+1105,Poland,Short-cycle tertiary education,"Social sciences, journalism and information",0.0
+1106,Portugal,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.35127238072976
+1107,Portugal,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.52121408745179
+1108,Portugal,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.0388274840474
+1109,Portugal,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",6.93872608379753
+1110,Portugal,Bachelors or equivalent level,Arts and humanities,12.8155104132484
+1111,Portugal,Doctoral or equivalent level,Arts and humanities,15.5077322374824
+1112,Portugal,Masters or equivalent level,Arts and humanities,5.88180834092981
+1113,Portugal,Short-cycle tertiary education,Arts and humanities,8.84596754662146
+1114,Portugal,Bachelors or equivalent level,"Business, administration and law",27.7721087670876
+1115,Portugal,Doctoral or equivalent level,"Business, administration and law",12.2382033812768
+1116,Portugal,Masters or equivalent level,"Business, administration and law",15.1791818596171
+1117,Portugal,Short-cycle tertiary education,"Business, administration and law",22.8384596754662
+1118,Portugal,Bachelors or equivalent level,Education,2.0489352998557
+1119,Portugal,Doctoral or equivalent level,Education,7.50513680112469
+1120,Portugal,Masters or equivalent level,Education,5.05141864175023
+1121,Portugal,Short-cycle tertiary education,Education,0.0544926132235408
+1122,Portugal,Bachelors or equivalent level,"Engineering, manufacturing and construction",14.1528475165987
+1123,Portugal,Doctoral or equivalent level,"Engineering, manufacturing and construction",17.8724631411989
+1124,Portugal,Masters or equivalent level,"Engineering, manufacturing and construction",32.3716670464904
+1125,Portugal,Short-cycle tertiary education,"Engineering, manufacturing and construction",21.4095422620489
+1126,Portugal,Bachelors or equivalent level,Health and welfare,14.1505998912149
+1127,Portugal,Doctoral or equivalent level,Health and welfare,10.5619840669046
+1128,Portugal,Masters or equivalent level,Health and welfare,18.8019883773929
+1129,Portugal,Short-cycle tertiary education,Health and welfare,8.96706224267377
+1130,Portugal,Bachelors or equivalent level,Information and Communication Technologies (ICTs),2.17075659565669
+1131,Portugal,Doctoral or equivalent level,Information and Communication Technologies (ICTs),2.67113658483833
+1132,Portugal,Masters or equivalent level,Information and Communication Technologies (ICTs),1.77543869644485
+1133,Portugal,Short-cycle tertiary education,Information and Communication Technologies (ICTs),16.9774763865343
+1134,Portugal,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",6.11309151881038
+1135,Portugal,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",13.013229515879
+1136,Portugal,Masters or equivalent level,"Natural sciences, mathematics and statistics",4.57141636280766
+1137,Portugal,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",1.33204165657544
+1138,Portugal,Bachelors or equivalent level,Services,7.69317216360915
+1139,Portugal,Doctoral or equivalent level,Services,4.4302656717494
+1140,Portugal,Masters or equivalent level,Services,3.21188468550593
+1141,Portugal,Short-cycle tertiary education,Services,12.2790021797045
+1142,Portugal,Bachelors or equivalent level,"Social sciences, journalism and information",11.7317054531887
+1143,Portugal,Doctoral or equivalent level,"Social sciences, journalism and information",14.678634512094
+1144,Portugal,Masters or equivalent level,"Social sciences, journalism and information",10.1163685050137
+1145,Portugal,Short-cycle tertiary education,"Social sciences, journalism and information",0.357229353354323
+1146,Russia,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.9561198735453
+1147,Russia,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",4.66959105702561
+1148,Russia,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.21911124485588
+1149,Russia,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",1.52376793927328
+1150,Russia,Bachelors or equivalent level,Arts and humanities,5.68260558709266
+1151,Russia,Doctoral or equivalent level,Arts and humanities,9.24883804464956
+1152,Russia,Masters or equivalent level,Arts and humanities,5.09255252503678
+1153,Russia,Short-cycle tertiary education,Arts and humanities,4.11413285633242
+1154,Russia,Bachelors or equivalent level,"Business, administration and law",23.8066655755498
+1155,Russia,Doctoral or equivalent level,"Business, administration and law",5.77440106235918
+1156,Russia,Masters or equivalent level,"Business, administration and law",16.7606894136871
+1157,Russia,Short-cycle tertiary education,"Business, administration and law",16.726021249157
+1158,Russia,Bachelors or equivalent level,Education,13.1805425147947
+1159,Russia,Doctoral or equivalent level,Education,5.66555278597163
+1160,Russia,Masters or equivalent level,Education,5.20403002270044
+1161,Russia,Short-cycle tertiary education,Education,7.18285134111868
+1162,Russia,Bachelors or equivalent level,"Engineering, manufacturing and construction",25.040236370371
+1163,Russia,Doctoral or equivalent level,"Engineering, manufacturing and construction",20.3611585810539
+1164,Russia,Masters or equivalent level,"Engineering, manufacturing and construction",20.8065920995485
+1165,Russia,Short-cycle tertiary education,"Engineering, manufacturing and construction",31.0945239310697
+1166,Russia,Bachelors or equivalent level,Health and welfare,1.11007933568211
+1167,Russia,Doctoral or equivalent level,Health and welfare,9.52966659772942
+1168,Russia,Masters or equivalent level,Health and welfare,22.722750540515
+1169,Russia,Short-cycle tertiary education,Health and welfare,13.1190941311195
+1170,Russia,Bachelors or equivalent level,Information and Communication Technologies (ICTs),6.49756652223725
+1171,Russia,Doctoral or equivalent level,Information and Communication Technologies (ICTs),9.17808666499766
+1172,Russia,Masters or equivalent level,Information and Communication Technologies (ICTs),3.66446543602073
+1173,Russia,Short-cycle tertiary education,Information and Communication Technologies (ICTs),7.39524551939182
+1174,Russia,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",3.81469389864673
+1175,Russia,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",18.3681466403979
+1176,Russia,Masters or equivalent level,"Natural sciences, mathematics and statistics",4.27036627980375
+1177,Russia,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.293107212393367
+1178,Russia,Bachelors or equivalent level,Services,4.42012593785802
+1179,Russia,Doctoral or equivalent level,Services,1.00031566000152
+1180,Russia,Masters or equivalent level,Services,11.7392792233417
+1181,Russia,Short-cycle tertiary education,Services,17.6343979554321
+1182,Russia,Bachelors or equivalent level,"Social sciences, journalism and information",14.4913643842225
+1183,Russia,Doctoral or equivalent level,"Social sciences, journalism and information",16.2042429058136
+1184,Russia,Masters or equivalent level,"Social sciences, journalism and information",6.52016321449017
+1185,Russia,Short-cycle tertiary education,"Social sciences, journalism and information",0.916857864712132
+1186,Slovak Republic,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.94326156060697
+1187,Slovak Republic,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.10700415160037
+1188,Slovak Republic,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.55018772635146
+1189,Slovak Republic,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.517309988062077
+1190,Slovak Republic,Bachelors or equivalent level,Arts and humanities,7.25484315959935
+1191,Slovak Republic,Doctoral or equivalent level,Arts and humanities,13.3922592741395
+1192,Slovak Republic,Masters or equivalent level,Arts and humanities,6.19663089344453
+1193,Slovak Republic,Short-cycle tertiary education,Arts and humanities,38.4401114206128
+1194,Slovak Republic,Bachelors or equivalent level,"Business, administration and law",18.5581479037966
+1195,Slovak Republic,Doctoral or equivalent level,"Business, administration and law",15.1198607205035
+1196,Slovak Republic,Masters or equivalent level,"Business, administration and law",17.2774695152341
+1197,Slovak Republic,Short-cycle tertiary education,"Business, administration and law",6.80461599681655
+1198,Slovak Republic,Bachelors or equivalent level,Education,14.5600671744737
+1199,Slovak Republic,Doctoral or equivalent level,Education,3.6560867818401
+1200,Slovak Republic,Masters or equivalent level,Education,10.8249991693524
+1201,Slovak Republic,Short-cycle tertiary education,Education,6.32709908475925
+1202,Slovak Republic,Bachelors or equivalent level,"Engineering, manufacturing and construction",13.7587716667666
+1203,Slovak Republic,Doctoral or equivalent level,"Engineering, manufacturing and construction",16.0439266104192
+1204,Slovak Republic,Masters or equivalent level,"Engineering, manufacturing and construction",9.83985114795495
+1205,Slovak Republic,Short-cycle tertiary education,"Engineering, manufacturing and construction",8.91364902506964
+1206,Slovak Republic,Bachelors or equivalent level,Health and welfare,14.6320398248665
+1207,Slovak Republic,Doctoral or equivalent level,Health and welfare,18.2000803535556
+1208,Slovak Republic,Masters or equivalent level,Health and welfare,32.7906435857394
+1209,Slovak Republic,Short-cycle tertiary education,Health and welfare,22.6422602467171
+1210,Slovak Republic,Bachelors or equivalent level,Information and Communication Technologies (ICTs),6.49673124212799
+1211,Slovak Republic,Doctoral or equivalent level,Information and Communication Technologies (ICTs),2.9462970403107
+1212,Slovak Republic,Masters or equivalent level,Information and Communication Technologies (ICTs),2.7843306641858
+1213,Slovak Republic,Short-cycle tertiary education,Information and Communication Technologies (ICTs),2.58654994031039
+1214,Slovak Republic,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",4.70101361482637
+1215,Slovak Republic,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",16.2849872773537
+1216,Slovak Republic,Masters or equivalent level,"Natural sciences, mathematics and statistics",3.81101106422567
+1217,Slovak Republic,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+1218,Slovak Republic,Bachelors or equivalent level,Services,6.96095483716188
+1219,Slovak Republic,Doctoral or equivalent level,Services,4.28552296772466
+1220,Slovak Republic,Masters or equivalent level,Services,4.41073861182178
+1221,Slovak Republic,Short-cycle tertiary education,Services,13.7684042976522
+1222,Slovak Republic,Bachelors or equivalent level,"Social sciences, journalism and information",11.134169015774
+1223,Slovak Republic,Doctoral or equivalent level,"Social sciences, journalism and information",6.96397482255256
+1224,Slovak Republic,Masters or equivalent level,"Social sciences, journalism and information",8.51413762168987
+1225,Slovak Republic,Short-cycle tertiary education,"Social sciences, journalism and information",0.0
+1226,Slovenia,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.47264620913992
+1227,Slovenia,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.644814615797958
+1228,Slovenia,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",4.21678841695464
+1229,Slovenia,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",3.13736314288343
+1230,Slovenia,Bachelors or equivalent level,Arts and humanities,10.0918996383158
+1231,Slovenia,Doctoral or equivalent level,Arts and humanities,19.8280494357872
+1232,Slovenia,Masters or equivalent level,Arts and humanities,7.22628056515463
+1233,Slovenia,Short-cycle tertiary education,Arts and humanities,6.28392676419174
+1234,Slovenia,Bachelors or equivalent level,"Business, administration and law",17.4040626919315
+1235,Slovenia,Doctoral or equivalent level,"Business, administration and law",9.86029016657711
+1236,Slovenia,Masters or equivalent level,"Business, administration and law",21.9631687152793
+1237,Slovenia,Short-cycle tertiary education,"Business, administration and law",15.7052166712669
+1238,Slovenia,Bachelors or equivalent level,Education,10.4695070630786
+1239,Slovenia,Doctoral or equivalent level,Education,5.31972058033315
+1240,Slovenia,Masters or equivalent level,Education,11.795197060496
+1241,Slovenia,Short-cycle tertiary education,Education,0.0
+1242,Slovenia,Bachelors or equivalent level,"Engineering, manufacturing and construction",15.4728054411865
+1243,Slovenia,Doctoral or equivalent level,"Engineering, manufacturing and construction",18.0279419666846
+1244,Slovenia,Masters or equivalent level,"Engineering, manufacturing and construction",16.0972835833953
+1245,Slovenia,Short-cycle tertiary education,"Engineering, manufacturing and construction",35.320636673107
+1246,Slovenia,Bachelors or equivalent level,Health and welfare,12.3928027114943
+1247,Slovenia,Doctoral or equivalent level,Health and welfare,18.941429339065
+1248,Slovenia,Masters or equivalent level,Health and welfare,18.9755478762959
+1249,Slovenia,Short-cycle tertiary education,Health and welfare,1.83089520655074
+1250,Slovenia,Bachelors or equivalent level,Information and Communication Technologies (ICTs),5.7823980346216
+1251,Slovenia,Doctoral or equivalent level,Information and Communication Technologies (ICTs),3.68081676518001
+1252,Slovenia,Masters or equivalent level,Information and Communication Technologies (ICTs),2.36647565723284
+1253,Slovenia,Short-cycle tertiary education,Information and Communication Technologies (ICTs),9.21887938172785
+1254,Slovenia,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",6.8458406314688
+1255,Slovenia,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",15.260612573885
+1256,Slovenia,Masters or equivalent level,"Natural sciences, mathematics and statistics",5.80901972792091
+1257,Slovenia,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",1.38927224215659
+1258,Slovenia,Bachelors or equivalent level,Services,7.34514683469439
+1259,Slovenia,Doctoral or equivalent level,Services,1.77324019344438
+1260,Slovenia,Masters or equivalent level,Services,3.1363457416561
+1261,Slovenia,Short-cycle tertiary education,Services,27.1138099181157
+1262,Slovenia,Bachelors or equivalent level,"Social sciences, journalism and information",11.7228907440686
+1263,Slovenia,Doctoral or equivalent level,"Social sciences, journalism and information",6.66308436324557
+1264,Slovenia,Masters or equivalent level,"Social sciences, journalism and information",8.41389265561437
+1265,Slovenia,Short-cycle tertiary education,"Social sciences, journalism and information",0.0
+1266,Spain,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.829452934486797
+1267,Spain,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",2.54797747910696
+1268,Spain,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.34632539914127
+1269,Spain,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.899992419665684
+1270,Spain,Bachelors or equivalent level,Arts and humanities,13.8016377290351
+1271,Spain,Doctoral or equivalent level,Arts and humanities,15.6060142286038
+1272,Spain,Masters or equivalent level,Arts and humanities,4.77354204010171
+1273,Spain,Short-cycle tertiary education,Arts and humanities,8.06892131842687
+1274,Spain,Bachelors or equivalent level,"Business, administration and law",23.1101494421683
+1275,Spain,Doctoral or equivalent level,"Business, administration and law",8.76070159816716
+1276,Spain,Masters or equivalent level,"Business, administration and law",16.06022552003
+1277,Spain,Short-cycle tertiary education,"Business, administration and law",20.4209612323327
+1278,Spain,Bachelors or equivalent level,Education,11.9955447821332
+1279,Spain,Doctoral or equivalent level,Education,6.16170891652985
+1280,Spain,Masters or equivalent level,Education,12.3554024761349
+1281,Spain,Short-cycle tertiary education,Education,8.00804893680069
+1282,Spain,Bachelors or equivalent level,"Engineering, manufacturing and construction",11.9702457401829
+1283,Spain,Doctoral or equivalent level,"Engineering, manufacturing and construction",13.4318390516738
+1284,Spain,Masters or equivalent level,"Engineering, manufacturing and construction",14.0171015882279
+1285,Spain,Short-cycle tertiary education,"Engineering, manufacturing and construction",17.5312459083423
+1286,Spain,Bachelors or equivalent level,Health and welfare,9.7555692244025
+1287,Spain,Doctoral or equivalent level,Health and welfare,16.4296778621848
+1288,Spain,Masters or equivalent level,Health and welfare,34.1429926216182
+1289,Spain,Short-cycle tertiary education,Health and welfare,17.0874517902223
+1290,Spain,Bachelors or equivalent level,Information and Communication Technologies (ICTs),4.07080175331252
+1291,Spain,Doctoral or equivalent level,Information and Communication Technologies (ICTs),2.34298911984862
+1292,Spain,Masters or equivalent level,Information and Communication Technologies (ICTs),1.96574471632832
+1293,Spain,Short-cycle tertiary education,Information and Communication Technologies (ICTs),11.7722591923039
+1294,Spain,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",6.92555211319745
+1295,Spain,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",17.5176929997867
+1296,Spain,Masters or equivalent level,"Natural sciences, mathematics and statistics",3.20615698861978
+1297,Spain,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",1.01806186931044
+1298,Spain,Bachelors or equivalent level,Services,4.01519235758781
+1299,Spain,Doctoral or equivalent level,Services,1.77161885150866
+1300,Spain,Masters or equivalent level,Services,3.65011046729751
+1301,Spain,Short-cycle tertiary education,Services,14.3599096791681
+1302,Spain,Bachelors or equivalent level,"Social sciences, journalism and information",13.5258539234934
+1303,Spain,Doctoral or equivalent level,"Social sciences, journalism and information",15.4297798925898
+1304,Spain,Masters or equivalent level,"Social sciences, journalism and information",6.48239818250031
+1305,Spain,Short-cycle tertiary education,"Social sciences, journalism and information",0.833147653427115
+1306,Sweden,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.654728580228626
+1307,Sweden,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.56340360764009
+1308,Sweden,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.990834969920035
+1309,Sweden,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",2.06282813247935
+1310,Sweden,Bachelors or equivalent level,Arts and humanities,20.0038517047415
+1311,Sweden,Doctoral or equivalent level,Arts and humanities,5.31832037175877
+1312,Sweden,Masters or equivalent level,Arts and humanities,3.64507469967737
+1313,Sweden,Short-cycle tertiary education,Arts and humanities,11.0232650476908
+1314,Sweden,Bachelors or equivalent level,"Business, administration and law",13.0129763857509
+1315,Sweden,Doctoral or equivalent level,"Business, administration and law",3.61041933797665
+1316,Sweden,Masters or equivalent level,"Business, administration and law",12.9799636789483
+1317,Sweden,Short-cycle tertiary education,"Business, administration and law",28.1318094455395
+1318,Sweden,Bachelors or equivalent level,Education,11.1060343918513
+1319,Sweden,Doctoral or equivalent level,Education,2.80972407499869
+1320,Sweden,Masters or equivalent level,Education,19.2933349655835
+1321,Sweden,Short-cycle tertiary education,Education,0.0484070927980247
+1322,Sweden,Bachelors or equivalent level,"Engineering, manufacturing and construction",9.39439318050897
+1323,Sweden,Doctoral or equivalent level,"Engineering, manufacturing and construction",24.1147255535652
+1324,Sweden,Masters or equivalent level,"Engineering, manufacturing and construction",29.1664870392231
+1325,Sweden,Short-cycle tertiary education,"Engineering, manufacturing and construction",30.4834053806969
+1326,Sweden,Bachelors or equivalent level,Health and welfare,17.4260043068407
+1327,Sweden,Doctoral or equivalent level,Health and welfare,30.4839822995519
+1328,Sweden,Masters or equivalent level,Health and welfare,18.454971171007
+1329,Sweden,Short-cycle tertiary education,Health and welfare,4.19796544841591
+1330,Sweden,Bachelors or equivalent level,Information and Communication Technologies (ICTs),4.58731543974806
+1331,Sweden,Doctoral or equivalent level,Information and Communication Technologies (ICTs),5.41374503642855
+1332,Sweden,Masters or equivalent level,Information and Communication Technologies (ICTs),2.54640204147249
+1333,Sweden,Short-cycle tertiary education,Information and Communication Technologies (ICTs),14.5269611797691
+1334,Sweden,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",6.19881080716992
+1335,Sweden,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",18.9609567736584
+1336,Sweden,Masters or equivalent level,"Natural sciences, mathematics and statistics",4.00323183995881
+1337,Sweden,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+1338,Sweden,Bachelors or equivalent level,Services,2.137999459484
+1339,Sweden,Doctoral or equivalent level,Services,0.491218069862065
+1340,Sweden,Masters or equivalent level,Services,0.514047826935637
+1341,Sweden,Short-cycle tertiary education,Services,8.51976556524006
+1342,Sweden,Bachelors or equivalent level,"Social sciences, journalism and information",15.4778857436759
+1343,Sweden,Doctoral or equivalent level,"Social sciences, journalism and information",7.23350487455967
+1344,Sweden,Masters or equivalent level,"Social sciences, journalism and information",8.40565176727385
+1345,Sweden,Short-cycle tertiary education,"Social sciences, journalism and information",1.00559270737031
+1346,Switzerland,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.06449512516921
+1347,Switzerland,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.74712529738303
+1348,Switzerland,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.888188908888318
+1349,Switzerland,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",0.0
+1350,Switzerland,Bachelors or equivalent level,Arts and humanities,8.5185312109114
+1351,Switzerland,Doctoral or equivalent level,Arts and humanities,12.0985329103886
+1352,Switzerland,Masters or equivalent level,Arts and humanities,12.5942830204851
+1353,Switzerland,Short-cycle tertiary education,Arts and humanities,9.89468528043106
+1354,Switzerland,Bachelors or equivalent level,"Business, administration and law",26.8402700433509
+1355,Switzerland,Doctoral or equivalent level,"Business, administration and law",11.2014274385408
+1356,Switzerland,Masters or equivalent level,"Business, administration and law",23.1754092740207
+1357,Switzerland,Short-cycle tertiary education,"Business, administration and law",34.9008082292432
+1358,Switzerland,Bachelors or equivalent level,Education,7.70334641284419
+1359,Switzerland,Doctoral or equivalent level,Education,1.72977795400476
+1360,Switzerland,Masters or equivalent level,Education,15.018856604097
+1361,Switzerland,Short-cycle tertiary education,Education,3.89419544452608
+1362,Switzerland,Bachelors or equivalent level,"Engineering, manufacturing and construction",16.5294460341667
+1363,Switzerland,Doctoral or equivalent level,"Engineering, manufacturing and construction",14.5940721649485
+1364,Switzerland,Masters or equivalent level,"Engineering, manufacturing and construction",13.749250021428
+1365,Switzerland,Short-cycle tertiary education,"Engineering, manufacturing and construction",11.756061719324
+1366,Switzerland,Bachelors or equivalent level,Health and welfare,16.8421548636932
+1367,Switzerland,Doctoral or equivalent level,Health and welfare,16.4502379064235
+1368,Switzerland,Masters or equivalent level,Health and welfare,8.61189680294849
+1369,Switzerland,Short-cycle tertiary education,Health and welfare,33.3333333333333
+1370,Switzerland,Bachelors or equivalent level,Information and Communication Technologies (ICTs),4.28539606929285
+1371,Switzerland,Doctoral or equivalent level,Information and Communication Technologies (ICTs),3.62559476605868
+1372,Switzerland,Masters or equivalent level,Information and Communication Technologies (ICTs),2.38814605296992
+1373,Switzerland,Short-cycle tertiary education,Information and Communication Technologies (ICTs),0.0
+1374,Switzerland,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",6.65769949109851
+1375,Switzerland,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",29.3467486122125
+1376,Switzerland,Masters or equivalent level,"Natural sciences, mathematics and statistics",9.65758121196537
+1377,Switzerland,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.0
+1378,Switzerland,Bachelors or equivalent level,Services,4.25541029111907
+1379,Switzerland,Doctoral or equivalent level,Services,0.0
+1380,Switzerland,Masters or equivalent level,Services,0.326776377817777
+1381,Switzerland,Short-cycle tertiary education,Services,0.0
+1382,Switzerland,Bachelors or equivalent level,"Social sciences, journalism and information",7.30325045835404
+1383,Switzerland,Doctoral or equivalent level,"Social sciences, journalism and information",9.20648295003965
+1384,Switzerland,Masters or equivalent level,"Social sciences, journalism and information",13.5896117253793
+1385,Switzerland,Short-cycle tertiary education,"Social sciences, journalism and information",6.2209159931423
+1386,Turkey,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.770144210143004
+1387,Turkey,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",3.02993367987094
+1388,Turkey,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",5.16018926025394
+1389,Turkey,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",3.71341061855485
+1390,Turkey,Bachelors or equivalent level,Arts and humanities,13.2633535905872
+1391,Turkey,Doctoral or equivalent level,Arts and humanities,12.5470514429109
+1392,Turkey,Masters or equivalent level,Arts and humanities,10.5831423388968
+1393,Turkey,Short-cycle tertiary education,Arts and humanities,12.7099040574214
+1394,Turkey,Bachelors or equivalent level,"Business, administration and law",39.8296736710375
+1395,Turkey,Doctoral or equivalent level,"Business, administration and law",12.0179243592042
+1396,Turkey,Masters or equivalent level,"Business, administration and law",19.0594285633937
+1397,Turkey,Short-cycle tertiary education,"Business, administration and law",43.9044448905927
+1398,Turkey,Bachelors or equivalent level,Education,7.40361432296438
+1399,Turkey,Doctoral or equivalent level,Education,5.18946047678796
+1400,Turkey,Masters or equivalent level,Education,6.20966267804665
+1401,Turkey,Short-cycle tertiary education,Education,3.8672731626242
+1402,Turkey,Bachelors or equivalent level,"Engineering, manufacturing and construction",12.8263095444242
+1403,Turkey,Doctoral or equivalent level,"Engineering, manufacturing and construction",16.5061839039254
+1404,Turkey,Masters or equivalent level,"Engineering, manufacturing and construction",13.7447447236322
+1405,Turkey,Short-cycle tertiary education,"Engineering, manufacturing and construction",8.44633639429316
+1406,Turkey,Bachelors or equivalent level,Health and welfare,3.7607810366152
+1407,Turkey,Doctoral or equivalent level,Health and welfare,31.3540060942821
+1408,Turkey,Masters or equivalent level,Health and welfare,27.6926700319183
+1409,Turkey,Short-cycle tertiary education,Health and welfare,13.5826591005862
+1410,Turkey,Bachelors or equivalent level,Information and Communication Technologies (ICTs),0.209304142540644
+1411,Turkey,Doctoral or equivalent level,Information and Communication Technologies (ICTs),0.340562824879011
+1412,Turkey,Masters or equivalent level,Information and Communication Technologies (ICTs),0.502327085588943
+1413,Turkey,Short-cycle tertiary education,Information and Communication Technologies (ICTs),2.73819774782646
+1414,Turkey,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",3.08069106461837
+1415,Turkey,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",9.86700125470514
+1416,Turkey,Masters or equivalent level,"Natural sciences, mathematics and statistics",5.97308736062093
+1417,Turkey,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",0.288738393943666
+1418,Turkey,Bachelors or equivalent level,Services,2.74274780107288
+1419,Turkey,Doctoral or equivalent level,Services,1.07904642409034
+1420,Turkey,Masters or equivalent level,Services,2.87915325018631
+1421,Turkey,Short-cycle tertiary education,Services,9.73704483356229
+1422,Turkey,Bachelors or equivalent level,"Social sciences, journalism and information",16.1133806159966
+1423,Turkey,Doctoral or equivalent level,"Social sciences, journalism and information",8.06882953934397
+1424,Turkey,Masters or equivalent level,"Social sciences, journalism and information",8.19559470746214
+1425,Turkey,Short-cycle tertiary education,"Social sciences, journalism and information",1.01199080059506
+1426,United Kingdom,Bachelors or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.966953811391512
+1427,United Kingdom,Doctoral or equivalent level,"Agriculture, forestry, fisheries and veterinary",1.06357509808461
+1428,United Kingdom,Masters or equivalent level,"Agriculture, forestry, fisheries and veterinary",0.918658059053868
+1429,United Kingdom,Short-cycle tertiary education,"Agriculture, forestry, fisheries and veterinary",1.74963747292656
+1430,United Kingdom,Bachelors or equivalent level,Arts and humanities,17.3025711517205
+1431,United Kingdom,Doctoral or equivalent level,Arts and humanities,14.0132030961573
+1432,United Kingdom,Masters or equivalent level,Arts and humanities,9.78483437400783
+1433,United Kingdom,Short-cycle tertiary education,Arts and humanities,5.96876451671789
+1434,United Kingdom,Bachelors or equivalent level,"Business, administration and law",21.1772704852495
+1435,United Kingdom,Doctoral or equivalent level,"Business, administration and law",8.84363404271295
+1436,United Kingdom,Masters or equivalent level,"Business, administration and law",31.4465536791497
+1437,United Kingdom,Short-cycle tertiary education,"Business, administration and law",37.3063660080737
+1438,United Kingdom,Bachelors or equivalent level,Education,2.89613239099112
+1439,United Kingdom,Doctoral or equivalent level,Education,4.8707222907059
+1440,United Kingdom,Masters or equivalent level,Education,11.224306426984
+1441,United Kingdom,Short-cycle tertiary education,Education,5.82613730863472
+1442,United Kingdom,Bachelors or equivalent level,"Engineering, manufacturing and construction",9.95030338779242
+1443,United Kingdom,Doctoral or equivalent level,"Engineering, manufacturing and construction",16.0090544455638
+1444,United Kingdom,Masters or equivalent level,"Engineering, manufacturing and construction",9.18741968159896
+1445,United Kingdom,Short-cycle tertiary education,"Engineering, manufacturing and construction",9.07635646298644
+1446,United Kingdom,Bachelors or equivalent level,Health and welfare,12.3558156777888
+1447,United Kingdom,Doctoral or equivalent level,Health and welfare,14.1098485085507
+1448,United Kingdom,Masters or equivalent level,Health and welfare,13.2969671771767
+1449,United Kingdom,Short-cycle tertiary education,Health and welfare,26.0997633053946
+1450,United Kingdom,Bachelors or equivalent level,Information and Communication Technologies (ICTs),5.42241400348118
+1451,United Kingdom,Doctoral or equivalent level,Information and Communication Technologies (ICTs),4.92431059188667
+1452,United Kingdom,Masters or equivalent level,Information and Communication Technologies (ICTs),3.83931481789456
+1453,United Kingdom,Short-cycle tertiary education,Information and Communication Technologies (ICTs),5.65223008868658
+1454,United Kingdom,Bachelors or equivalent level,"Natural sciences, mathematics and statistics",17.196914812343
+1455,United Kingdom,Doctoral or equivalent level,"Natural sciences, mathematics and statistics",27.4098153443755
+1456,United Kingdom,Masters or equivalent level,"Natural sciences, mathematics and statistics",8.47409703218784
+1457,United Kingdom,Short-cycle tertiary education,"Natural sciences, mathematics and statistics",3.0925854584001
+1458,United Kingdom,Bachelors or equivalent level,Services,0.0
+1459,United Kingdom,Doctoral or equivalent level,Services,0.0
+1460,United Kingdom,Masters or equivalent level,Services,0.0
+1461,United Kingdom,Short-cycle tertiary education,Services,0.945498516023386
+1462,United Kingdom,Bachelors or equivalent level,"Social sciences, journalism and information",12.731624279242
+1463,United Kingdom,Doctoral or equivalent level,"Social sciences, journalism and information",8.75583658196244
+1464,United Kingdom,Masters or equivalent level,"Social sciences, journalism and information",11.8278487519465
+1465,United Kingdom,Short-cycle tertiary education,"Social sciences, journalism and information",4.2826608621561

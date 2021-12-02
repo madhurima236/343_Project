@@ -21,50 +21,59 @@ def disconnect_db(db_conn):
     return True
 
 
-def _create_df(cursor):
-    pass
+def _create_df(cursor, column_names):
     data = []
     for record in cursor:
         data.append(record)
 
-    df = pd.Dataframe(data)
+    df = pd.DataFrame(data, columns=column_names)
     
     return df
 
 
 def run_query_1(db_conn):
-    pass
     cursor = db_conn.cursor(cursor_factory=pg.extras.DictCursor)
     cursor.execute("SET SEARCH_PATH TO EducationStatus;")
 
     # Query for q1
-
-    return _create_df(cursor)
+    cursor.execute("SELECT * FROM fieldstudyrates;")
+    fieldstudyrates_df = _create_df(cursor, ["country", "eduLevel", "field", "enrollPercent" ])
+    fieldstudyrates_df.to_csv("db after queries/fieldStudyRates")
+    
+    cursor.execute("SELECT * FROM unemploymentrates;")
+    unemploymentrates_df = _create_df(cursor, ["country","avgRate"])
+    unemploymentrates_df.to_csv("db after queries/unemploymentRates")
 
 def run_query_2(db_conn):
-    pass
     cursor = db_conn.cursor(cursor_factory=pg.extras.DictCursor)
     cursor.execute("SET SEARCH_PATH TO EducationStatus;")
 
     # Query for q2
-
-    return _create_df(cursor)
+    cursor.execute("SELECT * FROM EnrollRateInst;")
+    EnrollRateInst_df = _create_df(cursor, ["country","eduLevel" ,"enrollRate"])
+    EnrollRateInst_df.to_csv("db after queries/EnrollRateInst")
+    
+    cursor.execute("SELECT * FROM CountryEmploymentRates;")
+    EmploymentRates_df = _create_df(cursor, ["country","eduLevel" ,"employmentRate"])
+    EmploymentRates_df.to_csv("db after queries/EmploymentRates")
+    
 
 def run_query_3(db_conn):
-    pass
     cursor = db_conn.cursor(cursor_factory=pg.extras.DictCursor)
     cursor.execute("SET SEARCH_PATH TO EducationStatus;")
 
     # Query for q3
 
-    return _create_df(cursor)
+    cursor.execute("SELECT * FROM EmploymentType;")
+    EmploymentType_df = _create_df(cursor, ["country", "eduLevel", "employmentType", "enrollRate"])
+    EmploymentType_df.to_csv("db after queries/EmploymentType")
     
 
 if __name__ == "__main__":
     db_conn = connect_db("csc343h-duttama1", "duttama1", "")
 
-    q1_df = run_query_1(db_conn)
-    q2_df = run_query_2(db_conn)
-    q3_df = run_query_3(db_conn)
+    run_query_1(db_conn)
+    run_query_2(db_conn)
+    run_query_3(db_conn)
     
     disconnect_db(db_conn)
