@@ -1,45 +1,45 @@
 ,country,eduLevel,employmentRate
-0,Austria,Bachelors or equivalent education,65.75288
-1,Austria,"Masters, Doctoral or equivalent education",102.80548
+0,United Kingdom,Bachelors or equivalent education,78.001984
+1,Germany,Short-cycle tertiary education,100.00004
 2,Austria,Short-cycle tertiary education,125.30658
-3,Costa Rica,Bachelors or equivalent education,98.880391
-4,Costa Rica,"Masters, Doctoral or equivalent education",97.73875
-5,Costa Rica,Short-cycle tertiary education,100.0
-6,Denmark,Bachelors or equivalent education,114.38894
-7,Denmark,"Masters, Doctoral or equivalent education",100.477732
-8,Denmark,Short-cycle tertiary education,110.249875
-9,Estonia,Bachelors or equivalent education,102.91616
-10,Estonia,"Masters, Doctoral or equivalent education",93.428956
-11,Estonia,Short-cycle tertiary education,93.992462
-12,Germany,Bachelors or equivalent education,86.48728
-13,Germany,"Masters, Doctoral or equivalent education",100.0
-14,Germany,Short-cycle tertiary education,100.00004
-15,Ireland,Bachelors or equivalent education,115.737921
-16,Ireland,"Masters, Doctoral or equivalent education",79.917759
-17,Ireland,Short-cycle tertiary education,100.0
-18,Korea,Bachelors or equivalent education,99.999966
-19,Korea,"Masters, Doctoral or equivalent education",112.740637
-20,Korea,Short-cycle tertiary education,113.456113
-21,Latvia,Bachelors or equivalent education,111.28644
-22,Latvia,"Masters, Doctoral or equivalent education",107.989016
-23,Latvia,Short-cycle tertiary education,108.481933
-24,Luxembourg,Bachelors or equivalent education,78.20745
-25,Luxembourg,"Masters, Doctoral or equivalent education",107.562086
-26,Luxembourg,Short-cycle tertiary education,116.73207
-27,New Zealand,Bachelors or equivalent education,97.65608
-28,New Zealand,"Masters, Doctoral or equivalent education",100.00227
-29,New Zealand,Short-cycle tertiary education,100.0644
-30,Norway,Bachelors or equivalent education,94.248994
-31,Norway,"Masters, Doctoral or equivalent education",105.162755
-32,Norway,Short-cycle tertiary education,99.999998
-33,Sweden,Bachelors or equivalent education,100.000006
-34,Sweden,"Masters, Doctoral or equivalent education",100.059406
-35,Sweden,Short-cycle tertiary education,101.88074
-36,Switzerland,Bachelors or equivalent education,100.00001
-37,Switzerland,"Masters, Doctoral or equivalent education",100.00001
-38,United Kingdom,Bachelors or equivalent education,78.001984
-39,United Kingdom,"Masters, Doctoral or equivalent education",99.9332
-40,United Kingdom,Short-cycle tertiary education,106.27437
-41,United States,Bachelors or equivalent education,100.0
-42,United States,"Masters, Doctoral or equivalent education",97.92623
-43,United States,Short-cycle tertiary education,84.61971
+3,Denmark,Short-cycle tertiary education,110.249875
+4,Estonia,"Masters, Doctoral or equivalent education",93.428956
+5,Korea,"Masters, Doctoral or equivalent education",112.740637
+6,Korea,Bachelors or equivalent education,99.999966
+7,New Zealand,Bachelors or equivalent education,97.65608
+8,Latvia,"Masters, Doctoral or equivalent education",107.989016
+9,Luxembourg,Short-cycle tertiary education,116.73207
+10,Norway,Short-cycle tertiary education,99.999998
+11,Norway,"Masters, Doctoral or equivalent education",105.162755
+12,Ireland,Short-cycle tertiary education,100.0
+13,Luxembourg,Bachelors or equivalent education,78.20745
+14,Norway,Bachelors or equivalent education,94.248994
+15,Korea,Short-cycle tertiary education,113.456113
+16,Costa Rica,Bachelors or equivalent education,98.880391
+17,Estonia,Short-cycle tertiary education,93.992462
+18,Sweden,Bachelors or equivalent education,100.000006
+19,Switzerland,Bachelors or equivalent education,100.00001
+20,United States,Bachelors or equivalent education,100.0
+21,New Zealand,"Masters, Doctoral or equivalent education",100.00227
+22,Germany,"Masters, Doctoral or equivalent education",100.0
+23,Denmark,Bachelors or equivalent education,114.38894
+24,Switzerland,"Masters, Doctoral or equivalent education",100.00001
+25,Sweden,"Masters, Doctoral or equivalent education",100.059406
+26,Costa Rica,"Masters, Doctoral or equivalent education",97.73875
+27,United Kingdom,Short-cycle tertiary education,106.27437
+28,Latvia,Short-cycle tertiary education,108.481933
+29,Luxembourg,"Masters, Doctoral or equivalent education",107.562086
+30,Austria,"Masters, Doctoral or equivalent education",102.80548
+31,Germany,Bachelors or equivalent education,86.48728
+32,New Zealand,Short-cycle tertiary education,100.0644
+33,Costa Rica,Short-cycle tertiary education,100.0
+34,United States,Short-cycle tertiary education,84.61971
+35,United States,"Masters, Doctoral or equivalent education",97.92623
+36,Denmark,"Masters, Doctoral or equivalent education",100.477732
+37,Latvia,Bachelors or equivalent education,111.28644
+38,Sweden,Short-cycle tertiary education,101.88074
+39,Estonia,Bachelors or equivalent education,102.91616
+40,Ireland,Bachelors or equivalent education,115.737921
+41,Austria,Bachelors or equivalent education,65.75288
+42,United Kingdom,"Masters, Doctoral or equivalent education",99.9332
+43,Ireland,"Masters, Doctoral or equivalent education",79.917759

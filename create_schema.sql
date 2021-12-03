@@ -55,7 +55,7 @@ CREATE TABLE EarnType (
 	uID INT NOT NULL,
 	type TEXT NOT NULL,
 	rate FLOAT NOT NULL,
-    year INT, -- check this !!!!!!!!!!!!!!!!!
+    year INT, 
 	PRIMARY KEY (uID, type, year),
     FOREIGN KEY (uID) REFERENCES EducationLevel(uID)
 );
