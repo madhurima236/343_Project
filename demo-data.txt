@@ -2,14 +2,26 @@ dbsrv1:~/343_Project$ psql csc343h-duttama1
 psql (10.19 (Ubuntu 10.19-0ubuntu0.18.04.1), server 10.18 (Ubuntu 10.18-0ubuntu0.18.04.1))
 Type "help" for help.
 
-csc343h-duttama1=> \i create_schema.sql
-psql:create_schema.sql:1: NOTICE:  drop cascades to 6 other objects
+csc343h-duttama1=> \i schema.sql
+psql:schema.sql:1: NOTICE:  drop cascades to 18 other objects
 DETAIL:  drop cascades to table educationstatus.country
 drop cascades to table educationstatus.educationlevel
 drop cascades to table educationstatus.genderunemployment
 drop cascades to table educationstatus.institution
 drop cascades to table educationstatus.fieldstudy
 drop cascades to table educationstatus.earntype
+drop cascades to table educationstatus.fieldstudyrates
+drop cascades to table educationstatus.unemploymentrates
+drop cascades to view educationstatus.total_field_enrolled
+drop cascades to view educationstatus.total_enrolled
+drop cascades to view educationstatus.enrolled_prop
+drop cascades to view educationstatus.total_unemployment
+drop cascades to table educationstatus.enrollrateinst
+drop cascades to table educationstatus.countryemploymentrates
+drop cascades to view educationstatus.numenroll
+drop cascades to view educationstatus.totalnumenroll
+drop cascades to table educationstatus.employmenttype
+drop cascades to view educationstatus.finalcountries
 DROP SCHEMA
 CREATE SCHEMA
 SET
@@ -21,6 +33,12 @@ CREATE TABLE
 CREATE TABLE
 csc343h-duttama1=> \q
 dbsrv1:~/343_Project$ python3 add_data.py
+created country db
+created education level db
+created earnType db
+created Field db
+created institution db
+created Gender db
 dbsrv1:~/343_Project$ psql csc343h-duttama1
 psql (10.19 (Ubuntu 10.19-0ubuntu0.18.04.1), server 10.18 (Ubuntu 10.18-0ubuntu0.18.04.1))
 Type "help" for help.
@@ -123,31 +141,31 @@ Foreign-key constraints:
 csc343h-duttama1=> SELECT count(*) FROM country;
  count 
 -------
-    23
+   40
 (1 row)
 
 csc343h-duttama1=> SELECT count(*) FROM EducationLevel;
  count 
 -------
-    67
+  201
 (1 row)
 
 csc343h-duttama1=> SELECT count(*) FROM GenderUnemployment;
  count 
 -------
-   138
+  240
 (1 row)
 
 csc343h-duttama1=> SELECT count(*) FROM Institution;
  count 
 -------
-   558
+  4586
 (1 row)
 
 csc343h-duttama1=> SELECT count(*) FROM FieldStudy;
  count 
 -------
-   380
+  3478
 (1 row)
 
 csc343h-duttama1=> SELECT count(*) FROM EarnType;
@@ -182,33 +200,33 @@ csc343h-duttama1=> SELECT * FROM GenderUnemployment
 LIMIT 5;
  countrycode | gender | unemprate | year 
 -------------+--------+-----------+------
+ AUS         | Men    |       5.5 | 2017
+ AUS         | Women  |       5.7 | 2017
  AUT         | Men    |       5.9 | 2017
  AUT         | Women  |         5 | 2017
  BEL         | Men    |       7.1 | 2017
- BEL         | Women  |       7.1 | 2017
- CAN         | Men    |       6.8 | 2017
 (5 rows)
 
 csc343h-duttama1=> SELECT * FROM Institution   
 LIMIT 5;
  uid |             sector              | studentrate | employmenttype | year 
 -----+---------------------------------+-------------+----------------+------
-  27 | Public educational institutions |   63353.066 | Full-time      | 2013
-  27 | Public educational institutions |   64080.473 | Full-time      | 2014
-  27 | Public educational institutions |    64024.26 | Full-time      | 2015
-  27 | Public educational institutions |   63780.071 | Full-time      | 2016
-  27 | Public educational institutions |   62274.449 | Full-time      | 2017
+  67 | Public educational institutions |       73725 | Full-time      | 2013
+  67 | Public educational institutions |       78265 | Full-time      | 2014
+  67 | Public educational institutions |       99335 | Full-time      | 2015
+  67 | Public educational institutions |      111055 | Full-time      | 2016
+  67 | Public educational institutions |       92143 | Full-time      | 2017
 (5 rows)
 
 csc343h-duttama1=> SELECT * FROM FieldStudy
 LIMIT 5;
  uid |                      field                      | enrollrate |               mobility                
 -----+-------------------------------------------------+------------+---------------------------------------
-  27 | Agriculture, forestry, fisheries and veterinary |        1.5 | Homecoming nationals
-  27 | Agriculture, forestry, fisheries and veterinary |       23.5 | Mobile including homecoming nationals
-  27 | Agriculture, forestry, fisheries and veterinary |   1875.167 | Total
-  27 | Arts and humanities                             |         33 | Homecoming nationals
-  27 | Arts and humanities                             |    176.333 | Mobile including homecoming nationals
+  68 | Agriculture, forestry, fisheries and veterinary |   1110.815 | Mobile including homecoming nationals
+  68 | Agriculture, forestry, fisheries and veterinary |   8213.369 | Total
+  70 | Agriculture, forestry, fisheries and veterinary |        857 | Mobile including homecoming nationals
+  70 | Agriculture, forestry, fisheries and veterinary |       1834 | Total
+  69 | Agriculture, forestry, fisheries and veterinary |    995.013 | Mobile including homecoming nationals
 (5 rows)
 
 csc343h-duttama1=> SELECT * FROM EarnType

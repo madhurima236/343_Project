@@ -1,0 +1,183 @@
+dbsrv1:~/343_Project$ psql csc343h-duttama1
+psql (10.19 (Ubuntu 10.19-0ubuntu0.18.04.1), server 10.18 (Ubuntu 10.18-0ubuntu0.18.04.1))
+Type "help" for help.
+
+csc343h-duttama1=> \i schema.sql
+psql:schema.sql:1: NOTICE:  drop cascades to 18 other objects
+DETAIL:  drop cascades to table educationstatus.country
+drop cascades to table educationstatus.educationlevel
+drop cascades to table educationstatus.genderunemployment
+drop cascades to table educationstatus.institution
+drop cascades to table educationstatus.fieldstudy
+drop cascades to table educationstatus.earntype
+drop cascades to table educationstatus.fieldstudyrates
+drop cascades to table educationstatus.unemploymentrates
+drop cascades to view educationstatus.total_field_enrolled
+drop cascades to view educationstatus.total_enrolled
+drop cascades to view educationstatus.enrolled_prop
+drop cascades to view educationstatus.total_unemployment
+drop cascades to table educationstatus.enrollrateinst
+drop cascades to table educationstatus.countryemploymentrates
+drop cascades to view educationstatus.numenroll
+drop cascades to view educationstatus.totalnumenroll
+drop cascades to table educationstatus.employmenttype
+drop cascades to view educationstatus.finalcountries
+DROP SCHEMA
+CREATE SCHEMA
+SET
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+csc343h-duttama1=> \q
+dbsrv1:~/343_Project$ python3 add_data.py
+created country db
+created education level db
+created earnType db
+created Field db
+created institution db
+created Gender db
+dbsrv1:~/343_Project$ psql csc343h-duttama1
+psql (10.19 (Ubuntu 10.19-0ubuntu0.18.04.1), server 10.18 (Ubuntu 10.18-0ubuntu0.18.04.1))
+Type "help" for help.
+
+csc343h-duttama1=> -- Query for Q1
+csc343h-duttama1=>
+csc343h-duttama1=>
+csc343h-duttama1=> \i project_q1.sql
+SET
+DROP TABLE
+CREATE TABLE
+DROP TABLE
+CREATE TABLE
+psql:project_q1.sql:18: NOTICE:  drop cascades to 2 other objects
+DETAIL:  drop cascades to view total_enrolled
+drop cascades to view enrolled_prop
+DROP VIEW
+CREATE VIEW
+psql:project_q1.sql:26: NOTICE:  view "total_enrolled" does not exist, skipping
+DROP VIEW
+CREATE VIEW
+psql:project_q1.sql:34: NOTICE:  view "enrolled_prop" does not exist, skipping
+DROP VIEW
+CREATE VIEW
+INSERT 0 1466
+DROP VIEW
+CREATE VIEW
+INSERT 0 40
+
+csc343h-duttama1=> SELECT * FROM FieldStudyRates LIMIT 5;
+  country  |            edulevel            |                      field                      |   enrollpercent   
+-----------+--------------------------------+-------------------------------------------------+-------------------
+ Australia | Bachelors or equivalent level  | Agriculture, forestry, fisheries and veterinary | 0.783415704499889
+ Australia | Doctoral or equivalent level   | Agriculture, forestry, fisheries and veterinary |  3.53543979504697
+ Australia | Masters or equivalent level    | Agriculture, forestry, fisheries and veterinary | 0.611332220684992
+ Australia | Short-cycle tertiary education | Agriculture, forestry, fisheries and veterinary | 0.832987934051764
+ Australia | Bachelors or equivalent level  | Arts and humanities                             |  11.9512661999266
+(5 rows)
+
+csc343h-duttama1=> SELECT count(*) FROM FieldStudyRates;
+ count 
+-------
+  1466
+(1 row)
+
+csc343h-duttama1=> SELECT * FROM UnemploymentRates LIMIT 5;
+  country  |     avgrate      
+-----------+------------------
+ Australia |             10.7
+ Austria   | 9.83333333333333
+ Belgium   | 12.2333333333333
+ Brazil    |             24.4
+ Canada    | 11.9666666666667
+(5 rows)
+
+csc343h-duttama1=> SELECT count(*) FROM UnemploymentRates;
+ count 
+-------
+    40
+(1 row)
+
+csc343h-duttama1=>
+csc343h-duttama1=>
+csc343h-duttama1=> -- Query for investigative Q2
+csc343h-duttama1=> \i project_q2.sql
+SET
+psql:project_q2.sql:5: NOTICE:  table "enrollrateinst" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:project_q2.sql:14: NOTICE:  table "countryemploymentrates" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:project_q2.sql:23: NOTICE:  view "numenroll" does not exist, skipping
+DROP VIEW
+CREATE VIEW
+psql:project_q2.sql:31: NOTICE:  view "totalnumenroll" does not exist, skipping
+DROP VIEW
+CREATE VIEW
+INSERT 0 147
+INSERT 0 44
+
+csc343h-duttama1=> SELECT * FROM EnrollRateInst LIMIT 5;
+  country  |           edulevel            |    enrollrate    
+-----------+-------------------------------+------------------
+ Latvia    | Masters or equivalent level   | 22.7005164582167
+ Japan     | Bachelors or equivalent level | 69.4648093841642
+ Denmark   | Doctoral or equivalent level  | 3.01814516782417
+ Austria   | Bachelors or equivalent level | 44.4295412957063
+ Australia | Bachelors or equivalent level | 65.7871144165613
+(5 rows)
+
+csc343h-duttama1=> SELECT count(*) FROM EnrollRateInst;
+ count 
+-------
+   147
+(1 row)
+
+csc343h-duttama1=> SELECT * FROM CountryEmploymentRates LIMIT 5;
+    country     |                 edulevel                  | employmentrate 
+----------------+-------------------------------------------+----------------
+ United Kingdom | Bachelors or equivalent education         |      78.001984
+ Germany        | Short-cycle tertiary education            |      100.00004
+ Austria        | Short-cycle tertiary education            |      125.30658
+ Denmark        | Short-cycle tertiary education            |     110.249875
+ Estonia        | Masters, Doctoral or equivalent education |      93.428956
+(5 rows)
+
+csc343h-duttama1=> SELECT count(*) FROM CountryEmploymentRates;
+ count 
+-------
+    44
+(1 row)
+
+csc343h-duttama1=> 
+csc343h-duttama1=> 
+csc343h-duttama1=> -- Query for Investigative Q3
+csc343h-duttama1=> \i project_q3.sql
+SET
+psql:project_q3.sql:5: NOTICE:  table "employmenttype" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:project_q3.sql:16: NOTICE:  view "finalcountries" does not exist, skipping
+DROP VIEW
+CREATE VIEW
+INSERT 0 124
+
+csc343h-duttama1=> SELECT * FROM employmentType LIMIT 5;
+   country   |             edulevel              |        employmenttype        | employmentrate 
+-------------+-----------------------------------+------------------------------+----------------
+ Sweden      | Bachelors or equivalent education | Full-time, full-year earners |        51.0417
+ Sweden      | Short-cycle tertiary education    | No earnings                  |       12.85634
+ Korea       | Short-cycle tertiary education    | No earnings                  |       49.51765
+ New Zealand | Bachelors or equivalent education | No earnings                  |       11.54719
+ Denmark     | Bachelors or equivalent education | Full-time, full-year earners |       53.31398
+(5 rows)
+
+csc343h-duttama1=> SELECT count(*) FROM employmentType;
+ count 
+-------
+   124
+(1 row)
+
