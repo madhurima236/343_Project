@@ -18,7 +18,8 @@ GROUP BY countryCode
 HAVING count(distinct type) = 3 and count(distinct eduLevel) = 3;
 
 INSERT INTO EmploymentType
-SELECT finalCountries.countryCode, eduLevel, EarnType.type as employmentType, rate
+SELECT Country.name, eduLevel, EarnType.type as employmentType, rate
 FROM EarnType JOIN EducationLevel ON EducationLevel.uID = EarnType.uID
                 JOIN finalCountries ON finalCountries.countryCode = EducationLevel.countryCode
+                JOIN Country ON EducationLevel.countryCode = Country.code
 WHERE EarnType.year = 2019;

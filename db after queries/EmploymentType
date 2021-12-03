@@ -1,125 +1,125 @@
 ,country,eduLevel,employmentType,enrollRate
-0,SWE,Bachelors or equivalent education,"Full-time, full-year earners",51.0417
-1,SWE,Short-cycle tertiary education,No earnings,12.85634
-2,KOR,Short-cycle tertiary education,No earnings,49.51765
-3,NZL,Bachelors or equivalent education,No earnings,11.54719
-4,DNK,Bachelors or equivalent education,"Full-time, full-year earners",53.31398
-5,AUT,Bachelors or equivalent education,Part-time or part-year earners,14.4903
-6,DEU,Short-cycle tertiary education,"Full-time, full-year earners",71.2705
-7,AUT,"Masters, Doctoral or equivalent education",No earnings,27.31741
-8,DNK,"Masters, Doctoral or equivalent education","Full-time, full-year earners",62.81446
-9,LVA,Bachelors or equivalent education,"Full-time, full-year earners",79.24621
-10,AUT,Bachelors or equivalent education,"Full-time, full-year earners",38.08595
-11,KOR,Short-cycle tertiary education,Part-time or part-year earners,5.890213
-12,GBR,"Masters, Doctoral or equivalent education",Part-time or part-year earners,17.31984
-13,CRI,Short-cycle tertiary education,"Full-time, full-year earners",90.0461
-14,DEU,Bachelors or equivalent education,Part-time or part-year earners,29.43979
-15,NZL,"Masters, Doctoral or equivalent education",Part-time or part-year earners,15.2166
-16,AUT,"Masters, Doctoral or equivalent education",Part-time or part-year earners,18.9685
-17,IRL,Short-cycle tertiary education,"Full-time, full-year earners",43.90848
-18,USA,"Masters, Doctoral or equivalent education",No earnings,16.44211
-19,DEU,Bachelors or equivalent education,No earnings,14.92462
-20,AUT,Short-cycle tertiary education,No earnings,30.36258
-21,NZL,"Masters, Doctoral or equivalent education","Full-time, full-year earners",67.42122
-22,DNK,"Masters, Doctoral or equivalent education",No earnings,8.542972
-23,GBR,Bachelors or equivalent education,No earnings,8.933114
-24,SWE,Bachelors or equivalent education,No earnings,6.479166
-25,USA,Bachelors or equivalent education,Part-time or part-year earners,18.24387
-26,GBR,Short-cycle tertiary education,Part-time or part-year earners,23.3105
-27,NOR,"Masters, Doctoral or equivalent education",No earnings,6.833445
-28,CRI,Bachelors or equivalent education,"Full-time, full-year earners",94.69273
-29,GBR,"Masters, Doctoral or equivalent education",No earnings,11.84206
-30,NOR,"Masters, Doctoral or equivalent education",Part-time or part-year earners,22.46474
-31,SWE,Bachelors or equivalent education,Part-time or part-year earners,42.47914
-32,KOR,Short-cycle tertiary education,"Full-time, full-year earners",58.04825
-33,NOR,Short-cycle tertiary education,No earnings,9.679548
-34,USA,Bachelors or equivalent education,"Full-time, full-year earners",71.50673
-35,USA,Short-cycle tertiary education,No earnings,11.94537
-36,NZL,Bachelors or equivalent education,Part-time or part-year earners,14.02647
-37,AUT,Short-cycle tertiary education,"Full-time, full-year earners",55.80688
-38,KOR,Bachelors or equivalent education,Part-time or part-year earners,4.960086
-39,KOR,"Masters, Doctoral or equivalent education","Full-time, full-year earners",66.54229
-40,KOR,"Masters, Doctoral or equivalent education",No earnings,40.99315
-41,EST,Bachelors or equivalent education,"Full-time, full-year earners",67.81473
-42,EST,"Masters, Doctoral or equivalent education",No earnings,11.36484
-43,DNK,Short-cycle tertiary education,No earnings,9.886865
-44,GBR,Short-cycle tertiary education,No earnings,12.65737
-45,USA,Bachelors or equivalent education,No earnings,10.2494
-46,DEU,Bachelors or equivalent education,"Full-time, full-year earners",42.12287
-47,LUX,Bachelors or equivalent education,Part-time or part-year earners,13.19783
-48,GBR,Bachelors or equivalent education,"Full-time, full-year earners",46.44169
-49,IRL,Short-cycle tertiary education,Part-time or part-year earners,42.64059
-50,LUX,"Masters, Doctoral or equivalent education",Part-time or part-year earners,8.558606
-51,LVA,"Masters, Doctoral or equivalent education",Part-time or part-year earners,5.112366
-52,LUX,Bachelors or equivalent education,"Full-time, full-year earners",45.98976
-53,EST,"Masters, Doctoral or equivalent education",Part-time or part-year earners,9.964236
-54,EST,Bachelors or equivalent education,No earnings,15.35677
-55,NOR,"Masters, Doctoral or equivalent education","Full-time, full-year earners",75.86457
-56,LUX,Bachelors or equivalent education,No earnings,19.01986
-57,LVA,Bachelors or equivalent education,No earnings,21.12069
-58,EST,Bachelors or equivalent education,Part-time or part-year earners,19.74466
-59,NOR,Short-cycle tertiary education,Part-time or part-year earners,42.66001
-60,IRL,"Masters, Doctoral or equivalent education","Full-time, full-year earners",53.79713
-61,KOR,Bachelors or equivalent education,"Full-time, full-year earners",65.54264
-62,DNK,"Masters, Doctoral or equivalent education",Part-time or part-year earners,29.1203
-63,NOR,Bachelors or equivalent education,Part-time or part-year earners,31.1715
-64,SWE,"Masters, Doctoral or equivalent education",No earnings,7.688556
-65,NOR,Bachelors or equivalent education,"Full-time, full-year earners",58.60755
-66,AUT,Short-cycle tertiary education,Part-time or part-year earners,39.13712
-67,CRI,Short-cycle tertiary education,No earnings,4.188226
-68,IRL,Short-cycle tertiary education,No earnings,13.45093
-69,USA,"Masters, Doctoral or equivalent education","Full-time, full-year earners",65.24039
-70,LVA,"Masters, Doctoral or equivalent education",No earnings,30.8623
-71,DNK,Short-cycle tertiary education,Part-time or part-year earners,38.51852
-72,EST,Short-cycle tertiary education,Part-time or part-year earners,9.037372
-73,SWE,"Masters, Doctoral or equivalent education",Part-time or part-year earners,27.68884
-74,DEU,Short-cycle tertiary education,No earnings,12.47515
-75,NZL,Short-cycle tertiary education,Part-time or part-year earners,12.17333
-76,KOR,Bachelors or equivalent education,No earnings,29.49724
-77,IRL,"Masters, Doctoral or equivalent education",Part-time or part-year earners,19.64655
-78,NOR,Short-cycle tertiary education,"Full-time, full-year earners",47.66044
-79,DEU,Short-cycle tertiary education,Part-time or part-year earners,16.25439
-80,GBR,Bachelors or equivalent education,Part-time or part-year earners,22.62718
-81,DNK,Short-cycle tertiary education,"Full-time, full-year earners",61.84449
-82,EST,Short-cycle tertiary education,No earnings,16.21616
-83,USA,"Masters, Doctoral or equivalent education",Part-time or part-year earners,16.24373
-84,IRL,Bachelors or equivalent education,No earnings,9.794661
-85,IRL,"Masters, Doctoral or equivalent education",No earnings,6.474079
-86,SWE,Short-cycle tertiary education,Part-time or part-year earners,43.30497
-87,IRL,Bachelors or equivalent education,Part-time or part-year earners,38.16675
-88,EST,"Masters, Doctoral or equivalent education","Full-time, full-year earners",72.09988
-89,LUX,"Masters, Doctoral or equivalent education",No earnings,13.46179
-90,DNK,Bachelors or equivalent education,Part-time or part-year earners,48.42887
-91,SWE,"Masters, Doctoral or equivalent education","Full-time, full-year earners",64.68201
-92,EST,Short-cycle tertiary education,"Full-time, full-year earners",68.73893
-93,NZL,"Masters, Doctoral or equivalent education",No earnings,17.36445
-94,NOR,Bachelors or equivalent education,No earnings,4.469944
-95,IRL,Bachelors or equivalent education,"Full-time, full-year earners",67.77651
-96,AUT,"Masters, Doctoral or equivalent education","Full-time, full-year earners",56.51957
-97,AUT,Bachelors or equivalent education,No earnings,13.17663
-98,GBR,"Masters, Doctoral or equivalent education","Full-time, full-year earners",70.7713
-99,DNK,Bachelors or equivalent education,No earnings,12.64609
-100,CRI,Bachelors or equivalent education,Part-time or part-year earners,2.802473
-101,SWE,Short-cycle tertiary education,"Full-time, full-year earners",45.71943
-102,USA,Short-cycle tertiary education,"Full-time, full-year earners",53.03507
-103,DEU,"Masters, Doctoral or equivalent education",No earnings,11.88331
-104,LUX,Short-cycle tertiary education,Part-time or part-year earners,13.45613
-105,DEU,"Masters, Doctoral or equivalent education","Full-time, full-year earners",60.66403
-106,NZL,Bachelors or equivalent education,"Full-time, full-year earners",72.08242
-107,GBR,Short-cycle tertiary education,"Full-time, full-year earners",70.3065
-108,LVA,"Masters, Doctoral or equivalent education","Full-time, full-year earners",72.01435
-109,CRI,"Masters, Doctoral or equivalent education","Full-time, full-year earners",97.73875
-110,USA,Short-cycle tertiary education,Part-time or part-year earners,19.63927
-111,LUX,Short-cycle tertiary education,"Full-time, full-year earners",84.39741
-112,NZL,Short-cycle tertiary education,"Full-time, full-year earners",74.08012
-113,LVA,Short-cycle tertiary education,Part-time or part-year earners,3.640843
-114,LUX,Short-cycle tertiary education,No earnings,18.87853
-115,DEU,"Masters, Doctoral or equivalent education",Part-time or part-year earners,27.45266
-116,CRI,Bachelors or equivalent education,No earnings,1.385188
-117,LVA,Bachelors or equivalent education,Part-time or part-year earners,10.91954
-118,CRI,Short-cycle tertiary education,Part-time or part-year earners,5.765674
-119,LVA,Short-cycle tertiary education,No earnings,18.34109
-120,LUX,"Masters, Doctoral or equivalent education","Full-time, full-year earners",85.54169
-121,NZL,Short-cycle tertiary education,No earnings,13.81095
-122,KOR,"Masters, Doctoral or equivalent education",Part-time or part-year earners,5.205197
-123,LVA,Short-cycle tertiary education,"Full-time, full-year earners",86.5
+0,Sweden,Bachelors or equivalent education,"Full-time, full-year earners",51.0417
+1,Sweden,Short-cycle tertiary education,No earnings,12.85634
+2,Korea,Short-cycle tertiary education,No earnings,49.51765
+3,New Zealand,Bachelors or equivalent education,No earnings,11.54719
+4,Denmark,Bachelors or equivalent education,"Full-time, full-year earners",53.31398
+5,Austria,Bachelors or equivalent education,Part-time or part-year earners,14.4903
+6,Germany,Short-cycle tertiary education,"Full-time, full-year earners",71.2705
+7,Austria,"Masters, Doctoral or equivalent education",No earnings,27.31741
+8,Denmark,"Masters, Doctoral or equivalent education","Full-time, full-year earners",62.81446
+9,Latvia,Bachelors or equivalent education,"Full-time, full-year earners",79.24621
+10,Austria,Bachelors or equivalent education,"Full-time, full-year earners",38.08595
+11,Korea,Short-cycle tertiary education,Part-time or part-year earners,5.890213
+12,United Kingdom,"Masters, Doctoral or equivalent education",Part-time or part-year earners,17.31984
+13,Costa Rica,Short-cycle tertiary education,"Full-time, full-year earners",90.0461
+14,Germany,Bachelors or equivalent education,Part-time or part-year earners,29.43979
+15,New Zealand,"Masters, Doctoral or equivalent education",Part-time or part-year earners,15.2166
+16,Austria,"Masters, Doctoral or equivalent education",Part-time or part-year earners,18.9685
+17,Ireland,Short-cycle tertiary education,"Full-time, full-year earners",43.90848
+18,United States,"Masters, Doctoral or equivalent education",No earnings,16.44211
+19,Germany,Bachelors or equivalent education,No earnings,14.92462
+20,Austria,Short-cycle tertiary education,No earnings,30.36258
+21,New Zealand,"Masters, Doctoral or equivalent education","Full-time, full-year earners",67.42122
+22,Denmark,"Masters, Doctoral or equivalent education",No earnings,8.542972
+23,United Kingdom,Bachelors or equivalent education,No earnings,8.933114
+24,Sweden,Bachelors or equivalent education,No earnings,6.479166
+25,United States,Bachelors or equivalent education,Part-time or part-year earners,18.24387
+26,United Kingdom,Short-cycle tertiary education,Part-time or part-year earners,23.3105
+27,Norway,"Masters, Doctoral or equivalent education",No earnings,6.833445
+28,Costa Rica,Bachelors or equivalent education,"Full-time, full-year earners",94.69273
+29,United Kingdom,"Masters, Doctoral or equivalent education",No earnings,11.84206
+30,Norway,"Masters, Doctoral or equivalent education",Part-time or part-year earners,22.46474
+31,Sweden,Bachelors or equivalent education,Part-time or part-year earners,42.47914
+32,Korea,Short-cycle tertiary education,"Full-time, full-year earners",58.04825
+33,Norway,Short-cycle tertiary education,No earnings,9.679548
+34,United States,Bachelors or equivalent education,"Full-time, full-year earners",71.50673
+35,United States,Short-cycle tertiary education,No earnings,11.94537
+36,New Zealand,Bachelors or equivalent education,Part-time or part-year earners,14.02647
+37,Austria,Short-cycle tertiary education,"Full-time, full-year earners",55.80688
+38,Korea,Bachelors or equivalent education,Part-time or part-year earners,4.960086
+39,Korea,"Masters, Doctoral or equivalent education","Full-time, full-year earners",66.54229
+40,Korea,"Masters, Doctoral or equivalent education",No earnings,40.99315
+41,Estonia,Bachelors or equivalent education,"Full-time, full-year earners",67.81473
+42,Estonia,"Masters, Doctoral or equivalent education",No earnings,11.36484
+43,Denmark,Short-cycle tertiary education,No earnings,9.886865
+44,United Kingdom,Short-cycle tertiary education,No earnings,12.65737
+45,United States,Bachelors or equivalent education,No earnings,10.2494
+46,Germany,Bachelors or equivalent education,"Full-time, full-year earners",42.12287
+47,Luxembourg,Bachelors or equivalent education,Part-time or part-year earners,13.19783
+48,United Kingdom,Bachelors or equivalent education,"Full-time, full-year earners",46.44169
+49,Ireland,Short-cycle tertiary education,Part-time or part-year earners,42.64059
+50,Luxembourg,"Masters, Doctoral or equivalent education",Part-time or part-year earners,8.558606
+51,Latvia,"Masters, Doctoral or equivalent education",Part-time or part-year earners,5.112366
+52,Luxembourg,Bachelors or equivalent education,"Full-time, full-year earners",45.98976
+53,Estonia,"Masters, Doctoral or equivalent education",Part-time or part-year earners,9.964236
+54,Estonia,Bachelors or equivalent education,No earnings,15.35677
+55,Norway,"Masters, Doctoral or equivalent education","Full-time, full-year earners",75.86457
+56,Luxembourg,Bachelors or equivalent education,No earnings,19.01986
+57,Latvia,Bachelors or equivalent education,No earnings,21.12069
+58,Estonia,Bachelors or equivalent education,Part-time or part-year earners,19.74466
+59,Norway,Short-cycle tertiary education,Part-time or part-year earners,42.66001
+60,Ireland,"Masters, Doctoral or equivalent education","Full-time, full-year earners",53.79713
+61,Korea,Bachelors or equivalent education,"Full-time, full-year earners",65.54264
+62,Denmark,"Masters, Doctoral or equivalent education",Part-time or part-year earners,29.1203
+63,Norway,Bachelors or equivalent education,Part-time or part-year earners,31.1715
+64,Sweden,"Masters, Doctoral or equivalent education",No earnings,7.688556
+65,Norway,Bachelors or equivalent education,"Full-time, full-year earners",58.60755
+66,Austria,Short-cycle tertiary education,Part-time or part-year earners,39.13712
+67,Costa Rica,Short-cycle tertiary education,No earnings,4.188226
+68,Ireland,Short-cycle tertiary education,No earnings,13.45093
+69,United States,"Masters, Doctoral or equivalent education","Full-time, full-year earners",65.24039
+70,Latvia,"Masters, Doctoral or equivalent education",No earnings,30.8623
+71,Denmark,Short-cycle tertiary education,Part-time or part-year earners,38.51852
+72,Estonia,Short-cycle tertiary education,Part-time or part-year earners,9.037372
+73,Sweden,"Masters, Doctoral or equivalent education",Part-time or part-year earners,27.68884
+74,Germany,Short-cycle tertiary education,No earnings,12.47515
+75,New Zealand,Short-cycle tertiary education,Part-time or part-year earners,12.17333
+76,Korea,Bachelors or equivalent education,No earnings,29.49724
+77,Ireland,"Masters, Doctoral or equivalent education",Part-time or part-year earners,19.64655
+78,Norway,Short-cycle tertiary education,"Full-time, full-year earners",47.66044
+79,Germany,Short-cycle tertiary education,Part-time or part-year earners,16.25439
+80,United Kingdom,Bachelors or equivalent education,Part-time or part-year earners,22.62718
+81,Denmark,Short-cycle tertiary education,"Full-time, full-year earners",61.84449
+82,Estonia,Short-cycle tertiary education,No earnings,16.21616
+83,United States,"Masters, Doctoral or equivalent education",Part-time or part-year earners,16.24373
+84,Ireland,Bachelors or equivalent education,No earnings,9.794661
+85,Ireland,"Masters, Doctoral or equivalent education",No earnings,6.474079
+86,Sweden,Short-cycle tertiary education,Part-time or part-year earners,43.30497
+87,Ireland,Bachelors or equivalent education,Part-time or part-year earners,38.16675
+88,Estonia,"Masters, Doctoral or equivalent education","Full-time, full-year earners",72.09988
+89,Luxembourg,"Masters, Doctoral or equivalent education",No earnings,13.46179
+90,Denmark,Bachelors or equivalent education,Part-time or part-year earners,48.42887
+91,Sweden,"Masters, Doctoral or equivalent education","Full-time, full-year earners",64.68201
+92,Estonia,Short-cycle tertiary education,"Full-time, full-year earners",68.73893
+93,New Zealand,"Masters, Doctoral or equivalent education",No earnings,17.36445
+94,Norway,Bachelors or equivalent education,No earnings,4.469944
+95,Ireland,Bachelors or equivalent education,"Full-time, full-year earners",67.77651
+96,Austria,"Masters, Doctoral or equivalent education","Full-time, full-year earners",56.51957
+97,Austria,Bachelors or equivalent education,No earnings,13.17663
+98,United Kingdom,"Masters, Doctoral or equivalent education","Full-time, full-year earners",70.7713
+99,Denmark,Bachelors or equivalent education,No earnings,12.64609
+100,Costa Rica,Bachelors or equivalent education,Part-time or part-year earners,2.802473
+101,Sweden,Short-cycle tertiary education,"Full-time, full-year earners",45.71943
+102,United States,Short-cycle tertiary education,"Full-time, full-year earners",53.03507
+103,Germany,"Masters, Doctoral or equivalent education",No earnings,11.88331
+104,Luxembourg,Short-cycle tertiary education,Part-time or part-year earners,13.45613
+105,Germany,"Masters, Doctoral or equivalent education","Full-time, full-year earners",60.66403
+106,New Zealand,Bachelors or equivalent education,"Full-time, full-year earners",72.08242
+107,United Kingdom,Short-cycle tertiary education,"Full-time, full-year earners",70.3065
+108,Latvia,"Masters, Doctoral or equivalent education","Full-time, full-year earners",72.01435
+109,Costa Rica,"Masters, Doctoral or equivalent education","Full-time, full-year earners",97.73875
+110,United States,Short-cycle tertiary education,Part-time or part-year earners,19.63927
+111,Luxembourg,Short-cycle tertiary education,"Full-time, full-year earners",84.39741
+112,New Zealand,Short-cycle tertiary education,"Full-time, full-year earners",74.08012
+113,Latvia,Short-cycle tertiary education,Part-time or part-year earners,3.640843
+114,Luxembourg,Short-cycle tertiary education,No earnings,18.87853
+115,Germany,"Masters, Doctoral or equivalent education",Part-time or part-year earners,27.45266
+116,Costa Rica,Bachelors or equivalent education,No earnings,1.385188
+117,Latvia,Bachelors or equivalent education,Part-time or part-year earners,10.91954
+118,Costa Rica,Short-cycle tertiary education,Part-time or part-year earners,5.765674
+119,Latvia,Short-cycle tertiary education,No earnings,18.34109
+120,Luxembourg,"Masters, Doctoral or equivalent education","Full-time, full-year earners",85.54169
+121,New Zealand,Short-cycle tertiary education,No earnings,13.81095
+122,Korea,"Masters, Doctoral or equivalent education",Part-time or part-year earners,5.205197
+123,Latvia,Short-cycle tertiary education,"Full-time, full-year earners",86.5

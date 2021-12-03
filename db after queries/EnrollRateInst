@@ -1,149 +1,148 @@
 ,country,eduLevel,enrollRate
-0,LVA,Masters or equivalent level,0.0241586850503846
-1,JPN,Bachelors or equivalent level,3.5259879691588
-2,DNK,Doctoral or equivalent level,0.01244258641164
-3,AUT,Bachelors or equivalent level,0.198378887368704
-4,AUS,Bachelors or equivalent level,1.21687229355817
-5,SVK,Bachelors or equivalent level,0.104160678872476
-6,CAN,Doctoral or equivalent level,0.070479861887699
-7,AUS,Doctoral or equivalent level,0.0728874239082198
-8,RUS,Bachelors or equivalent level,3.99863353066274
-9,TUR,Doctoral or equivalent level,0.125388361528766
-10,NZL,Masters or equivalent level,0.0253427243157747
-11,CZE,Doctoral or equivalent level,0.0296093210815089
-12,CHL,Bachelors or equivalent level,1.06145429755735
-13,RUS,Doctoral or equivalent level,0.124705383912868
-14,COL,Doctoral or equivalent level,0.00820759779722994
-15,BRA,Doctoral or equivalent level,0.151663222396749
-16,FRA,Masters or equivalent level,1.30409829193143
-17,HUN,Bachelors or equivalent level,0.241954709103915
-18,AUS,Masters or equivalent level,0.360261462958958
-19,ISR,Bachelors or equivalent level,0.317298479148077
-20,JPN,Short-cycle tertiary education,1.00044222473644
-21,ITA,Doctoral or equivalent level,0.0373633584542815
-22,GRC,Bachelors or equivalent level,0.86959004228049
-23,ITA,Bachelors or equivalent level,1.50392330265545
-24,IRL,Bachelors or equivalent level,0.222662569189205
-25,CHE,Bachelors or equivalent level,0.273301799486106
-26,NLD,Doctoral or equivalent level,0.0206343623335982
-27,NOR,Masters or equivalent level,0.0954639214314276
-28,MEX,Doctoral or equivalent level,0.0576760093240203
-29,LUX,Doctoral or equivalent level,0.000913713296944634
-30,GRC,Doctoral or equivalent level,0.0385275847763624
-31,COL,Short-cycle tertiary education,0.905329021540203
-32,ESP,Bachelors or equivalent level,1.59804368317838
-33,USA,Doctoral or equivalent level,0.467006589780514
-34,AUT,Doctoral or equivalent level,0.0264085214333003
-35,HUN,Doctoral or equivalent level,0.010120726215508
-36,RUS,Short-cycle tertiary education,1.89130214134061
-37,TUR,Masters or equivalent level,0.769917502026772
-38,JPN,Masters or equivalent level,0.458884485486315
-39,FIN,Bachelors or equivalent level,0.27334003568468
-40,CZE,Bachelors or equivalent level,0.25527804657235
-41,LTU,Masters or equivalent level,0.0356994245715338
-42,MEX,Bachelors or equivalent level,5.32043650102328
-43,ITA,Masters or equivalent level,0.940917692984834
-44,SWE,Masters or equivalent level,0.190876421768222
-45,SVK,Masters or equivalent level,0.0735928158474195
-46,DEU,Short-cycle tertiary education,0.000359747252012626
-47,SVN,Doctoral or equivalent level,0.00372341464728953
-48,ESP,Short-cycle tertiary education,0.546363633863924
-49,CAN,Masters or equivalent level,0.267230154850565
-50,LTU,Doctoral or equivalent level,0.0036166169892051
-51,DNK,Bachelors or equivalent level,0.258220915372899
-52,AUT,Masters or equivalent level,0.148384738659446
-53,DEU,Masters or equivalent level,1.32067961721625
-54,CHL,Short-cycle tertiary education,0.458012787179155
-55,CZE,Short-cycle tertiary education,0.00129080132425512
-56,TUR,Bachelors or equivalent level,5.42238739131613
-57,BEL,Doctoral or equivalent level,0.0228612912780996
-58,CHL,Doctoral or equivalent level,0.00763273632902235
-59,MEX,Short-cycle tertiary education,0.230220151610686
-60,NZL,Bachelors or equivalent level,0.247319628807265
-61,SWE,Short-cycle tertiary education,0.0337124607353209
-62,USA,Bachelors or equivalent level,11.9424636111308
-63,ISL,Short-cycle tertiary education,0.000775271888316659
-64,CHL,Masters or equivalent level,0.127392356295219
-65,GBR,Doctoral or equivalent level,0.146691198092596
-66,ESP,Doctoral or equivalent level,0.112704491519231
-67,FRA,Bachelors or equivalent level,1.39560938152413
-68,BEL,Short-cycle tertiary education,0.0299560838478818
-69,EST,Doctoral or equivalent level,0.00324919744617527
-70,POL,Bachelors or equivalent level,1.30098401948211
-71,CAN,Short-cycle tertiary education,0.476639266520452
-72,ISR,Masters or equivalent level,0.083059571218361
-73,DEU,Doctoral or equivalent level,0.264225317038535
-74,CZE,Masters or equivalent level,0.147652377015356
-75,AUS,Short-cycle tertiary education,0.0744933442483043
-76,FIN,Doctoral or equivalent level,0.0245515949529669
-77,ISL,Bachelors or equivalent level,0.0160710698072989
-78,COL,Bachelors or equivalent level,2.05367149933792
-79,DNK,Short-cycle tertiary education,0.0469013122639459
-80,ISL,Doctoral or equivalent level,0.000839877879009714
-81,NOR,Bachelors or equivalent level,0.262673454772296
-82,DNK,Masters or equivalent level,0.092357559919737
-83,PRT,Doctoral or equivalent level,0.0266849111354437
-84,USA,Short-cycle tertiary education,9.06963337004291
-85,BRA,Masters or equivalent level,0.231025748759941
-86,GBR,Bachelors or equivalent level,2.13726242186749
-87,FRA,Doctoral or equivalent level,0.0871468889969012
-88,FIN,Masters or equivalent level,0.0904246541573693
-89,COL,Masters or equivalent level,0.207768910600047
-90,HUN,Masters or equivalent level,0.105385555716432
-91,BRA,Bachelors or equivalent level,11.1422326301895
-92,LVA,Short-cycle tertiary education,0.0196705464316263
-93,IRL,Masters or equivalent level,0.0447429447789555
-94,CHE,Doctoral or equivalent level,0.0332378044771678
-95,ISR,Short-cycle tertiary education,0.0779029583693704
-96,CHE,Short-cycle tertiary education,0.00551128655299938
-97,JPN,Doctoral or equivalent level,0.106490450006244
-98,NZL,Doctoral or equivalent level,0.0129921684786321
-99,SVN,Masters or equivalent level,0.028369940851887
-100,ITA,Short-cycle tertiary education,0.01763875394881
-101,USA,Masters or equivalent level,3.49568359573358
-102,FRA,Short-cycle tertiary education,0.665912404927801
-103,LUX,Masters or equivalent level,0.00334105266155513
-104,BEL,Bachelors or equivalent level,0.491382617294528
-105,NLD,Short-cycle tertiary education,0.0330004763480913
-106,MEX,Masters or equivalent level,0.406342674687984
-107,SVN,Bachelors or equivalent level,0.055165605114233
-108,BRA,Short-cycle tertiary education,0.00130926017873885
-109,GRC,Masters or equivalent level,0.102997771040001
-110,PRT,Bachelors or equivalent level,0.270527697355123
-111,SWE,Bachelors or equivalent level,0.317815327073621
-112,CHE,Masters or equivalent level,0.0923865666910686
-113,GBR,Short-cycle tertiary education,0.374774621269706
-114,LVA,Bachelors or equivalent level,0.0608667541704936
-115,HUN,Short-cycle tertiary education,0.01613303881878
-116,NOR,Doctoral or equivalent level,0.0112032061820181
-117,NOR,Short-cycle tertiary education,0.0113587879555238
-118,ESP,Masters or equivalent level,0.448199445719448
-119,POL,Doctoral or equivalent level,0.0544773535399111
-120,POL,Masters or equivalent level,0.612601914689183
-121,SVN,Short-cycle tertiary education,0.0136503228907183
-122,GBR,Masters or equivalent level,0.594099550048456
-123,POL,Short-cycle tertiary education,0.000308526567799487
-124,CAN,Bachelors or equivalent level,1.32515457093895
-125,RUS,Masters or equivalent level,1.59952171002668
-126,TUR,Short-cycle tertiary education,3.65057732598634
-127,IRL,Short-cycle tertiary education,0.0262010254500487
-128,PRT,Short-cycle tertiary education,0.0168463416956156
-129,LUX,Bachelors or equivalent level,0.00402139329824118
-130,DEU,Bachelors or equivalent level,2.10625711563492
-131,LTU,Bachelors or equivalent level,0.116644138461902
-132,SWE,Doctoral or equivalent level,0.0259505124249124
-133,EST,Bachelors or equivalent level,0.0378651531839944
-134,ISR,Doctoral or equivalent level,0.0152562432308028
-135,BEL,Masters or equivalent level,0.135520954150728
-136,ISL,Masters or equivalent level,0.00582904254804073
-137,LVA,Doctoral or equivalent level,0.00289540317473365
-138,LUX,Short-cycle tertiary education,0.00100996303818123
-139,IRL,Doctoral or equivalent level,0.0112295759741377
-140,EST,Masters or equivalent level,0.0192374225960616
-141,SVK,Short-cycle tertiary education,0.00348081255978908
-142,SVK,Doctoral or equivalent level,0.00921756083541117
-143,NLD,Masters or equivalent level,0.237349224910224
-144,NLD,Bachelors or equivalent level,0.881820351865567
-145,AUT,Short-cycle tertiary education,0.0805679146122812
-146,PRT,Masters or equivalent level,0.155837560489284
-147,NZL,Short-cycle tertiary education,0.0674319569311792
+0,Canada,Doctoral or equivalent level,0.0717764346957608
+1,Canada,Masters or equivalent level,0.272426330509205
+2,Canada,Bachelors or equivalent level,1.37846298356428
+3,Canada,Short-cycle tertiary education,0.523005786998065
+4,Spain,Doctoral or equivalent level,0.118420417590419
+5,Spain,Masters or equivalent level,0.451003615623959
+6,Spain,Bachelors or equivalent level,1.58885870163526
+7,Spain,Short-cycle tertiary education,0.560968694048648
+8,Sweden,Doctoral or equivalent level,0.0248246474442352
+9,Sweden,Masters or equivalent level,0.182455593914557
+10,Sweden,Bachelors or equivalent level,0.317560429918741
+11,Sweden,Short-cycle tertiary education,0.0391531591426959
+12,New Zealand,Doctoral or equivalent level,0.0130948294352378
+13,New Zealand,Masters or equivalent level,0.0273823536161253
+14,New Zealand,Bachelors or equivalent level,0.238703791708271
+15,New Zealand,Short-cycle tertiary education,0.0538110036919892
+16,Mexico,Doctoral or equivalent level,0.0600864063646213
+17,Mexico,Masters or equivalent level,0.411307885978918
+18,Mexico,Bachelors or equivalent level,5.4419671981492
+19,Mexico,Short-cycle tertiary education,0.226415193215685
+20,Denmark,Doctoral or equivalent level,0.0121519403781563
+21,Denmark,Masters or equivalent level,0.0905151886709248
+22,Denmark,Bachelors or equivalent level,0.254003346916465
+23,Denmark,Short-cycle tertiary education,0.0459589438418791
+24,Austria,Doctoral or equivalent level,0.0247399935801835
+25,Austria,Masters or equivalent level,0.141004234441527
+26,Austria,Bachelors or equivalent level,0.194401551530978
+27,Austria,Short-cycle tertiary education,0.0774044310990827
+28,Germany,Doctoral or equivalent level,0.263315963525388
+29,Germany,Masters or equivalent level,1.32208361710241
+30,Germany,Bachelors or equivalent level,2.07758183580611
+31,Germany,Short-cycle tertiary education,0.000628386975532442
+32,Finland,Doctoral or equivalent level,0.023887637979481
+33,Finland,Masters or equivalent level,0.0934823863966767
+34,Finland,Bachelors or equivalent level,0.268145162638408
+35,Israel,Doctoral or equivalent level,0.0156410726203113
+36,Israel,Masters or equivalent level,0.0829458333467882
+37,Israel,Bachelors or equivalent level,0.315575961816544
+38,Israel,Short-cycle tertiary education,0.0747801678376609
+39,Latvia,Doctoral or equivalent level,0.00277408195468273
+40,Latvia,Masters or equivalent level,0.0238015187842745
+41,Latvia,Bachelors or equivalent level,0.0591508387439687
+42,Latvia,Short-cycle tertiary education,0.0191236806810113
+43,Chile,Doctoral or equivalent level,0.00764631848308916
+44,Chile,Masters or equivalent level,0.126358040775476
+45,Chile,Bachelors or equivalent level,1.06551833242996
+46,Chile,Short-cycle tertiary education,0.44707110001012
+47,United Kingdom,Doctoral or equivalent level,0.14685280037148
+48,United Kingdom,Masters or equivalent level,0.633362316310055
+49,United Kingdom,Bachelors or equivalent level,2.2040994515358
+50,United Kingdom,Short-cycle tertiary education,0.432121223965045
+51,Ireland,Doctoral or equivalent level,0.011282919408345
+52,Ireland,Masters or equivalent level,0.0455831509900689
+53,Ireland,Bachelors or equivalent level,0.218493532092976
+54,Ireland,Short-cycle tertiary education,0.028030493203431
+55,United States,Doctoral or equivalent level,0.466088830593974
+56,United States,Masters or equivalent level,3.49528062814859
+57,United States,Bachelors or equivalent level,11.6691606310638
+58,United States,Short-cycle tertiary education,8.93420064993642
+59,Belgium,Doctoral or equivalent level,0.0222500684342662
+60,Belgium,Masters or equivalent level,0.135260634762167
+61,Belgium,Bachelors or equivalent level,0.491235632984605
+62,Belgium,Short-cycle tertiary education,0.0287403241457393
+63,Norway,Doctoral or equivalent level,0.0116861138222665
+64,Norway,Masters or equivalent level,0.0999178389839275
+65,Norway,Bachelors or equivalent level,0.255008070860541
+66,Norway,Short-cycle tertiary education,0.0118087684336212
+67,Switzerland,Doctoral or equivalent level,0.0332302658230974
+68,Switzerland,Masters or equivalent level,0.0942770316979005
+69,Switzerland,Bachelors or equivalent level,0.275491390956782
+70,Switzerland,Short-cycle tertiary education,0.00532764657618512
+71,Estonia,Doctoral or equivalent level,0.0031170359915572
+72,Estonia,Masters or equivalent level,0.0194218357735066
+73,Estonia,Bachelors or equivalent level,0.0368105200027986
+74,Luxembourg,Doctoral or equivalent level,0.00106866092233544
+75,Luxembourg,Masters or equivalent level,0.00329384261382505
+76,Luxembourg,Bachelors or equivalent level,0.00383578418507823
+77,Luxembourg,Short-cycle tertiary education,0.00106866092233544
+78,France,Doctoral or equivalent level,0.0872948527047174
+79,France,Masters or equivalent level,1.29967696831322
+80,France,Bachelors or equivalent level,1.41317554341396
+81,France,Short-cycle tertiary education,0.703870450130956
+82,Australia,Doctoral or equivalent level,0.0720439261354174
+83,Australia,Masters or equivalent level,0.380867360145996
+84,Australia,Bachelors or equivalent level,1.22080483386696
+85,Australia,Short-cycle tertiary education,0.181973773980248
+86,Czech Republic,Doctoral or equivalent level,0.0282327428285372
+87,Czech Republic,Masters or equivalent level,0.142071880201228
+88,Czech Republic,Bachelors or equivalent level,0.245087400540008
+89,Czech Republic,Short-cycle tertiary education,0.00129831210955283
+90,Greece,Masters or equivalent level,0.110271714953075
+91,Greece,Doctoral or equivalent level,0.0400206338815023
+92,Greece,Bachelors or equivalent level,0.885887283708808
+93,Hungary,Doctoral or equivalent level,0.00987108654147452
+94,Hungary,Masters or equivalent level,0.105011919864022
+95,Hungary,Bachelors or equivalent level,0.237786841491819
+96,Hungary,Short-cycle tertiary education,0.01459067940605
+97,Iceland,Doctoral or equivalent level,0.00075289053991154
+98,Iceland,Masters or equivalent level,0.00602312431929232
+99,Iceland,Bachelors or equivalent level,0.0162843569117782
+100,Iceland,Short-cycle tertiary education,0.00081421784558891
+101,Italy,Doctoral or equivalent level,0.0384665738589119
+102,Italy,Masters or equivalent level,0.949255353345314
+103,Italy,Bachelors or equivalent level,1.51880726051621
+104,Italy,Short-cycle tertiary education,0.0219316883792602
+105,Japan,Doctoral or equivalent level,0.103554417726966
+106,Japan,Masters or equivalent level,0.457690901615375
+107,Japan,Bachelors or equivalent level,3.51118397547307
+108,Japan,Short-cycle tertiary education,0.982193335839225
+109,Netherlands,Masters or equivalent level,0.241021530657227
+110,Netherlands,Bachelors or equivalent level,0.896388606178839
+111,Netherlands,Short-cycle tertiary education,0.0331389272827268
+112,Poland,Doctoral or equivalent level,0.051239616311588
+113,Poland,Masters or equivalent level,0.574023581140181
+114,Poland,Bachelors or equivalent level,1.24164306943436
+115,Poland,Short-cycle tertiary education,0.000289673656603747
+116,Portugal,Doctoral or equivalent level,0.0272332382296252
+117,Portugal,Masters or equivalent level,0.161293423604065
+118,Portugal,Bachelors or equivalent level,0.271767388182246
+119,Portugal,Short-cycle tertiary education,0.0201218804436323
+120,Slovak Republic,Doctoral or equivalent level,0.00883243685383226
+121,Slovak Republic,Masters or equivalent level,0.0709504733235528
+122,Slovak Republic,Bachelors or equivalent level,0.100702045594823
+123,Slovak Republic,Short-cycle tertiary education,0.00324773752831858
+124,Turkey,Doctoral or equivalent level,0.171035331352729
+125,Turkey,Masters or equivalent level,0.699855468863525
+126,Turkey,Bachelors or equivalent level,5.5827655581304
+127,Turkey,Short-cycle tertiary education,3.69194294686639
+128,Brazil,Doctoral or equivalent level,0.154565687687628
+129,Brazil,Masters or equivalent level,0.22824718336826
+130,Brazil,Bachelors or equivalent level,11.2265817966445
+131,Brazil,Short-cycle tertiary education,0.000915995076287523
+132,Colombia,Doctoral or equivalent level,0.00857538410450371
+133,Colombia,Masters or equivalent level,0.200460694551248
+134,Colombia,Bachelors or equivalent level,2.02520770087491
+135,Colombia,Short-cycle tertiary education,0.892470182796942
+136,Lithuania,Masters or equivalent level,0.0350609511393814
+137,Lithuania,Doctoral or equivalent level,0.0035491547115414
+138,Lithuania,Bachelors or equivalent level,0.107228836722445
+139,Russia,Doctoral or equivalent level,0.119876614891184
+140,Russia,Masters or equivalent level,1.64337215220099
+141,Russia,Bachelors or equivalent level,3.78692850467031
+142,Russia,Short-cycle tertiary education,1.88473033062129
+143,Slovenia,Doctoral or equivalent level,0.0040306393029233
+144,Slovenia,Masters or equivalent level,0.0273859040756731
+145,Slovenia,Bachelors or equivalent level,0.0539523709605933
+146,Slovenia,Short-cycle tertiary education,0.0137869002507891

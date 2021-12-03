@@ -27,8 +27,7 @@ DROP VIEW IF EXISTS NumEnroll CASCADE;
 CREATE VIEW NumEnroll AS
 SELECT EducationLevel.countryCode, eduLevel, sum(studentRate) as numEnroll
 FROM Institution JOIN EducationLevel ON Institution.uID = EducationLevel.uID
-        -- JOIN finalCountries ON EducationLevel.countryCode = finalCountries.countryCode
-WHERE Institution.year = 2018
+WHERE Institution.year = 2019
 GROUP BY EducationLevel.uID;
 
 DROP VIEW IF EXISTS totalNumEnroll CASCADE;
@@ -38,13 +37,13 @@ SELECT sum(numEnroll) as totalEnrollPop
 FROM NumEnroll;
 
 INSERT INTO EnrollRateInst 
-SELECT countryCode, eduLevel, (numEnroll * 100)/ (SELECT totalEnrollPop 
+SELECT Country.name, eduLevel, (numEnroll * 100)/ (SELECT totalEnrollPop 
                                                     FROM totalNumEnroll) as enrollRate
-FROM NumEnroll;
+FROM NumEnroll JOIN Country ON NumEnroll.countryCode = Country.code;
 
 INSERT INTO CountryEmploymentRates
-SELECT EducationLevel.countryCode, eduLevel, sum(rate)
-FROM EarnType JOIN EducationLevel ON EarnType.uID = EducationLevel.uID
-    -- JOIN finalCountries ON EducationLevel.countryCode = finalCountries.countryCode
-WHERE EarnType.year = 2018
-GROUP BY EducationLevel.uID;
+SELECT Country.name, eduLevel, sum(rate)
+FROM EarnType JOIN EducationLevel ON EarnType.uID = EducationLevel.uID 
+            JOIN Country ON EducationLevel.countryCode = Country.code
+WHERE EarnType.year = 2019
+GROUP BY Country.name, EducationLevel.eduLevel;
